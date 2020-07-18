@@ -22,7 +22,26 @@
           E8 4RP 
         </g-link>
       </p>
-             <h5 class=" mb-4 text-2xl text-pink-300">Reopens 18 July</h5>
+             <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+              <h5 class=" mb-4 text-base text-orange-300">
+        
+      Adults: £8.00 <br />
+<br />
+      Opening Times: <br />Wed To Sun<br />12.00pm To 10.00pm
+      <br />Book Online
+      <br />
+      </h5>
+
+       <article class="text-blue-200">
+The Country's only <br />Curiosity Museum.....
+<input id="read-more-viktor-1" class="read-more-viktor" type="checkbox">
+  <div class="read-more-content">
+    <br />
+Is dedicated to subverting life,<br /> the universe and everything bored<br /> of the life and world it sees around it<br /> seeks to create a new world<br /> filled with beauty,<br /> wonder and the imagination.
+
+  </div>
+ <label class="read-more-viktor-label text-red-700 hover:text-white" for="read-more-viktor-1">Read </label>
+</article>
 
       <g-link
         class  = "text-red-700 hover:text-white"
@@ -34,5 +53,41 @@
     </div>
   </div>
 </template>
+
+<style>
+
+
+.read-more-content {
+  max-height: 0;
+  overflow  : hidden;
+  transition: max-height .5s ease;
+}
+.read-more-viktor {
+  display: none;
+}
+.read-more-viktor-label {
+  display    : inline-block;
+  user-select: none;
+  cursor     : pointer;
+  border     : none;
+  padding    : 5px;
+  margin     : .5em;
+  font-size  : 16px;
+}
+.read-more-viktor-label:after {
+  content: "More";
+  display: inline-block;
+}
+.read-more-viktor:checked + .read-more-content {
+  display: block;
+  /* css animation won't work with "auto"; set to some height larger
+    than the content */
+  max-height: 1000px;
+}
+.read-more-viktor:checked + .read-more-content + .read-more-viktor-label:after {
+  content: "Less";
+}
+</style>
+
 
 

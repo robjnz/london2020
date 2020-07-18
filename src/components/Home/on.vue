@@ -22,61 +22,63 @@
       <!--Battersea Park Children’s Zoo-->
       <clink />
       <!--Clink Prison Museum-->
-      <crystalV />
-      <!--Crystal Palace Park-->
+      <down />
+      <!--Down House-->
     </div>
 
     <div class="grid sm:flex">
-      <down />
-      <!--Down House-->
       <eltham />
       <!--Eltham Palace-->
-    
+
       <hall />
       <!--Hall Place & Gardens-->
-      </div>
 
-    <div class="grid sm:flex">
       <hampstead />
       <!--Hampstead Heath-->
+    </div>
+
+    <div class="grid sm:flex">
       <jack />
       <!--Jack The Ripper Museum-->
       <kenwood />
       <!--kenwood house-->
-      </div>
 
-    <div class="grid sm:flex">
       <kew />
       <!--Kew Gardens -->
+    </div>
+
+    <div class="grid sm:flex">
       <zoo />
       <!--london zoo-->
       <marblehouse />
       <!--MARBLE HILL HOUSE -->
-      </div>
 
-    <div class="grid sm:flex">
       <morden />
       <!--MORDEN HALL PARK-->
+    </div>
+
+    <div class="grid sm:flex">
       <army /><!--National Army Museum-->
       <regentscanal />
       <!--Regent’s Canal-->
-      </div>
 
-    <div class="grid sm:flex">
       <regentspark />
       <!--Regent’s Park-->
+    </div>
+
+    <div class="grid sm:flex">
       <airforce /><!--Royal Air Force Museum-->
       <stephens />
       <!--Stephens house-->
-      </div>
+
+      <national /><!--the national Gallery-->
+    </div>
 
     <div class="grid sm:flex">
-      <national /><!--the national Gallery-->
-
       <towerbridge />
       <!--Tower Bridge-->
-       <tower /><!--Tower Of London-->
-
+      <tower /><!--Tower Of London-->
+      <viktor /><!--Viktor Wyne Museum-->
     </div>
 
     <div class="grid sm:flex">
