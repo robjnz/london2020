@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-      Tuesday 21 July 2020
+      Wednesday 22 July 2020
     </h3>
     <h1 class="text-red-500 text-2xl">
       <span class="text-pink-300" style="font-size: 1em;">
