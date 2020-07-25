@@ -26,6 +26,26 @@
       </p>
       
       <h5 class=" mb-4 text-2xl text-pink-300">Reopens 31 July</h5>
+        <h5 class=" mb-4 text-base text-orange-300">
+        Weekdays<br />
+      Adults: £16.00<br />
+      Concession £12.00<br />
+      Children: £8.00 <br /> 
+      Family: £36.00<br />
+<br />
+      Weekends<br />
+      Adults: £18.00<br />
+      Concession £13.50<br />
+      Children: £9.00 <br />
+      Family: £41.00
+<br /><br />
+   
+      Opening Times: <br />Mon To Sun<br />
+      10.00am To 9.00pm  <br />Required To Book Online<br />
+
+      
+
+      </h5>
       
       <!--
       <p class="text-pink-300">

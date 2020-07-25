@@ -3,29 +3,39 @@
     <div class="p-6">
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
-        </span>  The Old Operating Theatre </H2>
-      <g-link href="https://bit.ly/3gj1G3V" target="_blank"
+        </span>  Charles Dickens Museum </H2>
+      <g-link href="https://bit.ly/3g0baAG" target="_blank"
         ><g-image
           class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1590225123/operating_w3iaif.jpg"
-          alt   = "The Old Operating Theatre"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1595667439/dickens_n2bu2f.jpg"
+          alt   = "Charles Dickens Museum"
       /></g-link>
       <p class="text-blue-200">
-        9a St Thomas Street<br />Southwark London 
+        48-49 Doughty Street<br />London 
 
 
 
         <g-link
           class  = "text-red-700 hover:text-white"
-          to     = "https://bit.ly/3e98wr1"
+          to     = "https://bit.ly/3jL8Yzt"
           target = "_blank"
         >
-          SE1 9RY
+          WC1N 2LX
         </g-link>
       </p>
       
       <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+        <h5 class=" mb-4 text-base text-orange-300">
+        
+      Adults: £9.50 <br />Concession £7.50 <br />Children: £4.50 
+<br /><br />
+   
+      Opening Times: <br />Fri To Sun<br />
+      10.00am To 5.00pm  <br />Required To Book Online<br />
+
       
+
+      </h5>
       <!--
       <p class="text-pink-300">
         <span>
@@ -36,19 +46,20 @@
       </p>
       -->
       <article class="text-blue-200">
-   Housed in the attic of the <br />early eighteenth-century church.......
-<input id="read-more-operating-1" class="read-more-operating" type="checkbox">
+   The Victorian family home<br /> of Charles Dickens.......
+
+<input id="read-more-dickens-1" class="read-more-dickens" type="checkbox">
 
   <div class="read-more-content">
 <br />
-   This atmospheric museum <br />offers a unique insight into<br /> the history of medicine and surgery.
 
+Uncover the private world behind<br />  the author where the he wrote <br />Oliver Twist, <br />Pickwick Papers<br /> and Nicholas Nickleby. 
 </div>
-<label class="read-more-operating-label text-red-700 hover:text-white" for="read-more-operating-1">Read </label>
+<label class="read-more-dickens-label text-red-700 hover:text-white" for="read-more-dickens-1">Read </label>
 </article>
       <g-link
         class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/3gj1G3V"
+        to     = "https://bit.ly/3g0baAG"
         target = "_blank"
       >
         More Info
@@ -65,10 +76,10 @@
   overflow  : hidden;
   transition: max-height .5s ease;
 }
-.read-more-operating {
+.read-more-dickens {
   display: none;
 }
-.read-more-operating-label {
+.read-more-dickens-label {
   display    : inline-block;
   user-select: none;
   cursor     : pointer;
@@ -77,17 +88,17 @@
   margin     : .5em;
   font-size  : 16px;
 }
-.read-more-operating-label:after {
+.read-more-dickens-label:after {
   content: "More";
   display: inline-block;
 }
-.read-more-operating:checked + .read-more-content {
+.read-more-dickens:checked + .read-more-content {
   display: block;
   /* css animation won't work with "auto"; set to some height larger
     than the content */
   max-height: 1000px;
 }
-.read-more-operating:checked + .read-more-content + .read-more-operating-label:after {
+.read-more-dickens:checked + .read-more-content + .read-more-dickens-label:after {
   content: "Less";
 }
 </style>

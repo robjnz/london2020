@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-      Friday 24 July 2020
+      Saturday 25 July 2020
     </h3>
     <h1 class="text-red-500 text-2xl">
       <span class="text-pink-300" style="font-size: 1em;">
@@ -20,21 +20,19 @@
     <div class="grid sm:flex">
       <batterseazoo />
       <!--Battersea Park Children’s Zoo-->
+      <dickens /><!--Charles Dickens-->
+
       <clink />
       <!--Clink Prison Museum-->
-      <down />
-      <!--Down House-->
     </div>
 
     <div class="grid sm:flex">
+      <down /><!--Down House-->
       <eltham />
       <!--Eltham Palace-->
 
       <hall />
       <!--Hall Place & Gardens-->
-
-      <hampstead />
-      <!--Hampstead Heath-->
     </div>
 
     <div class="grid sm:flex">
@@ -187,6 +185,7 @@ import towerbridge from "@/components/Visit/towerbridge";
 import airforce from "@/components/Visit/airforce";
 import army from "@/components/Visit/army";
 import national from "@/components/Visit/national";
+import dickens from "@/components/Visit/dickens";
 
 import book from "@/components/amazon/book";
 
@@ -290,6 +289,7 @@ export default {
     airforce,
     army,
     national,
+    dickens,
     book,
   },
 };
