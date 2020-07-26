@@ -26,7 +26,23 @@
         </g-link>
       </p>
       
-       <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+       <h5 class=" mb-4 text-2xl text-pink-300">Reopens 12 August</h5>
+       <h5 class=" mb-4 text-base text-orange-300">
+        
+      Adults: £14.00 <br />Concession: £12.00 <br />Young Persons 12 – 16: £9.00<br />Children: Under 12 Free 
+<br /><br />
+   
+      Opening Times: <br />
+      Wed 10.30am To 5.00pm<br />
+      Sat 10.30am to 5.00pm <br />
+      Sun 10.30am To 5.00pm <br />
+      Required To Book Online<br />
+
+      
+
+      </h5>
+
+
       <article class="text-blue-200">
  Discover the story<br /> of Phychoannalysis.....
   <input id="read-more-freud-1" class="read-more-freud" type="checkbox">
