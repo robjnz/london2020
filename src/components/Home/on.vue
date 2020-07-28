@@ -18,63 +18,45 @@
     <br />
 
     <div class="grid sm:flex">
-      <batterseazoo />
-      <!--Battersea Park Children’s Zoo-->
+      <batterseazoo /><!--Battersea Park Children’s Zoo-->
       <dickens /><!--Charles Dickens-->
-
-      <clink />
-      <!--Clink Prison Museum-->
+      <clink /><!--Clink Prison Museum-->
     </div>
 
     <div class="grid sm:flex">
       <down /><!--Down House-->
       <eltham />
       <!--Eltham Palace-->
-
-      <hall />
-      <!--Hall Place & Gardens-->
+      <hall /><!--Hall Place & Gardens-->
     </div>
 
     <div class="grid sm:flex">
-      <jack />
-      <!--Jack The Ripper Museum-->
-      <kenwood />
-      <!--kenwood house-->
-
-      <kew />
-      <!--Kew Gardens -->
+      <jack /><!--Jack The Ripper Museum-->
+      <kenwood /><!--kenwood house-->
+      <kew /><!--Kew Gardens -->
     </div>
 
     <div class="grid sm:flex">
-      <zoo />
-      <!--london zoo-->
+      <zoo /><!--london zoo-->
       <marblehouse />
       <!--MARBLE HILL HOUSE -->
-
-      <morden />
-      <!--MORDEN HALL PARK-->
-    </div>
-
-    <div class="grid sm:flex">
       <army /><!--National Army Museum-->
-      <regentscanal />
-      <!--Regent’s Canal-->
-
-      <regentspark />
-      <!--Regent’s Park-->
     </div>
 
     <div class="grid sm:flex">
+      <regentspark /><!--Regent’s Park-->
       <airforce /><!--Royal Air Force Museum-->
-      <stephens />
-      <!--Stephens house-->
+      <stephens /><!--Stephens house-->
+    </div>
 
+    <div class="grid sm:flex">
+      <britain /><!--Tate Brittain-->
+      <tate /><!--Tate Modern -->
       <national /><!--the national Gallery-->
     </div>
 
     <div class="grid sm:flex">
-      <towerbridge />
-      <!--Tower Bridge-->
+      <towerbridge /><!--Tower Bridge-->
       <tower /><!--Tower Of London-->
       <viktor /><!--Viktor Wyne Museum-->
     </div>
@@ -186,6 +168,8 @@ import airforce from "@/components/Visit/airforce";
 import army from "@/components/Visit/army";
 import national from "@/components/Visit/national";
 import dickens from "@/components/Visit/dickens";
+import tate from "@/components/Visit/tate";
+import britain from "@/components/Visit/britain";
 
 import book from "@/components/amazon/book";
 
@@ -290,6 +274,8 @@ export default {
     army,
     national,
     dickens,
+    tate,
+    britain,
     book,
   },
 };
