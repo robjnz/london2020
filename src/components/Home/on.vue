@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-     Wednesday 29 July 2020
+     Thursday 30 July 2020
     </h3>
     <h1 class="text-red-500 text-2xl">
       <span class="text-pink-300" style="font-size: 1em;">
@@ -32,7 +32,7 @@
 
     <div class="grid sm:flex">
       <jack /><!--Jack The Ripper Museum-->
-      <kenwood /><!--kenwood house-->
+      <kenpalace /><!--Kensington Palace-->
       <kew /><!--Kew Gardens -->
     </div>
 
@@ -170,6 +170,8 @@ import national from "@/components/Visit/national";
 import dickens from "@/components/Visit/dickens";
 import tate from "@/components/Visit/tate";
 import britain from "@/components/Visit/britain";
+import kenpalace from "@/components/Visit/kenpalace";
+
 
 import book from "@/components/amazon/book";
 
@@ -276,6 +278,7 @@ export default {
     dickens,
     tate,
     britain,
+    kenpalace,
     book,
   },
 };

@@ -27,7 +27,18 @@
         </g-link>
       </p>
 
-       <h5 class="text-2xl text-pink-300">Closed</h5>
+       <h5 class="text-2xl text-pink-300">Reopens 1 August</h5>
+        <h5 class=" mb-4 text-base text-orange-300">
+        
+      Standard Ticket Entry: From £28.50
+<br />Family Standard Entry From £26.50<br /><br />
+   
+      Opening Times: <br />Sat To Tues<br />
+      10.00am To 4.00pm  <br />Required To Book Online<br />
+
+      
+
+      </h5>
        <!--
      <h5 class=" mb-4 text-base text-orange-300">
         <br />

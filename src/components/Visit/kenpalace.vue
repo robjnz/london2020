@@ -23,7 +23,7 @@
           W8 4PX
         </g-link>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 30 July</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
        <h5 class=" mb-4 text-base text-orange-300">
         
       Adults: £17.00 <br />Concession £13.60 <br />Children: £8.50 
