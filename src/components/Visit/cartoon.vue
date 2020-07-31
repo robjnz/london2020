@@ -3,50 +3,39 @@
     <div class="p-6">
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
-        </span>  Design Museum</H2>
-      <g-link href="https://bit.ly/3f4lcAQ" target="_blank"
+        </span>  The Cartoon Museum </H2>
+      <g-link href="https://bit.ly/3fdpmFa" target="_blank"
         ><g-image
           class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1588233239/design_vpzeri.jpg"
-          alt   = " Design Museum"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1596125642/cartoon_dnjvmm.jpg"
+          alt   = "The cartoon Museum"
       /></g-link>
       <p class="text-blue-200">
-     
-      224 - 238 Kensington High Street<br />London
+        63 Wells Street<br />Fitzrovia London  
 
- 
+
 
         <g-link
           class  = "text-red-700 hover:text-white"
-          to     = "https://bit.ly/2yf3NVf"
+          to     = "https://bit.ly/310q5Vf"
           target = "_blank"
         >
-          W8 6AG
+          W1T 3PT
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
         <h5 class=" mb-4 text-base text-orange-300">
-        Weekdays<br />
-      Adults: £16.00<br />
-      Concession £12.00<br />
-      Children: £8.00 <br /> 
-      Family: £36.00<br />
-<br />
-      Weekends<br />
-      Adults: £18.00<br />
-      Concession £13.50<br />
-      Children: £9.00 <br />
-      Family: £41.00
+        
+      Adults: £8.50 <br />Concession £5.00 <br />Student: £3<br /> Children: Free 
 <br /><br />
    
-      Opening Times: <br />Mon To Sun<br />
-      10.00am To 9.00pm  <br />Required To Book Online<br />
-
-      
+      Opening Times: <br />
+      Mon Closed<br />
+      Tues To Sat 10.30am To 8.00pm<br />
+      Sun 12.00pm To 4.00pm
 
       </h5>
-      
       <!--
       <p class="text-pink-300">
         <span>
@@ -57,18 +46,19 @@
       </p>
       -->
       <article class="text-blue-200">
- The Design Museum devoted to <br />contemporary design......
-<input id="read-more-design-1" class="read-more-design" type="checkbox">
+          Holds Over 6000 Cartoons <br />and Comic Artworks.....
+<input id="read-more-cartoon-1" class="read-more-cartoon" type="checkbox">
 
   <div class="read-more-content">
 <br />
- in every form from<br /> covers product, industrial,<br /> graphic, fashion <br />and architectural design.
+  .....
+
 </div>
-<label class="read-more-design-label text-red-700 hover:text-white" for="read-more-design-1">Read </label>
+<label class="read-more-cartoon-label text-red-700 hover:text-white" for="read-more-cartoon-1">Read </label>
 </article>
       <g-link
         class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/3f4lcAQ"
+        to     = "https://bit.ly/3fdpmFa"
         target = "_blank"
       >
         More Info
@@ -85,10 +75,10 @@
   overflow  : hidden;
   transition: max-height .5s ease;
 }
-.read-more-design {
+.read-more-cartoon {
   display: none;
 }
-.read-more-design-label {
+.read-more-cartoon-label {
   display    : inline-block;
   user-select: none;
   cursor     : pointer;
@@ -97,17 +87,17 @@
   margin     : .5em;
   font-size  : 16px;
 }
-.read-more-design-label:after {
+.read-more-cartoon-label:after {
   content: "More";
   display: inline-block;
 }
-.read-more-design:checked + .read-more-content {
+.read-more-cartoon:checked + .read-more-content {
   display: block;
   /* css animation won't work with "auto"; set to some height larger
     than the content */
   max-height: 1000px;
 }
-.read-more-design:checked + .read-more-content + .read-more-design-label:after {
+.read-more-cartoon:checked + .read-more-content + .read-more-cartoon-label:after {
   content: "Less";
 }
 </style>

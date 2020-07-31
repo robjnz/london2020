@@ -165,36 +165,37 @@
         <thames /><!--Thames Barrier-->
         </div>
       <div class="grid sm:flex">
+        <cartoon /><!--The Cartoon Museum-->
         <national/><!--the national Gallery-->
         <operating /><!--The Old Operating Theatre-->
-        <totteridge /><!--Totteridge fields-->
-        </div>
+         </div>
       <div class="grid sm:flex">
+        <totteridge /><!--Totteridge fields-->
         <towerbridge /><!--Tower Bridge-->
         <tower /><!--Tower Of London-->
-        <trinity /><!--Trinity Buoy Wharf-->
-        </div>
+         </div>
       <div class="grid sm:flex">
+        <trinity /><!--Trinity Buoy Wharf-->
         <upminster /><!--Upminster Windmill-->
         <valence /><!--Valence House Museum-->
-        <valentines /><!--Valentines Mansion-->
-        </div>
+         </div>
       <div class="grid sm:flex">
+        <valentines /><!--Valentines Mansion-->
         <victoriaalbert /><!--Victoria & Albert Museum-->
         <victoria /><!--Victoria Park-->
-        <viktor /><!--Viktor Wyne Museum-->
-        </div>
+         </div>
       <div class="grid sm:flex">
+        <viktor /><!--Viktor Wyne Museum-->
         <wandsworthcommon /><!--Wandsworth Common-->
         <wanstead /><!--Wansted Park-->
-        <wellcome /><!--Wellcome Collection-->
-      </div>
+         </div>
       <div class="grid sm:flex">
+        <wellcome /><!--Wellcome Collection-->
         <westminster /> <!--Westminster Abbey-->
         <william /><!--William Morris Gallery-->
-        <wimbledoncommon /><!--Wimbledon Common-->
-        </div>
+         </div>
       <div class="grid sm:flex">
+        <wimbledoncommon /><!--Wimbledon Common-->
        <wimbledonmill /><!--Wimbledon Windmill-->
        </div>
 
@@ -322,6 +323,7 @@ import tussauds from "@/components/Visit/tussauds";
 import dickens from "@/components/Visit/dickens";
 import homes from "@/components/Visit/homes";
 import wellcome from "@/components/Visit/wellcome";
+import cartoon from "@/components/Visit/cartoon";
 
 import book from "@/components/amazon/book";
 
@@ -452,6 +454,7 @@ export default {
     dickens,
     homes,
     wellcome,
+    cartoon,
     date,
     book
   }

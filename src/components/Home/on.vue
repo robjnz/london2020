@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-     Thursday 30 July 2020
+     Friday 31 July 2020
     </h3>
     <h1 class="text-red-500 text-2xl">
       <span class="text-pink-300" style="font-size: 1em;">
@@ -24,9 +24,8 @@
     </div>
 
     <div class="grid sm:flex">
+      <design/><!--Design Museum-->
       <down /><!--Down House-->
-      <eltham />
-      <!--Eltham Palace-->
       <hall /><!--Hall Place & Gardens-->
     </div>
 
@@ -171,6 +170,7 @@ import dickens from "@/components/Visit/dickens";
 import tate from "@/components/Visit/tate";
 import britain from "@/components/Visit/britain";
 import kenpalace from "@/components/Visit/kenpalace";
+import design from "@/components/Visit/design";
 
 
 import book from "@/components/amazon/book";
@@ -279,6 +279,7 @@ export default {
     tate,
     britain,
     kenpalace,
+    design,
     book,
   },
 };
