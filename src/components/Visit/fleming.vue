@@ -3,37 +3,35 @@
     <div class="p-6">
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
-        </span>  Clink Prison Museum </H2>
-      <g-link href="https://bit.ly/2LQZOkS" target="_blank"
+        </span>  Fleming Museum </H2>
+      <g-link href="https://bit.ly/3jYa3E2" target="_blank"
         ><g-image
           class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1590226180/clink_fmnh59.jpg"
-          alt   = "clink Prison Museum"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1596219580/fleming_d7itie.jpg"
+          alt   = "Alexander Fleming Museum"
       /></g-link>
       <p class="text-blue-200">
-        1 clink Street <br />Southwark London 
+        St Mary's Hospital Praed Street<br /> London 
 
 
 
         <g-link
           class  = "text-red-700 hover:text-white"
-          to     = "https://bit.ly/3gfGKef"
+          to     = "https://bit.ly/33jYq4x"
           target = "_blank"
         >
-          SE1 9DG
+          W2 1NY
         </g-link>
       </p>
       
       <h5 class=" mb-4 text-2xl text-pink-300"></h5>
         <h5 class=" mb-4 text-base text-orange-300">
         
-      Adults: £8.50 <br />Concession £6.50 <br />Children: £6.50 
-<br />Family: £24.20<br /><br />
+      Adults: £4.00 <br />Concession £2.00 <br />Children: £2.00 
+<br /><br />
    
-      Opening Times: <br />Mon To Sun<br />
-      10am To 9pm  <br />Required To Book Online<br />
-
-      
+      Opening Times: <br />Mon To Thurs<br />
+      10.00am To 1.00pm 
 
       </h5>
       <!--
@@ -46,19 +44,19 @@
       </p>
       -->
       <article class="text-blue-200">
-   The clink Prison dates back to 1144 <br />making it one of England’s oldest.......
+The laboratory has been restored <br />to its 1928 condition..... 
+
 <input id="read-more-clink-1" class="read-more-clink" type="checkbox">
 
   <div class="read-more-content">
 <br />
-   and most notorious prisons.<br /><br />There are opportunities to view <br />archaeological artefacts, <br />experience the sights, sounds <br />and smells of the prison.
-
+Explore the story of Alexander Fleming,<br /> and the discovery and development<br /> of penicillin through displays and video.
 </div>
 <label class="read-more-clink-label text-red-700 hover:text-white" for="read-more-clink-1">Read </label>
 </article>
       <g-link
         class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/2LQZOkS"
+        to     = "https://bit.ly/3jYa3E2"
         target = "_blank"
       >
         More Info
