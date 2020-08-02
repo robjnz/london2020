@@ -4,7 +4,7 @@
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span>  Imperial War Museum</H2>
-      <g-link href="https://bit.ly/2ASSpQ0" target="_blank"
+      <g-link href="https://bit.ly/3hVAwQP" target="_blank"
         ><g-image
           class = "w-auto h-auto"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1590156939/war_gdlnus.jpg"
@@ -25,8 +25,17 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 1 August</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+       <h5 class=" mb-4 text-base text-orange-300">
+        
+      Admission free<br /><br />
+   
+      Opening Times: <br />Mon To Sun<br />
+      10.00am To 6.00pm  <br />Required To Book Online<br />
+
       
+
+      </h5>
       <!--
       <p class="text-pink-300">
         <span>
@@ -49,7 +58,7 @@
 </article>
       <g-link
         class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/2ASSpQ0"
+        to     = "https://bit.ly/3hVAwQP"
         target = "_blank"
       >
         More Info

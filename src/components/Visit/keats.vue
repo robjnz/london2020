@@ -4,7 +4,7 @@
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span> Keats House</H2>
-      <g-link href="https://bit.ly/2Y1UJNX" target="_blank"
+      <g-link href="https://bit.ly/2Pjs2Xw" target="_blank"
         ><g-image
           class = "w-auto h-auto"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1587741322/keats_au8ir2.jpg"
@@ -23,8 +23,19 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
       
+       <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+        <h5 class=" mb-4 text-base text-orange-300">
+        
+      Adults: £7.50 <br />Concession £4.50 <br />Children: Free 
+<br /><br />
+   
+      Opening Times: <br />Mon To Sun<br />
+      11.00am To 4.30pm  <br />Required To Book Online<br />
+
+      
+
+      </h5>
       <!--
       <p class="text-pink-300">
         <span>
@@ -47,7 +58,7 @@ Built in 1815 and originally<br /> named Wentworth Place.
 </article>
       <g-link
         class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/2Y1UJNX"
+        to     = "https://bit.ly/2Pjs2Xw"
         target = "_blank"
       >
         More Info

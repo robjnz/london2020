@@ -2,7 +2,7 @@
   <Layout>
     
     <div id="background" class="container m-auto">
-      <h1 class="ml-6 mt-16 mb-16 text-4xl text-red-600">
+      <h1 class="ml-6 mt-16 mb-16 text-4xl text-pink-300">
         Top 21 Things To Do In London Today
       </h1>
     

@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-     Saturday 1 August 2020
+     Sunday 2 August 2020
     </h3>
     <h1 class="text-red-500 text-2xl">
       <span class="text-pink-300" style="font-size: 1em;">
@@ -20,13 +20,14 @@
     <div class="grid sm:flex">
       <batterseazoo /><!--Battersea Park Children’s Zoo-->
       <dickens /><!--Charles Dickens-->
-      <clink /><!--Clink Prison Museum-->
-    </div>
+      <warrooms /><!--churchils War rooms-->
+</div>
 
     <div class="grid sm:flex">
+      <clink /><!--Clink Prison Museum-->
       <design/><!--Design Museum-->
-      <down /><!--Down House-->
-      <hall /><!--Hall Place & Gardens-->
+      <war /><!--Imperial War Museum-->
+
     </div>
 
     <div class="grid sm:flex">
@@ -37,8 +38,7 @@
 
     <div class="grid sm:flex">
       <zoo /><!--london zoo-->
-      <marblehouse />
-      <!--MARBLE HILL HOUSE -->
+      <tussauds /><!--madame tussauds-->
       <army /><!--National Army Museum-->
     </div>
 
@@ -171,6 +171,9 @@ import tate from "@/components/Visit/tate";
 import britain from "@/components/Visit/britain";
 import kenpalace from "@/components/Visit/kenpalace";
 import design from "@/components/Visit/design";
+import warrooms from "@/components/Visit/warrooms";
+import war from "@/components/Visit/war";
+import tussauds from "@/components/Visit/tussauds";
 
 
 import book from "@/components/amazon/book";
@@ -280,6 +283,9 @@ export default {
     britain,
     kenpalace,
     design,
+    warrooms,
+    war,
+    tussauds,
     book,
   },
 };
