@@ -1,7 +1,7 @@
 <template>
   <Layout>
     <div id="background" class="container m-auto">
-      <h1 class="ml-8 mt-16 text-4xl text-red-600">
+      <h1 class="ml-8 mt-16 text-4xl text-pink-300">
         <span class="text-pink-300">
           <i class="fas fa-landmark"></i>
         </span>
@@ -11,192 +11,195 @@
 
       <div class="grid sm:flex">
         <alexandra /><!--alexandra palace-->
+        <apsley /><!--Apsley House-->
         <bankengland /><!--bank of england museum-->
-        <battersea /><!--Battersea Park-->
         </div>
       <div class="grid sm:flex">
+        <battersea /><!--Battersea Park-->
         <batterseazoo /><!--Battersea Park Children’s Zoo-->
         <bethune /><!--Bethune Nature reserve-->
-        <bexley /><!--bexleyWoods-->
         </div>
       <div class="grid sm:flex">
+        <bexley /><!--bexleyWoods-->
         <british /><!--British Museum-->
         <ashby /><!--Ashby’s Bixton windmill-->
-        <brockwell /><!--Brockwell Park-->
-         </div>
+        </div>
       <div class="grid sm:flex">
+        <brockwell /><!--Brockwell Park-->
         <mews /><!--THE ROYAL MEWS-->
         <gallery /><!--The Queens Gallery-->
-        <buckingham /><!--Buckingham Palace-->
-      </div>
+        </div>
       <div class="grid sm:flex">
+        <buckingham /><!--Buckingham Palace-->
         <carlyle /> <!--Carlyle's House -->
         <dickens /><!--Charles Dickens-->
-        <chingford /><!--Chingford Sky Trail-->
-         </div>
+        </div>
       <div class="grid sm:flex">
+        <chingford /><!--Chingford Sky Trail-->
         <chislehurst /><!--Chislehurst Caves-->
         <churchhouse /><!--Church House Gardens-->
-        <warrooms /><!--churchils War rooms-->
-         </div>
+        </div>
       <div class="grid sm:flex">
+        <warrooms /><!--churchils War rooms-->
         <clarence /><!--clarence House-->
         <clink /><!--Clink Prison Museum-->
-        <minster /><!--Croydon Minster-->
-         </div>
+        </div>
       <div class="grid sm:flex">
+        <minster /><!--Croydon Minster-->
         <crystalV /><!--Crystal Palace Park-->
         <deen /><!--DEEN CITY FARM-->
-        <demorgan /><!--De Morgan Center-->
-         </div>
+        </div>
       <div class="grid sm:flex">
+        <demorgan /><!--De Morgan Center-->
         <design/><!--Design Museum-->
         <down /><!--Down House-->
-        <docklands /><!--Docklands Museum-->
-         </div>
+        </div>
       <div class="grid sm:flex">
+        <docklands /><!--Docklands Museum-->
         <eastbury /><!--Eastbury Manor House-->
         <elizabeth /><!--Elizabeth's Hunting Lodge-->
-        <eltham /><!--Eltham Palace-->
-         </div>
+        </div>
       <div class="grid sm:flex">
+        <eltham /><!--Eltham Palace-->
         <epping /><!--Epping Forest-->
          <emery /><!--Emery Walker’s House-->
-        <fairlop /><!--Fairlop Waters Park-->
          </div>
       <div class="grid sm:flex">
+        <fairlop /><!--Fairlop Waters Park-->
         <fenton /><!--fenton house-->
         <fleming /><!--Alexander Fleming Laboratory Museum-->
-        <forty /><!--forty hall-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <forty /><!--forty hall-->
         <freud /><!--Freud Museum-->
         <geffrye /><!--Geffrye Museum-->
-        <hackney /><!--Hackney City Farm-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <hackney /><!--Hackney City Farm-->
         <hall /><!--Hall Place & Gardens-->
         <hampstead /><!--Hampstead Heath-->
-        <havering /><!--Havering Country Park-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <havering /><!--Havering Country Park-->
         <robinson /><!--HEATH ROBINSON MUSEUM-->
         <belfast /><!--HMS Belfast-->
-        <horniman /><!--Horniman Museam & Park-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <horniman /><!--Horniman Museam & Park-->
         <hospital /><!--Hospital Chapel Ilford-->
         <house /><!--House Mill-->
-        <war /><!--Imperial War Museum-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <war /><!--Imperial War Museum-->
         <jack /><!--Jack The Ripper Museum-->
         <jewish /><!--jewish museum-->
-        <keats /><!--Keats House -->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <keats /><!--Keats House -->
         <kenpalace /><!--Kensington Palace-->
         <kenwood /><!--kenwood house-->
-        <kew /><!--Kew Gardens -->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <kew /><!--Kew Gardens -->
         <lee /><!--Lee Valley-->
         <canal /><!--London canal museum-->
-        <mithraeum /><!--London Mithraeum-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <mithraeum /><!--London Mithraeum-->
         <zoo /><!--london zoo-->
         <tussauds /><!--madame tussauds-->
-        <marblehouse /><!--MARBLE HILL HOUSE -->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <marblehouse /><!--MARBLE HILL HOUSE -->
         <markfield /><!--Markfield -->
         <mayesbrook /><!--Mayesbrook Park-->
-        <morden /><!--MORDEN HALL PARK-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <morden /><!--MORDEN HALL PARK-->
         <mudchute /><!--mudchute-->
         <museumlondon /><!--museum of london-->
-        <army /><!--National Army Museum-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <army /><!--National Army Museum-->
         <natural /><!-- Natural History Museum-->
         <newham /><!--Newham City Farm-->
-        <queen /><!--Queen Elizabeth Olympic Park-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <queen /><!--Queen Elizabeth Olympic Park-->
         <pitzhanger /><!--Pitzhanger Manor House-->
         <ragged /><!--Ragged School Museum-->
-        <rainham /><!--Rainham Hall-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <rainham /><!--Rainham Hall-->
         <ranger /><!--Ranger’s House-->
         <red /><!--Red house-->
-        <regentscanal /><!--Regent’s Canal-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <regentscanal /><!--Regent’s Canal-->
         <regentspark /><!--Regent’s Park-->
         <roundwood /><!--Roundwood Park-->
-        <airforce /><!--Royal Air Force Museum-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <airforce /><!--Royal Air Force Museum-->
         <greenwich /><!--Royal Museums Greenwich-->
         <ruislip /><!--Ruislip Woods -->
-        <saatchi /> <!--Saatchi Gallery-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <saatchi /> <!--Saatchi Gallery-->
         <science /><!--Science Museum-->
         <serpentine /><!--Serpentine Galleries-->
-        <severndroog /><!--Severndroog Castle-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <severndroog /><!--Severndroog Castle-->
         <homes /><!--Sherlock Holmes Museum-->
         <shirley/><!--Shirley Windmill-->
-        <southwarkcath /><!--Southwark Cathedral-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <southwarkcath /><!--Southwark Cathedral-->
         <antioch /><!--St. Margaret of Antioch-->
         <pauls /><!--St. Pauls Cathedral-->
-        <stephens /><!--Stephens house-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <stephens /><!--Stephens house-->
         <sutton /><!--Sutton House-->
         <britain /><!--Tate Brittain-->
-        <tate /><!--Tate Modern -->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <tate /><!--Tate Modern -->
         <thames /><!--Thames Barrier-->
         <cartoon /><!--The Cartoon Museum-->
-        <national/><!--the national Gallery-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <national/><!--the national Gallery-->
         <operating /><!--The Old Operating Theatre-->
         <totteridge /><!--Totteridge fields-->
-        <towerbridge /><!--Tower Bridge-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <towerbridge /><!--Tower Bridge-->
         <tower /><!--Tower Of London-->
         <trinity /><!--Trinity Buoy Wharf-->
-        <upminster /><!--Upminster Windmill-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <upminster /><!--Upminster Windmill-->
         <valence /><!--Valence House Museum-->
         <valentines /><!--Valentines Mansion-->
-        <victoriaalbert /><!--Victoria & Albert Museum-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <victoriaalbert /><!--Victoria & Albert Museum-->
         <victoria /><!--Victoria Park-->
         <viktor /><!--Viktor Wyne Museum-->
-        <wandsworthcommon /><!--Wandsworth Common-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <wandsworthcommon /><!--Wandsworth Common-->
         <wanstead /><!--Wansted Park-->
         <wellcome /><!--Wellcome Collection-->
-        <westminster /> <!--Westminster Abbey-->
-          </div>
+        </div>
       <div class="grid sm:flex">
+        <westminster /> <!--Westminster Abbey-->
         <william /><!--William Morris Gallery-->
         <wimbledoncommon /><!--Wimbledon Common-->
+        </div>
+      <div class="grid sm:flex">
        <wimbledonmill /><!--Wimbledon Windmill-->
        </div>
 
@@ -326,6 +329,7 @@ import homes from "@/components/Visit/homes";
 import wellcome from "@/components/Visit/wellcome";
 import cartoon from "@/components/Visit/cartoon";
 import fleming from "@/components/Visit/fleming";
+import apsley from "@/components/Visit/apsley";
 
 import book from "@/components/amazon/book";
 
@@ -458,6 +462,7 @@ export default {
     wellcome,
     cartoon,
     fleming,
+    apsley,
     date,
     book
   }
