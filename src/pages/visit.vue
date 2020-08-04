@@ -5,7 +5,7 @@
         <span class="text-pink-300">
           <i class="fas fa-landmark"></i>
         </span>
-        Places to Visit
+        Places to Visit In London
       </h1>
       
 

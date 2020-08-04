@@ -23,11 +23,15 @@
           W2 3XA
         </g-link>
       </p>
-            <h5 class=" mb-4 text-2xl text-pink-300">Reopens 4 August</h5>
+            <h5 class=" mb-4 text-2xl text-pink-300"></h5>
 
         <h5 class=" mb-4 text-base text-orange-300">
-     
-      Admission free<br />
+      
+  
+      Admission free<br /><br />
+
+      Opening Times: <br />Tues To Sun<br />
+      10.00am to 6.00pm<br />
       Required To Book Online
 <br />
          </h5>
