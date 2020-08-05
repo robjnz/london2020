@@ -1,11 +1,11 @@
 <template>
   <Layout>
     <div id="background" class="container m-auto">
-      <h1 class="ml-8 mt-16 text-4xl text-red-600">
+      <h1 class="ml-8 mt-16 text-4xl text-pink-300">
         <span class="text-pink-300">
           <i class="fas fa-glass-cheers"></i>
         </span>
-        Nightclubs
+        London Nightclubs
       </h1>
       <!--<date class="ml-8" />-->
       <br />

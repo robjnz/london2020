@@ -3,37 +3,36 @@
     <div class="p-6">
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
-        </span> Museum Of London</H2>
-      <g-link href="https://bit.ly/2yaS7mj" target="_blank"
+        </span>  London Transport Museum </H2>
+      <g-link href="https://bit.ly/3i9rRu3" target="_blank"
         ><g-image
           class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1586877920/museumlondon_izr74x.jpg"
-          alt   = "museum of london"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1596637462/transport_g5w9qg.jpg"
+          alt   = "London Transport Museum"
       /></g-link>
       <p class="text-blue-200">
-       150 London Wall<br /> London 
+        Covent Garden Piazza <br />London
+
+
 
 
         <g-link
           class  = "text-red-700 hover:text-white"
-          to     = "https://bit.ly/3acQbGV"
+          to     = "https://bit.ly/30zw9Fn"
           target = "_blank"
         >
-          EC2Y 5HN
+          WC2E 7BB 
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 19 August </h5>
         <h5 class=" mb-4 text-base text-orange-300">
         
-     Admission free<br /><br />
+      Adults: £15.00 <br />Children: £7.50 
+      <br /><br />
    
-      Opening Times: <br />Mon To Fri<br />
-      11.30am To 3.30pm  <br /><br />
-      
-       Sat To Sun <br />
-       10.00am To 6.00pm<br /><br />
-      Required To Book Online<br />
+      Opening Times: <br />Wed & Sun<br />
+      11.00am To 6.00pm  <br />Required To Book Online<br />
 
       
 
@@ -48,18 +47,19 @@
       </p>
       -->
       <article class="text-blue-200">
-The Museum of London <br />tells the story.....
-<input id="read-more-museumlondon-1" class="read-more-museumlondon" type="checkbox">
+   Explore the story of London's <br />transport system.......
+<input id="read-more-transport-1" class="read-more-transport" type="checkbox">
 
   <div class="read-more-content">
 <br />
- of the capital from its <br />first settlers to modern times. 
- </div>
-<label class="read-more-museumlondon-label text-red-700 hover:text-white" for="read-more-museumlondon-1">Read </label>
+   Over the last 200 years.
+
+</div>
+<label class="read-more-transport-label text-red-700 hover:text-white" for="read-more-transport-1">Read </label>
 </article>
       <g-link
         class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/2yaS7mj"
+        to     = "https://bit.ly/3i9rRu3"
         target = "_blank"
       >
         More Info
@@ -76,10 +76,10 @@ The Museum of London <br />tells the story.....
   overflow  : hidden;
   transition: max-height .5s ease;
 }
-.read-more-museumlondon {
+.read-more-transport {
   display: none;
 }
-.read-more-museumlondon-label {
+.read-more-transport-label {
   display    : inline-block;
   user-select: none;
   cursor     : pointer;
@@ -88,17 +88,17 @@ The Museum of London <br />tells the story.....
   margin     : .5em;
   font-size  : 16px;
 }
-.read-more-museumlondon-label:after {
+.read-more-transport-label:after {
   content: "More";
   display: inline-block;
 }
-.read-more-museumlondon:checked + .read-more-content {
+.read-more-transport:checked + .read-more-content {
   display: block;
   /* css animation won't work with "auto"; set to some height larger
     than the content */
   max-height: 1000px;
 }
-.read-more-museumlondon:checked + .read-more-content + .read-more-museumlondon-label:after {
+.read-more-transport:checked + .read-more-content + .read-more-transport-label:after {
   content: "Less";
 }
 </style>

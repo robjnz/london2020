@@ -51,7 +51,7 @@
 
   <div class="read-more-content">
 <br />
-collection of paintings, <br />silver and porcelain <br />many of the items <br />were presented to the 1st Duke of Wellington<br /> after Waterloo.
+collection of paintings, <br />silver and porcelain <br />many of the items <br />were presented to <br />the 1st Duke of Wellington<br /> after Waterloo.
 </div>
 <label class="read-more-apsley-label text-red-700 hover:text-white" for="read-more-apsley-1">Read </label>
 </article>

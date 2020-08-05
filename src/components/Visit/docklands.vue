@@ -24,8 +24,21 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 6 August</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+       <h5 class=" mb-4 text-base text-orange-300">
+        
+     Admission free<br /><br />
+   
+      Opening Times: <br />Mon To Fri<br />
+      11.30am To 3.30pm  <br /><br />
       
+       Sat To Sun <br />
+       10.00am To 6.00pm<br /><br />
+      Required To Book Online<br />
+
+      
+
+      </h5>
       <!--
       <p class="text-pink-300">
         <span>
