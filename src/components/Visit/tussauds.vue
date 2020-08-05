@@ -29,7 +29,7 @@
 
        <h5 class="text-2xl text-pink-300"></h5>
         <h5 class=" mb-4 text-base text-orange-300">
-        
+        <br />
       Standard Ticket Entry: From £28.50
 <br />Family Standard Entry From £26.50<br /><br />
    

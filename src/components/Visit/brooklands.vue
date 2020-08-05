@@ -3,33 +3,35 @@
     <div class="p-6">
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
-        </span>  Natural History Museum</H2>
-      <g-link href="https://bit.ly/353O5s9" target="_blank"
+        </span>  Brooklands Museum </H2>
+      <g-link href="https://bit.ly/30s25es" target="_blank"
         ><g-image
           class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1587809602/natural_un1f4h.jpg"
-          alt   = " Natural History Museum"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1596617827/brooklands_fbu3mr.jpg"
+          alt   = "Brooklands Museum"
       /></g-link>
       <p class="text-blue-200">
-     
-      Cromwell Road<br />Kensington London
+        Brooklands Drive<br /> Weybridge Surrey 
+
+
 
         <g-link
           class  = "text-red-700 hover:text-white"
-          to     = "https://bit.ly/3eITo4C"
+          to     = "https://bit.ly/33tvqHm"
           target = "_blank"
         >
-          SW7 5BD
+          KT13 0SL
         </g-link>
       </p>
       
       <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-       <h5 class=" mb-4 text-base text-orange-300">
+        <h5 class=" mb-4 text-base text-orange-300">
         
-     Admission free<br /><br />
+      Adults: £16.30 <br />Concession £15.30 <br />Children: £8.95 
+<br />Family: £42.55<br /><br />
    
-      Opening Times: <br />Wed To Sun<br />
-      11.00am To 6.00pm  <br />Required To Book Online<br />
+      Opening Times: <br />Thurs To Sun<br />
+      10.00am To 5.00pm  <br />Required To Book Online<br />
 
       
 
@@ -44,18 +46,19 @@
       </p>
       -->
       <article class="text-blue-200">
-The Museum is a world-class <br />as a science research centre.......
-<input id="read-more-natural-1" class="read-more-natural" type="checkbox">
 
+Brooklands Museum celebrates the<br /> history of aviation and motor sport......
+<input id="read-more-brooklands-1" class="read-more-brooklands" type="checkbox">
+  
   <div class="read-more-content">
 <br />
-Housing over 80 million specimens<br /> spanning billions of years.
+Loch Ness Wellington Bomber, <br />Concorde, McLaren F1 racing Car <br />amd much more!
 </div>
-<label class="read-more-natural-label text-red-700 hover:text-white" for="read-more-natural-1">Read </label>
+<label class="read-more-brooklands-label text-red-700 hover:text-white" for="read-more-brooklands-1">Read </label>
 </article>
       <g-link
         class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/353O5s9"
+        to     = "https://bit.ly/30s25es"
         target = "_blank"
       >
         More Info
@@ -72,10 +75,10 @@ Housing over 80 million specimens<br /> spanning billions of years.
   overflow  : hidden;
   transition: max-height .5s ease;
 }
-.read-more-natural {
+.read-more-brooklands {
   display: none;
 }
-.read-more-natural-label {
+.read-more-brooklands-label {
   display    : inline-block;
   user-select: none;
   cursor     : pointer;
@@ -84,17 +87,17 @@ Housing over 80 million specimens<br /> spanning billions of years.
   margin     : .5em;
   font-size  : 16px;
 }
-.read-more-natural-label:after {
+.read-more-brooklands-label:after {
   content: "More";
   display: inline-block;
 }
-.read-more-natural:checked + .read-more-content {
+.read-more-brooklands:checked + .read-more-content {
   display: block;
   /* css animation won't work with "auto"; set to some height larger
     than the content */
   max-height: 1000px;
 }
-.read-more-natural:checked + .read-more-content + .read-more-natural-label:after {
+.read-more-brooklands:checked + .read-more-content + .read-more-brooklands-label:after {
   content: "Less";
 }
 </style>
