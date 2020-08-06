@@ -3,7 +3,7 @@
     
     <div id="background" class="container m-auto">
       <h1 class="ml-6 mt-16 mb-16 text-4xl text-pink-300">
-        Top 21 Things To Do In London Today
+        21 Things To Do In London Today
       </h1>
     
       
@@ -41,7 +41,7 @@ export default {
       {
         name   : "description",
         content: 
-          "Top 21 Things to do in London today, places of historical interest to visit for days out, London Zoo, Kew Gardens, theatres, nightclubs, Rugby & football matches, and much more!"
+          "21 Things to do in London today, places of historical interest to visit for days out, London Zoo, Kew Gardens, theatres, nightclubs, Rugby & football matches, and much more!"
       }
     ],
     script: [
