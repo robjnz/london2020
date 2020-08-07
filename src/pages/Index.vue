@@ -36,7 +36,7 @@ import date from "@/components/Home/date";
 
 export default {
   metaInfo: {
-    title: "Top 21 Things To Do Today",
+    title: "21 Things To Do Today",
     meta : [
       {
         name   : "description",
