@@ -11,8 +11,14 @@
       <br />
 
       <div class="grid sm:flex">
+        <adelphi /><!--Adelphi Theatre-->
+        <aldwych /><!--Aldwych Theatre-->
         <alex /><!--alexandra palace-->
+       </div>
+      
+      <div class="grid sm:flex">
         <almeida /><!--Almeida Theatre-->
+        <apollo /><!--Apollo Theatre-->
         <arts /><!--artsdepot-->
        </div>
       
@@ -76,6 +82,9 @@ import almeida from "@/components/Theatres/almeida";
 import hampsteadT from "@/components/Theatres/hampsteadT";
 import angel from "@/components/Theatres/angel";
 import shorditch from "@/components/Theatres/shorditch";
+import adelphi from "@/components/Theatres/adelphi";
+import aldwych from "@/components/Theatres/aldwych";
+import apollo from "@/components/Theatres/apollo";
 
 
 
@@ -111,6 +120,9 @@ export default {
     hampsteadT,
     angel,
     shorditch,
+    adelphi,
+    aldwych,
+    apollo,
     date,
   }
 };
