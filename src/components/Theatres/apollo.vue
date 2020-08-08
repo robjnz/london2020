@@ -23,14 +23,15 @@
         </g-link>
       </p>
       <h5 class="text-2xl text-pink-300">Closed</h5>
+      <!--
       <p class="text-orange-300">
           <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       <!-- Sun 15 - Sat 28 March-->
+        Sun 15 - Sat 28 March
       </p>
     
-<!--
+
 <article class="text-blue-200">
    Mary Poppins, a mystical nanny returns <br />to London....
   <input id="read-more-apollo-1" class="read-more-apollo" type="checkbox">

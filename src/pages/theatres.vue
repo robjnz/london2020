@@ -19,11 +19,17 @@
       <div class="grid sm:flex">
         <almeida /><!--Almeida Theatre-->
         <apollo /><!--Apollo Theatre-->
-        <arts /><!--artsdepot-->
+        <apollovic /><!--Apollo Victoria Theatre-->
        </div>
       
       <div class="grid sm:flex">
+        <arts /><!--artsdepot-->
+        <barbican /><!--Barbican Centre-->
         <barking /><!--Broadway Theatre Barking-->
+       </div>
+      
+      <div class="grid sm:flex">
+        <bloomsbury /><!--Bloomsbury Theatre-->
         <chickenshed /><!--chickenshed-->
         <greenwichT /><!--Greenwich Theatre-->
       </div>
@@ -85,6 +91,9 @@ import shorditch from "@/components/Theatres/shorditch";
 import adelphi from "@/components/Theatres/adelphi";
 import aldwych from "@/components/Theatres/aldwych";
 import apollo from "@/components/Theatres/apollo";
+import apollovic from "@/components/Theatres/apollovic";
+import barbican from "@/components/Theatres/barbican";
+import bloomsbury from "@/components/Theatres/bloomsbury";
 
 
 
@@ -123,6 +132,9 @@ export default {
     adelphi,
     aldwych,
     apollo,
+    apollovic,
+    barbican,
+    bloomsbury,
     date,
   }
 };

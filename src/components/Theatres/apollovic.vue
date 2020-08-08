@@ -3,57 +3,50 @@
     <div class="p-6">
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
           <i class="fas fa-theater-masks"></i>
-        </span>Aldwych Theatre</H2>
-      <g-link href="https://bit.ly/2Pzll3z" target="_blank"
+        </span>  Apollo Victoria Theatre</H2>
+      <g-link href="https://bit.ly/2XIb61o" target="_blank"
         ><g-image
        class = "w-auto h-auto"
-       src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1596875438/adelphi_l3dkbk.jpg"
-       alt   = "Aldwych Theatre poster"
+       src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1596899560/aplollovic_ewj4xw.jpg"
+       alt   = "apollo victoria Theatre"
       /></g-link>
        
       <p class="text-blue-200"> 
-      49 Aldwych<br /> London 
- 
- <g-link
+      17 Wilton Road <br />Pimlico London 
+
+        <g-link
           class  = "text-red-700 hover:text-white"
-          to     = "https://bit.ly/31vEHwb"
+          to     = "https://bit.ly/31wwpnI"
           target = "_blank"
         >
-          WC2B 4DF
+          SW1V 1LG  
         </g-link>
-        
-      
       </p>
-      <h5 class="text-2xl text-pink-300">The Tina Turner Musical</h5>
-      
+      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <!--
       <p class="text-orange-300">
-<!--
           <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-        -->
-        Mon: 7.30pm<br />
-        Tues: 7.00pm<br />
-        Wed – Sat: 7.30pm<br />
-        Thurs & Sat: 2.30pm<br />
+       Sun 15 - Sat 28 March
       </p>
     
-<!--
+
 <article class="text-blue-200">
    Mary Poppins, a mystical nanny returns <br />to London....
-  <input id="read-more-angel-1" class="read-more-angel" type="checkbox">
+  <input id="read-more-apollovic-1" class="read-more-apollovic" type="checkbox">
   <div class="read-more-content">
          To save the day in this musical dance <br />show suitable for all.
 
   </div>
-  <label class="read-more-angel-label text-red-700 hover:text-white" for="read-more-angel-1">Read </label>
+  <label class="read-more-apollovic-label text-red-700 hover:text-white" for="read-more-apollovic-1">Read </label>
 </article>
-    -->
+    --> 
 
 <br />
 <g-link
         class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/2Pzll3z"
+        to     = "https://bit.ly/2XIb61o"
         target = "_blank"
       >
         More Info
@@ -72,10 +65,10 @@
   overflow  : hidden;
   transition: max-height .5s ease;
 }
-.read-more-angel {
+.read-more-apollovic {
   display: none;
 }
-.read-more-angel-label {
+.read-more-apollovic-label {
   display    : inline-block;
   user-select: none;
   cursor     : pointer;
@@ -84,17 +77,17 @@
   margin     : .5em;
   font-size  : 16px;
 }
-.read-more-angel-label:after {
+.read-more-apollovic-label:after {
   content: "More";
   display: inline-block;
 }
-.read-more-angel:checked + .read-more-content {
+.read-more-apollovic:checked + .read-more-content {
   display: block;
   /* css animation won't work with "auto"; set to some height larger
     than the content */
   max-height: 1000px;
 }
-.read-more-angel:checked + .read-more-content + .read-more-angel-label:after {
+.read-more-apollovic:checked + .read-more-content + .read-more-apollovic-label:after {
   content: "Less";
 }
 </style>
