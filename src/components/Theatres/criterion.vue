@@ -3,51 +3,50 @@
     <div class="p-6">
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
           <i class="fas fa-theater-masks"></i>
-        </span>  Chickenshed Theatre</H2>
-      <g-link href="https://bit.ly/3dBMqhp" target="_blank"
+        </span>  Criterion Theatre</H2>
+      <g-link href="https://bit.ly/2F4nS3H" target="_blank"
         ><g-image
        class = "w-auto h-auto"
-       src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585494181/chickenshed_qadaqi.jpg"
-       alt   = "chickenshed theatre poster"
+       src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1596988822/criterion_psufzb.jpg"
+       alt   = "Criterion Theatre"
       /></g-link>
        
       <p class="text-blue-200"> 
-        Chase Side<br />
-        Southgate London
+      218-223 Piccadilly<br /> St. James's London 
 
         <g-link
           class  = "text-red-700 hover:text-white"
-          to     = "https://bit.ly/33ReoBk"
+          to     = "https://bit.ly/33UHzFN"
           target = "_blank"
         >
-          N14 4PE
+          W1V 9LB   
         </g-link>
       </p>
       <h5 class="text-2xl text-pink-300">Closed</h5>
       <!--
-      <p class="text-pink-300">
+      <p class="text-orange-300">
           <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-        Sun 15 - Sat 28 March
+       Sun 15 - Sat 28 March
       </p>
     
 
 <article class="text-blue-200">
    Mary Poppins, a mystical nanny returns <br />to London....
-  <input id="read-more-chickenshed-1" class="read-more-chickenshed" type="checkbox">
+  <input id="read-more-criterion-1" class="read-more-criterion" type="checkbox">
   <div class="read-more-content">
          To save the day in this musical dance <br />show suitable for all.
 
   </div>
-  <label class="read-more-chickenshed-label text-red-700 hover:text-white" for="read-more-chickenshed-1">Read </label>
+  <label class="read-more-criterion-label text-red-700 hover:text-white" for="read-more-criterion-1">Read </label>
 </article>
     --> 
 
 <br />
 <g-link
         class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/3dBMqhp"
+        to     = "https://bit.ly/2F4nS3H"
         target = "_blank"
       >
         More Info
@@ -66,10 +65,10 @@
   overflow  : hidden;
   transition: max-height .5s ease;
 }
-.read-more-chickenshed {
+.read-more-criterion {
   display: none;
 }
-.read-more-chickenshed-label {
+.read-more-criterion-label {
   display    : inline-block;
   user-select: none;
   cursor     : pointer;
@@ -78,17 +77,17 @@
   margin     : .5em;
   font-size  : 16px;
 }
-.read-more-chickenshed-label:after {
+.read-more-criterion-label:after {
   content: "More";
   display: inline-block;
 }
-.read-more-chickenshed:checked + .read-more-content {
+.read-more-criterion:checked + .read-more-content {
   display: block;
   /* css animation won't work with "auto"; set to some height larger
     than the content */
   max-height: 1000px;
 }
-.read-more-chickenshed:checked + .read-more-content + .read-more-chickenshed-label:after {
+.read-more-criterion:checked + .read-more-content + .read-more-criterion-label:after {
   content: "Less";
 }
 </style>
