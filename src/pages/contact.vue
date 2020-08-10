@@ -5,11 +5,11 @@
 
 <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
      <p>
-    <label>Your Name: <input class="text-black bg- bg-blue-200" type="text" name="name" /></label>   
+    <label>Name: <input class="text-black bg- bg-blue-200" type="text" name="name" /></label>   
   </p>
   <br />
   <p>
-    <label>Email: <input class="text-black bg- bg-blue-200" type="text" name="name" /></label>
+    <label>Email: <input class="text-black bg- bg-blue-200" type="text" name="email" /></label>
   </p>
   <br />
   <p>
@@ -20,6 +20,8 @@
     <button type="submit">Send</button>
   </p>
 </form>
+
+
 
 <br /><br />
 </section>
