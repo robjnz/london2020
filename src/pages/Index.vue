@@ -45,9 +45,7 @@ export default {
       }
     ],
     script: [
-      { scr: "https: //cdn.jsdelivr.net/npm/gsap@3.0.4/dist/gsap.min.js" },
       { src: "https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js" },
-      { src: "https://cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js" },
       { src: "https://kit.fontawesome.com/e3c70d4fc5.js" }
     ]
   },
