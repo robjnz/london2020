@@ -1,13 +1,19 @@
 <template>
 <Layout>
 <section>
-  <form name="contact" method="POST" data-netlify="true">
+  <br />
+  <form 
+  name="contact" 
+  method="POST" 
+  data-netlify="true"
+  data-netlify-honeypot="bot-field"
+  >
   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
+    <label>Name: <input type="text" name="name" /></label>   
   </p>
   <br />
   <p>
-    <label>Your Email: <input type="email" name="email" /></label>
+    <label>Email: <input type="email" name="email" /></label>
   </p>
   <br />
   <p>
