@@ -63,6 +63,13 @@
         > Rugby
           
         </g-link>
+
+          <g-link
+          to    = "/contact"
+          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
+        > Contact
+          
+        </g-link>
       </div>
 
       <div>

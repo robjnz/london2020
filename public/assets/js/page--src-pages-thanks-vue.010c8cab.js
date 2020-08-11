@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{x8Rr:function(n,t,e){"use strict";e.r(t);var s=e("KHd+"),u=Object(s.a)({},(function(){var n=this.$createElement,t=this._self._c||n;return t("Layout",[t("h1",[this._v("Thanks")])])}),[],!1,null,null,null);t.default=u.exports}}]);
