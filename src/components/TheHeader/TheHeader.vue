@@ -82,7 +82,21 @@
       <a href="#" class="m-1 inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Download</a>
     -->
       </div>
+      <!-- Begin FusionBot.com site search engine code -->
+      <div class="text-blue-200">
+<form name="fbsearch" method="get" action="https://ss245.fusionbot.com/b/q" style="margin:0;">
+  <div align="left"><font size="2" face="arial"><a href="https://www.fusionbot.com" target="_blank">Site Search</a>:</font><br />
+  <input class="text-black" type="text" name="keys" size="15">
+  <input class="text-blue-800" type="submit" value="GO"><br />
+  <font face="arial" size="1"><a href="https://ss245.fusionbot.com/b/h?sn=166039041">search tips</a></font> 
+  <font face="arial" size="1"><a href="https://ss245.fusionbot.com/b/s?sn=166039041">sitemap</a></font>
+  <input type="hidden" name="sitenbr" value="166039041">
+  </div>
+</form> 
+</div>
+<!-- End FusionBot.com site search engine code -->
     </div>
+
   </nav>
 </template>
 <script>
