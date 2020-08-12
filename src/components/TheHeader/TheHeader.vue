@@ -98,7 +98,7 @@
 		<input type="hidden" name="n" value="0">
 		<input type="hidden" name="_charset_" value="">
 		<input type="hidden" name="bcd" value="&#247;">
-		<input type="text" name="query" size="15"> 
+		<input class="text-black text-center" type="text" name="query" size="15"> 
 		<input class="text-blue-800" type="submit" value="search">
 		</form>
 	</td>
