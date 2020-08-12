@@ -1,193 +1,69 @@
 <template>
   <Layout>
-    <div id="background" class="m-4 p-4 w-auto rounded-lg">
-      <div class="p-6">
-        <h2 class="text-3xl text-blue-500">
-          <span>
-            <i class="fas fa-subway"></i>
-          </span>
-          Travel
-        </h2> 
-<div class="p-8 w-auto h-25 text-red-600 border-solid border-4 border-red-600 rounded-lg text-left">
-<h5 class="text-center text-red-700 text-2xl">central Line</h5>
-  <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Epping
-      </g-link>
----
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Theydon Bois
-      </g-link>
-      ---
-       <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Debden
-      </g-link>
----
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Buckhurst Hill
-      </g-link>
---- 
-   <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Woodford
-      </g-link>
----
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        South Woodford
-      </g-link>
-      -----
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        SnaresBrook
-      </g-link>
----  
-   <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Leytonstone
-      </g-link>
----
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Leyton
-      </g-link>
-      ---
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Stratford
-      </g-link>
-      ---
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Mile End
-      </g-link>
-      
-      <br />
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Hainault
-      </g-link>
-      -----
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Fairlop
-      </g-link>
-        -----
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Barkingside
-      </g-link>
-        -----
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Newbury Park
-      </g-link>
-        -----
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Gants Hill
-      </g-link>
-        -----
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Redbridge
-      </g-link>
-        -----
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-       Wanstead
-      </g-link>
+   <!-- start of freefind search box html -->
+<table cellpadding=0 cellspacing=0 border=0 >
+<tr>
+	<td  style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;">
+		<center><table width="90%" cellpadding=0 cellspacing=0 border=0  style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;" >
+		<tr>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;" align=left ><a href="https://search.freefind.com/siteindex.html?si=71946005">index</a></td>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;" align=center><a href="https://search.freefind.com/find.html?si=71946005&amp;m=0&amp;p=0">sitemap</a></td>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;" align=right><a href="https://search.freefind.com/find.html?si=71946005&amp;pid=a">advanced</a></td>
+		</tr>
+		</table></center>
+		<form style="margin:0px; margin-top:4px;" action="https://search.freefind.com/find.html" method="get" accept-charset="utf-8" target="_self">
+		<input type="hidden" name="si" value="71946005">
+		<input type="hidden" name="pid" value="r">
+		<input type="hidden" name="n" value="0">
+		<input type="hidden" name="_charset_" value="">
+		<input type="hidden" name="bcd" value="&#247;">
+		<input type="text" name="query" size="15"> 
+		<input type="submit" value="search">
+		</form>
+	</td>
+</tr>
+<tr>
+	<td style="text-align:center; font-family: Arial, Helvetica, sans-serif;	font-size: 7.5pt; padding-top:4px;">
+		<a style="text-decoration:none; color:gray;" href="https://www.freefind.com" rel="nofollow" >site search</a><a style="text-decoration:none; color:gray;" href="https://www.freefind.com"  rel="nofollow"> by
+		<span style="color: #606060;">freefind</span></a>
+	</td>
+</tr>
+</table>
+<!-- end of freefind search box html --> 
 
-       <br />
-        <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Roding Valley
-      </g-link>
-      -----
-       <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Chigwell
-      </g-link>
------
- <g-link
-        class  = "text-red-600 hover:text-white"
-        to     = "http://bit.ly/2TqiECK"
-        target = "_blank"
-      >
-        Grange Hill
-      </g-link>
 
-  
-  
-</div>
-        <g-link class="text-blue-500 text-2xl hover:text-white" to="/nightclubs"
-          >More Nightclubs</g-link
-        >
-      </div>
-    </div>
+<br />
+<table class="text-blue-200" cellpadding=0 cellspacing=0 border=0 >
+<tr>
+	<td  style="font-family: Arial, Helvetica, sans-serif; font-size: 15pt;">
+		<center><table width="90%" cellpadding=0 cellspacing=0 border=0  style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;" >
+		<tr>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 10.5pt;" align=left ><a href="https://search.freefind.com/siteindex.html?si=71946005">index</a></td>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 10.5pt;" align=center><a href="https://search.freefind.com/find.html?si=71946005&amp;m=0&amp;p=0">sitemap</a></td>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 10.5pt;" align=right><a href="https://search.freefind.com/find.html?si=71946005&amp;pid=a">advanced</a></td>
+		</tr>
+		</table></center>
+		<form style="margin:0px; margin-top:4px;" action="https://search.freefind.com/find.html" method="get" accept-charset="utf-8" target="_blank">
+		<input type="hidden" name="si" value="71946005">
+		<input type="hidden" name="pid" value="r">
+		<input type="hidden" name="n" value="0">
+		<input type="hidden" name="_charset_" value="">
+		<input type="hidden" name="bcd" value="&#247;">
+		<input type="text" name="query" size="15"> 
+		<input class="text-blue-800" type="submit" value="search">
+		</form>
+	</td>
+</tr>
+<tr>
+	<td style="text-align:center; font-family: Arial, Helvetica, sans-serif;	font-size: 7.5pt; padding-top:4px;">
+		<a style="text-decoration:none; color:gray;" href="https://www.freefind.com" rel="nofollow" >site search</a><a style="text-decoration:none; color:gray;" href="https://www.freefind.com"  rel="nofollow"> by
+		<span style="color: #606060;">freefind</span></a>
+	</td>
+</tr>
+</table>
+<!-- end of freefind search box html --> 
+
+
   </Layout>
 </template>
 

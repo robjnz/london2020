@@ -82,7 +82,38 @@
       <a href="#" class="m-1 inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Download</a>
     -->
       </div>
-      <!-- Begin FusionBot.com site search engine code -->
+      <table class="text-blue-200" cellpadding=0 cellspacing=0 border=0 >
+<tr>
+	<td  style="font-family: Arial, Helvetica, sans-serif; font-size: 15pt;">
+		<center><table width="90%" cellpadding=0 cellspacing=0 border=0  style="font-family: Arial, Helvetica, sans-serif; font-size: 7.5pt;" >
+		<tr>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 10.5pt;" align=left ><a href="https://search.freefind.com/siteindex.html?si=71946005" target="_blank">index</a></td>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 10.5pt;" align=center><a href="https://search.freefind.com/find.html?si=71946005&amp;m=0&amp;p=0" target="_blank">sitemap</a></td>
+			<td style="font-family: Arial, Helvetica, sans-serif; font-size: 10.5pt;" align=right><a href="https://search.freefind.com/find.html?si=71946005&amp;pid=a" target="_blank">advanced</a></td>
+		</tr>
+		</table></center>
+		<form style="margin:0px; margin-top:4px;" action="https://search.freefind.com/find.html" method="get" accept-charset="utf-8" target="_blank">
+		<input type="hidden" name="si" value="71946005">
+		<input type="hidden" name="pid" value="r">
+		<input type="hidden" name="n" value="0">
+		<input type="hidden" name="_charset_" value="">
+		<input type="hidden" name="bcd" value="&#247;">
+		<input type="text" name="query" size="15"> 
+		<input class="text-blue-800" type="submit" value="search">
+		</form>
+	</td>
+</tr>
+<tr>
+	<td style="text-align:center; font-family: Arial, Helvetica, sans-serif;	font-size: 7.5pt; padding-top:4px;">
+		<a style="text-decoration:none; color:gray;" href="https://www.freefind.com" rel="nofollow" >site search</a><a style="text-decoration:none; color:gray;" href="https://www.freefind.com"  rel="nofollow"> by
+		<span style="color: #606060;">freefind</span></a>
+	</td>
+</tr>
+</table>
+<!-- end of freefind search box html --> 
+
+<!--
+      Begin FusionBot.com site search engine code 
       <div class="text-blue-200">
 <form name="fbsearch" method="get" action="https://ss245.fusionbot.com/b/q" target="_blank" style="margin:0;">
   <div align="left"><font size="2" face="arial"><a href="https://www.fusionbot.com" target="_blank">Site Search</a>:</font><br />
@@ -94,7 +125,7 @@
   </div>
 </form> 
 </div>
-<!-- End FusionBot.com site search engine code -->
+End FusionBot.com site search engine code -->
     </div>
 
   </nav>
