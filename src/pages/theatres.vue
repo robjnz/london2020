@@ -36,7 +36,11 @@
 
       <div class="grid sm:flex">
         <criterion /><!--Criterion Theatre-->
+        <dominion /><!--Dominion Theatre-->
+        <donmar /><!--Donmar Warehouse-->
+         </div>
 
+      <div class="grid sm:flex">
         <greenwichT /><!--Greenwich Theatre-->
       </div>
 
@@ -105,6 +109,8 @@ import bloomsbury from "@/components/Theatres/bloomsbury";
 import cambridge from "@/components/Theatres/cambridge";
 import pinter from "@/components/Theatres/pinter";
 import criterion from "@/components/Theatres/criterion";
+import dominion from "@/components/Theatres/dominion";
+import donmar from "@/components/Theatres/donmar";
 
 import date from "@/components/Home/date";
 
@@ -147,6 +153,8 @@ export default {
     cambridge,
     pinter,
     criterion,
+    dominion,
+    donmar,
     date,
   },
 };

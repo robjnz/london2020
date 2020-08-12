@@ -84,7 +84,7 @@
       </div>
       <!-- Begin FusionBot.com site search engine code -->
       <div class="text-blue-200">
-<form name="fbsearch" method="get" action="https://ss245.fusionbot.com/b/q" style="margin:0;">
+<form name="fbsearch" method="get" action="https://ss245.fusionbot.com/b/q" target="_blank" style="margin:0;">
   <div align="left"><font size="2" face="arial"><a href="https://www.fusionbot.com" target="_blank">Site Search</a>:</font><br />
   <input class="text-black" type="text" name="keys" size="15">
   <input class="text-blue-800" type="submit" value="GO"><br />

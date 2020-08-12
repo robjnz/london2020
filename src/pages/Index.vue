@@ -13,12 +13,13 @@
           alt   = "tower of london"
       />
       
+     
       <!--<date class="ml-8"/>-->
     
         <br />
      <on />
-     
-    </div>
+     </div>
+    
     <br />
   </Layout>
 </template>
