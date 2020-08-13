@@ -23,7 +23,7 @@
 
  </p>
   <p>
-    <button type="submit">Send</button>
+    <button   class  = "text-blue-300 hover:text-white" type="submit">Send</button>
   </p>
 </form>
 <br /><br />
