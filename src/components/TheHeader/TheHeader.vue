@@ -89,7 +89,7 @@
       <div class="text-blue-200">
 <form name="fbsearch" method="get" action="https://ss245.fusionbot.com/b/q" target="_blank" style="margin:0;">
   <div align="left"><font size="2" face="arial"><a href="https://www.fusionbot.com" target="_blank">Site Search</a>:</font><br />
-  <input class="text-black" type="text" name="keys" size="15">
+  <input class="text-black text-center" type="text" name="keys" size="15">
   <input class="text-blue-800" type="submit" value="GO"><br />
   <font face="arial" size="1"><a href="https://ss245.fusionbot.com/b/h?sn=166039041">search tips</a></font> 
   <font face="arial" size="1"><a href="https://ss245.fusionbot.com/b/s?sn=166039041">sitemap</a></font>
