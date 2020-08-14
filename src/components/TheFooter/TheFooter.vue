@@ -1,16 +1,16 @@
 <template>
 <div class="p-2 bg-blue-800 w-full h-full flex justify-around">
-   <g-link href="https://kutt.it/londoneast3" target="_blank"
+   <g-link href="https://bit.ly/3fW92ZK" target="_blank"
       ><g-image
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_40,w_40/v1557874167/twitter_i92pn9.png"
-        alt = "twitter @londoneast3"
+        alt = "twitter @visitlondon247"
     /></g-link>
-    <g-link href="http://bit.ly/2MD267e" target="_blank"
+    <g-link href="https://bit.ly/30RFZ5s" target="_blank"
       ><g-image
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/ar_1:1,b_rgb:262c35,bo_5px_solid_rgb:ff0000,c_fill,g_auto,h_24,r_max,w_24/v1570786983/facebook_logo_nays1m.jpg"
-        alt = "facebook @londoneast.life"
+        alt = "facebook @visitlondon247"
     /></g-link>
-    <g-link href="http://bit.ly/33jlg95" target="_blank"
+    <g-link href="https://bit.ly/34b2NPR" target="_blank"
       ><g-image
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1570791420/instagram_txv2hp.jpg"
         alt = "instagram@londoneast.life"

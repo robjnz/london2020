@@ -5,7 +5,7 @@
     -->
       <g-image
         class = ""
-        src   = "@/images/logowhite_transparent.png" width = "70"
+        src   = "@/images/logomask_transparent.png" width = "95"
       ></g-image>
       <span class="font-semibold text-2xl tracking-tight"
         ><g-link class="hover:text-red-500" to="/">London</g-link>
