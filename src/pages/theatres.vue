@@ -41,6 +41,12 @@
          </div>
 
       <div class="grid sm:flex">
+        <duchess /><!--Duchess Theatre-->
+        <york /><!--Duke of York's Theatre-->
+        <fortune /><!--Fortune Theatre-->
+       </div>
+
+      <div class="grid sm:flex">
         <greenwichT /><!--Greenwich Theatre-->
       </div>
 
@@ -70,11 +76,17 @@
 
       <div class="grid sm:flex">
         <stratford /><!--Theatre Royal Stratford East-->
+        <dury /><!--Theatre Royal Dury lane-->
         <two /><!--The O2 arena-->
+        </div>
+
+      <div class="grid sm:flex">
         <yard /><!--The Yard -->
       </div>
 
-      <div class="grid sm:flex"><wilton /><!--Wilton's Music Hall --></div>
+      <div class="grid sm:flex">
+        <wilton /><!--Wilton's Music Hall -->
+      </div>
     </div>
     <br />
   </Layout>
@@ -111,6 +123,10 @@ import pinter from "@/components/Theatres/pinter";
 import criterion from "@/components/Theatres/criterion";
 import dominion from "@/components/Theatres/dominion";
 import donmar from "@/components/Theatres/donmar";
+import dury from "@/components/Theatres/dury";
+import duchess from "@/components/Theatres/duchess";
+import york from "@/components/Theatres/york";
+import fortune from "@/components/Theatres/fortune";
 
 import date from "@/components/Home/date";
 
@@ -155,6 +171,10 @@ export default {
     criterion,
     dominion,
     donmar,
+    dury,
+    duchess,
+    york,
+    fortune,
     date,
   },
 };
