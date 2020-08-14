@@ -2,8 +2,12 @@
   <Layout>
     
     <div id="background" class="container m-auto">
-      <h1 class="ml-6 mt-16 mb-16 text-4xl text-pink-300">
-        21 Things To Do In London Today
+      <h1 class="ml-6 mt-16 mb-16 text-2xl text-blue-100">
+        <!--
+        Things To Do In London Today, For memorable Days Out.
+        -->
+        Places to visit for memorable days out in London,
+        visit historical places of interest, museums or county houses, and for evening entertainment visit a London theatre.
       </h1>
     
       
@@ -37,12 +41,12 @@ import date from "@/components/Home/date";
 
 export default {
   metaInfo: {
-    title: "21 Things To Do Today",
+    title: "Places to visit Today",
     meta : [
       {
         name   : "description",
         content: 
-          "21 Things to do in London today, places of historical interest to visit for days out, London Zoo, Kew Gardens, theatres, nightclubs, Rugby & football matches, and much more!"
+          " Places to visit for memorable days out in London, visit historical places of interest, museums or county houses, and for evening entertainment visit a London theatre."
       }
     ],
     script: [

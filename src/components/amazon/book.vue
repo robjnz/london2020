@@ -1,6 +1,6 @@
 <template>
  <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
-     <h2 class="text-xl text-pink-300">Things You might need for a day out in London.</h2>
+     <h2 class="text-xl text-blue-100">Things You might need for a day out in London.</h2>
 <div class="p-4 m-4 w-full h-full flex justify-around">
     
     
