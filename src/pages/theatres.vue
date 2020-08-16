@@ -51,6 +51,8 @@
        </div>
 
       <div class="grid sm:flex">
+        <garrick /><!--Garrick Theatre-->
+        <gielgud /><!--Gielgud Theatre-->
         <greenwichT /><!--Greenwich Theatre-->
       </div>
 
@@ -75,6 +77,7 @@
          </div>
       
       <div class="grid sm:flex">
+        <globe /><!--Shakespeare's Globe-->
         <shorditch /><!--Shoreditch Town Hall-->
       </div>
 
@@ -131,6 +134,9 @@ import dury from "@/components/Theatres/dury";
 import duchess from "@/components/Theatres/duchess";
 import york from "@/components/Theatres/york";
 import fortune from "@/components/Theatres/fortune";
+import garrick from "@/components/Theatres/garrick";
+import gielgud from "@/components/Theatres/gielgud";
+import globe from "@/components/Theatres/globe";
 
 import date from "@/components/Home/date";
 
@@ -179,6 +185,9 @@ export default {
     duchess,
     york,
     fortune,
+    garrick,
+    gielgud,
+    globe,
     date,
   },
 };

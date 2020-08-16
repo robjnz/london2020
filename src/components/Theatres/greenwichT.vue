@@ -22,13 +22,14 @@
         </g-link>
       </p>
       <h5 class="text-2xl text-pink-300">Closed</h5>
+      <!--
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-        <!--Sun 22 March 1pm & 3 pm-->
+        Sun 22 March 1pm & 3 pm
       </p>
-<!--
+
       <article class="text-blue-200">
         The moonlight is beautiful, shining <br /> across the......
         <input
