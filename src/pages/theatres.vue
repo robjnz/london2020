@@ -1,12 +1,16 @@
 <template>
   <Layout>
     <div id="background" class="container m-auto">
-      <h1 class="ml-8 mt-16 text-4xl text-pink-300">
+      <h1 class="ml-8 mt-16 text-4xl text-blue-100">
         <span class="text-pink-300">
           <i class="fas fa-theater-masks"></i>
         </span>
         London Theatres
       </h1>
+      <p class="ml-8 text-blue-100 text-2xl">
+       A to z guide of whats on at London theatres.
+
+      </p>
       <!--<date class="ml-8" />-->
       <br />
 
@@ -136,7 +140,7 @@ export default {
     meta: [
       {
         name: "description",
-        content: "Whats on guide for Local Theatres In North And East London.",
+        content: "A to z guide of whats on at London theatres.",
       },
     ],
   },

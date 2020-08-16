@@ -2,13 +2,15 @@
   <Layout>
     
     <div id="background" class="container m-auto">
-      <h1 class="ml-6 mt-16 mb-16 text-2xl text-blue-100">
+      <h1 class="ml-6 mt-16 text-4xl text-blue-100">
         <!--
         Things To Do In London Today, For memorable Days Out.
         -->
-        Places to visit for memorable days out in London,
-        visit historical places of interest, museums or county houses, and for evening entertainment visit a London theatre.
-      </h1>
+        Places to visit for memorable days out in London.</h1>
+
+        <p class="ml-6 mb-16 text-2xl text-blue-100">
+           Visit historical places of interest, museums and county houses, and for evening entertainment visit a London theatre.
+      </p>
     
       
         <g-image

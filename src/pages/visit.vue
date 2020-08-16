@@ -1,13 +1,17 @@
 <template>
   <Layout>
     <div id="background" class="container m-auto">
-      <h1 class="ml-8 mt-16 text-4xl text-pink-300">
+      <h1 class="ml-8 mt-16 text-4xl text-blue-100">
         <span class="text-pink-300">
           <i class="fas fa-landmark"></i>
         </span>
         Places To Visit In London
       </h1>
-      
+      <p class="ml-8 text-blue-100 text-2xl">
+       A to z guide of whats on at London museums and country houses parks and gardens.
+
+      </p>
+      <br />
 
       <div class="grid sm:flex">
         <alexandra /><!--alexandra palace-->
@@ -346,7 +350,7 @@ export default {
       {
         name   : "description",
         content: 
-          "Places to visit Of Historical And Local Interest In London for Day Out."
+          " A to z guide of whats on at London museums and country houses parks and gardens."
       }
     ]
   },
