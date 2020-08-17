@@ -1,12 +1,12 @@
 <template>
   <div class="m-4 mt-10 p-4 w-auto rounded-lg">
-    <h3 class="text-xl text-blue-100">
+    <h2 class="text-xl text-blue-100">
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-    Monday 17 August 2020
-    </h3>
-    <h1 class="text-red-500 text-2xl">
+    Tuesday 18 August 2020
+    </h2>
+    <p class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">
         <i class="fas fa-virus"></i>
       </span>
@@ -14,7 +14,30 @@
         <i class="fas fa-hands-wash"></i>
         <i class="fas fa-people-arrows"></i>
       </span>
-    </h1>
+    </p>
+
+     <h1 class="text-orange-300 text-2xl">
+          Todays top place to vist in London is:</h1>
+          <p class="mb-10 text-orange-300 text-xl">
+           Kensington Palace open to visitors for a great day out. Adults: £17.00
+            Concession £13.60
+            Children: £8.50
+            Family: £42.50
+       <br />
+            Opening Times:
+            Wed To Sun
+            10.30am To 5.00pm
+            <br>
+            <g-link
+        class  = "text-red-700 hover:text-white"
+        to     = "https://bit.ly/2S3ZPW7"
+        target = "_blank"
+      >
+        More Info
+      </g-link>
+                  </p>
+
+
     <br />
 
     <div class="grid sm:flex">
