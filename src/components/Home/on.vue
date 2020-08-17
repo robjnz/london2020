@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-    Sunday 16 August 2020
+    Monday 17 August 2020
     </h3>
     <h1 class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">
