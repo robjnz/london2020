@@ -8,9 +8,19 @@
         -->
         Places to visit for memorable days out in London.</h1>
 
-        <p class="ml-6 mb-16 text-2xl text-blue-100">
-           Visit historical places of interest, museums and county houses, and for evening entertainment visit a London theatre.
-      </p>
+        <p class="ml-6 mb-5 text-2xl text-blue-100">
+           Visit historical places of interest, museums and county houses, and for evening entertainment visit a London theatre.</p>
+           <p class="ml-6 mb-10 text-orange-300 text-xl hover:text-blue-100">
+          Todays top place to vist in London is:<br />
+           Kensington Palace open to visitors for a great day out Adults: £17.00
+            Concession £13.60
+            Children: £8.50
+            Family: £42.50
+<br />
+            Opening Times:
+            Wed To Sun
+            10.30am To 5.00pm
+                  </p>
     
       
         <g-image
