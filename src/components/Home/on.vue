@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-    Tuesday 18 August 2020
+    Wednesday 19 August 2020
     </h2>
     <p class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">
@@ -17,7 +17,7 @@
     </p>
 
      <h1 class="text-orange-300 text-2xl">
-          Todays top place to vist in London is:</h1>
+          Todays top place to visit in London is:</h1>
           <p class="mb-10 text-orange-300 text-xl">
            Kensington Palace open to visitors for a great day out. Adults: £17.00
             Concession £13.60
