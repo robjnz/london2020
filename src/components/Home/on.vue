@@ -17,7 +17,8 @@
     </p>
 
      <h1 class="text-orange-300 text-2xl">
-          Todays top place to visit in London is:</h1>
+          Today's top place to visit in London is:</h1>
+          
           <p class="mb-10 text-orange-300 text-xl">
            Kensington Palace open to visitors for a great day out. Adults: £17.00
             Concession £13.60
@@ -28,6 +29,13 @@
             Wed To Sun
             10.30am To 5.00pm
             <br>
+
+             <g-image  class = "w-auto h-auto"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_100,w_200/v1587828374/kenpalace_dffnar.jpg"
+          alt   = "Kensington Palace">
+              </g-image>
+          
+      
             <g-link
         class  = "text-red-700 hover:text-white"
         to     = "https://bit.ly/2S3ZPW7"

@@ -5,7 +5,8 @@
            <i class="fas fa-landmark"></i>
         </span>  Kensington Palace</H2>
       <g-link href="https://bit.ly/2S3ZPW7" target="_blank"
-        ><g-image
+        >
+        <g-image
           class = "w-auto h-auto"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1587828374/kenpalace_dffnar.jpg"
           alt   = "Kensington Palace"
