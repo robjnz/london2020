@@ -63,15 +63,28 @@
       </div>
 
       <div class="grid sm:flex">
+        <her /><!-- Majesty's Theatre-->
         <hoxton /><!--Hoxton Hall-->
-
         <intimate /><!--Intimate Theatre-->
-        <ilford /><!--Kenneth More Theatre-->
-      </div>
+        </div>
 
       <div class="grid sm:flex">
+        <ilford /><!--Kenneth More Theatre-->
+       <leicester /><!--Leicester Square Theatre-->
         <angel /><!--Little Angel Theatre-->
+        </div>
 
+      <div class="grid sm:flex">
+        <coliseum /><!--London Coliseum-->
+       <lyceum /><!--Lyceum Theatre-->
+       <lyric /><!--Lyric Theatre-->
+       </div>
+      
+      <div class="grid sm:flex">
+      <hammersmith /><!--Lyric Hammersmith Theatre-->
+        </div>
+      
+      <div class="grid sm:flex">
         <hornchurch /><!--Queen's Theatre Hornchurch -->
         <rainbow /><!--Rainbow Theatre-->
          </div>
@@ -84,6 +97,11 @@
       <div class="grid sm:flex">
         <stratford /><!--Theatre Royal Stratford East-->
         <dury /><!--Theatre Royal Dury lane-->
+        <haymarket /><!--Theatre Royal Haymarket-->
+         </div>
+
+      <div class="grid sm:flex">
+        <palladium /><!--The London Palladium-->
         <two /><!--The O2 arena-->
         </div>
 
@@ -137,6 +155,14 @@ import fortune from "@/components/Theatres/fortune";
 import garrick from "@/components/Theatres/garrick";
 import gielgud from "@/components/Theatres/gielgud";
 import globe from "@/components/Theatres/globe";
+import haymarket from "@/components/Theatres/haymarket";
+import her from "@/components/Theatres/her";
+import leicester from "@/components/Theatres/leicester";
+import coliseum from "@/components/Theatres/coliseum";
+import palladium from "@/components/Theatres/palladium";
+import lyceum from "@/components/Theatres/lyceum";
+import lyric from "@/components/Theatres/lyric";
+import hammersmith from "@/components/Theatres/hammersmith";
 
 import date from "@/components/Home/date";
 
@@ -188,6 +214,15 @@ export default {
     garrick,
     gielgud,
     globe,
+    haymarket,
+    her,
+    leicester,
+    coliseum,
+    palladium,
+    lyceum,
+    lyric,
+    hammersmith,
+
     date,
   },
 };

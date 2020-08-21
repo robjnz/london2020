@@ -23,13 +23,14 @@
         </g-link>
       </p>
       <h5 class="text-2xl text-pink-300">Closed</h5>
+      <!--
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       <!-- Wed 1 - Sun 5 April-->
+       Wed 1 - Sun 5 April
       </p>
-<!--
+
       <article class="text-blue-200">
         Bugsy Malone, Dandy Dan and the rest <br />of the gangsters.....
         <input

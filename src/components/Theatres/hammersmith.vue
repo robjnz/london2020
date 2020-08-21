@@ -3,29 +3,29 @@
     <div class="p-6">
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
           <i class="fas fa-theater-masks"></i>
-        </span> Little Angel Theatre</H2>
-      <g-link href="https://bit.ly/2xz6yjA" target="_blank"
+        </span> Lyric Hammersmith</H2>
+      <g-link href="https://bit.ly/3l8yAqi" target="_blank"
         ><g-image
        class = "w-auto h-auto"
-       src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585563232/lttleangel_qzhqfy.jpg"
-       alt   = "little angel Theatre poster"
+       src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1598006582/hammersmith_ag8rle.jpg"
+       alt   = "Lyric Hammersmith"
       /></g-link>
-       
-      <p class="text-blue-200"> 
-      14 Dagmar Passage<br /> The Angel London 
- <g-link
+       <p class="text-blue-200"> 
+      Lyric Square King Street<br /> Hammersmith London 
+ 
+
+        <g-link
           class  = "text-red-700 hover:text-white"
-          to     = "https://bit.ly/39srlmh"
+          to     = "https://bit.ly/3l5Nlu7"
           target = "_blank"
         >
-          N1 2DN
+          W6 0QL
         </g-link>
-        
-      
+
       </p>
       <h5 class="text-2xl text-pink-300">Closed</h5>
       <!--
-      <p class="text-pink-300">
+      <p class="text-orange-300">
           <span>
           <i class="far fa-calendar-alt"></i>
         </span>
@@ -35,19 +35,19 @@
 
 <article class="text-blue-200">
    Mary Poppins, a mystical nanny returns <br />to London....
-  <input id="read-more-angel-1" class="read-more-angel" type="checkbox">
+  <input id="read-more-hammersmith-1" class="read-more-hammersmith" type="checkbox">
   <div class="read-more-content">
          To save the day in this musical dance <br />show suitable for all.
 
   </div>
-  <label class="read-more-angel-label text-red-700 hover:text-white" for="read-more-angel-1">Read </label>
+  <label class="read-more-hammersmith-label text-red-700 hover:text-white" for="read-more-hammersmith-1">Read </label>
 </article>
     --> 
 
 <br />
 <g-link
         class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/2xz6yjA"
+        to     = "https://bit.ly/3l8yAqi"
         target = "_blank"
       >
         More Info
@@ -66,10 +66,10 @@
   overflow  : hidden;
   transition: max-height .5s ease;
 }
-.read-more-angel {
+.read-more-hammersmith {
   display: none;
 }
-.read-more-angel-label {
+.read-more-hammersmith-label {
   display    : inline-block;
   user-select: none;
   cursor     : pointer;
@@ -78,17 +78,17 @@
   margin     : .5em;
   font-size  : 16px;
 }
-.read-more-angel-label:after {
+.read-more-hammersmith-label:after {
   content: "More";
   display: inline-block;
 }
-.read-more-angel:checked + .read-more-content {
+.read-more-hammersmith:checked + .read-more-content {
   display: block;
   /* css animation won't work with "auto"; set to some height larger
     than the content */
   max-height: 1000px;
 }
-.read-more-angel:checked + .read-more-content + .read-more-angel-label:after {
+.read-more-hammersmith:checked + .read-more-content + .read-more-hammersmith-label:after {
   content: "Less";
 }
 </style>

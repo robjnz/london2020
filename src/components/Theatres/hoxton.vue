@@ -22,13 +22,14 @@
         </g-link>
       </p>
       <h5 class="text-2xl text-pink-300">Closed</h5>
+      <!--
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-        <!--Sat 21 March 7.30 pm-->
+        Sat 21 March 7.30 pm
       </p>
-<!--
+
       <article class="text-blue-200">
         The Swing Time Dance Company <br />return to Hoxton Hall.....
         <input
