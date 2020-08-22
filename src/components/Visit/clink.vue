@@ -31,7 +31,7 @@
 <br />Family: £24.20<br /><br />
    
       Opening Times: <br />Mon To Sun<br />
-      10am To 9pm  <br />Required To Book Online<br />
+      10.00am To 9.00pm  <br />Required To Book Online<br />
 
       
 

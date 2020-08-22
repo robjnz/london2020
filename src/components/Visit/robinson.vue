@@ -24,8 +24,18 @@ Pinner London
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+       <h5 class=" mb-4 text-base text-orange-300">
+        
+      Adults: £6.00 <br />Concession £4.00 <br />Children: Free 
+     <br /><br />
+   
+      Opening Times: <br />Thurs To Sun<br />
+      11.00am To 4.00pm  <br />Required To Book Online<br />
+
       
+
+      </h5>
       <!--
       <p class="text-pink-300">
         <span>

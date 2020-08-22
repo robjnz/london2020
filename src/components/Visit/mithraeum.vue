@@ -23,7 +23,22 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 25 August</h5>
+       <h5 class=" mb-4 text-base text-orange-300">
+        
+      
+   
+      Opening Times: <br />Tues To Sat<br />
+      10.00am To 6.00pm  <br />
+      Sun <br /> 12.00pm – 5.00pm<br />
+      First Thursday of the month <br />10.00am – 8.00pm<br />
+      Required To Book Online<br />
+
+      
+
+
+
+      </h5>
       
       <!--
       <p class="text-pink-300">

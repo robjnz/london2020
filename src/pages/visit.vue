@@ -263,7 +263,7 @@ import william from "@/components/Visit/william";
 import alexandra from "@/components/Visit/north/alexandra";
 import bethune from "@/components/Visit/north/bethune";
 import canal from "@/components/Visit/north/canal";
-import forty from "@/components/Visit/north/forty";
+import forty from "@/components/Visit/forty";
 import jewish from "@/components/Visit/north/jewish";
 import markfield from "@/components/Visit/north/markfield";
 import stephens from "@/components/Visit/stephens";

@@ -23,7 +23,18 @@
           SE10 8QX
         </g-link>
       </p>
-            <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+            <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+             <h5 class=" mb-4 text-base text-orange-300">
+        
+      Adults: £10.00 <br />Concession £9.00 <br />Children: £6.00 
+<br />Family: £26.00<br /><br />
+   
+      Opening Times: <br />Sun To Thurs<br />
+      11.00am To 3.00pm  <br />Required To Book Online<br />
+
+      
+
+      </h5>
 
 
       <g-link

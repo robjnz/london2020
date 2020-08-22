@@ -24,7 +24,7 @@ King's Road<br />Chelsea London
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 3 September</h5>
       
       <!--
       <p class="text-pink-300">
