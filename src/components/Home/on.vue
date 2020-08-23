@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-    Saturday 21 August 2020
+    Sunday 22 August 2020
     </h2>
     <p class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">
@@ -56,41 +56,26 @@
 
     <div class="grid sm:flex">
       <clink /><!--Clink Prison Museum-->
-      <design/><!--Design Museum-->
       <war /><!--Imperial War Museum-->
-
-    </div>
-
-    <div class="grid sm:flex">
-      <jack /><!--Jack The Ripper Museum-->
       <kenpalace /><!--Kensington Palace-->
-      <kew /><!--Kew Gardens -->
-    </div>
+       </div>
 
     <div class="grid sm:flex">
+      <kew /><!--Kew Gardens -->
       <zoo /><!--london zoo-->
       <tussauds /><!--madame tussauds-->
-      <army /><!--National Army Museum-->
     </div>
 
     <div class="grid sm:flex">
-      <regentspark /><!--Regent’s Park-->
-      <airforce /><!--Royal Air Force Museum-->
-      <stephens /><!--Stephens house-->
-    </div>
-
-    <div class="grid sm:flex">
-      <britain /><!--Tate Brittain-->
       <tate /><!--Tate Modern -->
       <national /><!--the national Gallery-->
-    </div>
-
-    <div class="grid sm:flex">
-      <towerbridge /><!--Tower Bridge-->
       <tower /><!--Tower Of London-->
-      <viktor /><!--Viktor Wyne Museum-->
+     
     </div>
 
+     <div class="flex-grow">
+      <calendar />
+    </div>
 
     <div class="grid sm:flex">
       <book />
@@ -209,6 +194,8 @@ import tussauds from "@/components/Visit/tussauds";
 
 
 import book from "@/components/amazon/book";
+import calendar from "@/components/Home/calendar";
+
 
 export default {
   components: {
@@ -319,6 +306,7 @@ export default {
     war,
     tussauds,
     book,
+    calendar,
   },
 };
 </script>
