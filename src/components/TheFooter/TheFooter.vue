@@ -15,7 +15,7 @@
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1570791420/instagram_txv2hp.jpg"
         alt = "instagram@visitlondon247"
     /></g-link>
-    <g-link href="http://bit.ly/2CjQCRg" target="_blank"
+    <g-link href="https://bit.ly/2QA5McB" target="_blank"
       ><g-image
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_30,w_30/v1573108008/pintress_lo8wth.png"
         alt = "printress@visitlonson247"
