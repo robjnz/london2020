@@ -17,7 +17,7 @@
     </p>
 
      <h1 class="text-orange-300 text-2xl">
-          Today's top place to visit in London is:</h1>
+          Today's top pick of places to visit in London is:</h1>
           
           <p class="mb-10 text-orange-300 text-xl">
            Kensington Palace open to visitors for a great day out. Adults: £17.00
