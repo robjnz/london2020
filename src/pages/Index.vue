@@ -18,15 +18,14 @@
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_150,w_560/v1515831480/tower_vow6im.jpg"
           alt   = "tower of london"
       />
-      
-     
+       <a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a>     
       <!--<date class="ml-8"/>-->
     
         <br />
      <on />
 
      </div>
-    
+   
     <br />
   </Layout>
 </template>
@@ -54,7 +53,9 @@ export default {
     ],
     script: [
       { src: "https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js" },
-      { src: "https://kit.fontawesome.com/e3c70d4fc5.js" }
+      { src: "https://kit.fontawesome.com/e3c70d4fc5.js" },
+      { src: "//assets.pinterest.com/js/pinit.js"},
+     
     ]
   },
   components: {
