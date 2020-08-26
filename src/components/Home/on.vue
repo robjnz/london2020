@@ -16,33 +16,35 @@
       </span>
     </p>
 
-     <h1 class="text-orange-300 text-2xl">
+     <h1 class="text-orange-400 text-2xl">
           Today's top pick of places to visit in London is:</h1>
-          
+          <!--pick-->
           <p class="mb-10 text-orange-300 text-xl">
-           Kensington Palace open to visitors for a great day out. Adults: £17.00
-            Concession £13.60
-            Children: £8.50
-            Family: £42.50
-       <br />
-            Opening Times:
-            Wed To Sun
-            10.30am To 5.00pm
+        The London Eye Observation wheel giving passengers
+a bird's-eye view of Londons historic landmarks.
+        <br />Adults: £31.00 Children: £25.00
+          <br />
+          Opening Times:
+          Mon To Sun
+          10.00am To 6.00pm<br />
+          Required To Book Online
             <br>
 
              <g-image  class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_100,w_200/v1587828374/kenpalace_dffnar.jpg"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_100,w_200/v1598429442/eye_xftyp0.jpg"
           alt   = "Kensington Palace">
               </g-image>
           
       
             <g-link
         class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/2S3ZPW7"
+        to     = "https://bit.ly/31rwCJX"
         target = "_blank"
       >
         More Info
       </g-link>
+
+      <!--end pick -->
                   </p>
 
 
@@ -62,12 +64,12 @@
 
     <div class="grid sm:flex">
       <kew /><!--Kew Gardens -->
+      <eye /><!--London Eye-->
       <zoo /><!--london zoo-->
-      <tussauds /><!--madame tussauds-->
-    </div>
+      </div>
 
     <div class="grid sm:flex">
-      <tate /><!--Tate Modern -->
+      <tussauds /><!--madame tussauds-->
       <national /><!--the national Gallery-->
       <tower /><!--Tower Of London-->
      
@@ -191,6 +193,7 @@ import design from "@/components/Visit/design";
 import warrooms from "@/components/Visit/warrooms";
 import war from "@/components/Visit/war";
 import tussauds from "@/components/Visit/tussauds";
+import eye from "@/components/Visit/eye";
 
 
 import book from "@/components/amazon/book";
@@ -305,6 +308,7 @@ export default {
     warrooms,
     war,
     tussauds,
+    eye,
     book,
     calendar,
   },
