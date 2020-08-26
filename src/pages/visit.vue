@@ -155,8 +155,7 @@
         <ruislip /><!--Ruislip Woods -->
       </div>
       <div class="grid sm:flex">
-        <saatchi />
-        <!--Saatchi Gallery-->
+        <saatchi /><!--Saatchi Gallery-->
         <science /><!--Science Museum-->
         <serpentine /><!--Serpentine Galleries-->
       </div>
@@ -166,52 +165,53 @@
         <shirley /><!--Shirley Windmill-->
       </div>
       <div class="grid sm:flex">
+        <shreksadventure /><!--shreksadventure-->
         <southwarkcath /><!--Southwark Cathedral-->
         <antioch /><!--St. Margaret of Antioch-->
-        <pauls /><!--St. Pauls Cathedral-->
-      </div>
+        </div>
       <div class="grid sm:flex">
+        <pauls /><!--St. Pauls Cathedral-->
         <stephens /><!--Stephens house-->
         <sutton /><!--Sutton House-->
-        <britain /><!--Tate Brittain-->
-      </div>
+        </div>
       <div class="grid sm:flex">
+        <britain /><!--Tate Brittain-->
         <tate /><!--Tate Modern -->
         <thames /><!--Thames Barrier-->
-        <cartoon /><!--The Cartoon Museum-->
-      </div>
+        </div>
       <div class="grid sm:flex">
+        <cartoon /><!--The Cartoon Museum-->
+        <dungeon /><!--The London Dungeon-->
         <national /><!--the national Gallery-->
+        </div>
+      <div class="grid sm:flex">
         <operating /><!--The Old Operating Theatre-->
         <totteridge /><!--Totteridge fields-->
-      </div>
-      <div class="grid sm:flex">
         <towerbridge /><!--Tower Bridge-->
+        </div>
+      <div class="grid sm:flex">
         <tower /><!--Tower Of London-->
         <trinity /><!--Trinity Buoy Wharf-->
-      </div>
-      <div class="grid sm:flex">
         <upminster /><!--Upminster Windmill-->
+        </div>
+      <div class="grid sm:flex">
         <valence /><!--Valence House Museum-->
         <valentines /><!--Valentines Mansion-->
-      </div>
-      <div class="grid sm:flex">
         <victoriaalbert /><!--Victoria & Albert Museum-->
+        </div>
+      <div class="grid sm:flex">
         <victoria /><!--Victoria Park-->
         <viktor /><!--Viktor Wyne Museum-->
-      </div>
-      <div class="grid sm:flex">
         <wandsworthcommon /><!--Wandsworth Common-->
+        </div>
+      <div class="grid sm:flex">
         <wanstead /><!--Wansted Park-->
         <wellcome /><!--Wellcome Collection-->
-      </div>
+        <westminster /><!--Westminster Abbey-->
+        </div>
       <div class="grid sm:flex">
-        <westminster />
-        <!--Westminster Abbey-->
         <william /><!--William Morris Gallery-->
         <wimbledoncommon /><!--Wimbledon Common-->
-      </div>
-      <div class="grid sm:flex">
         <wimbledonmill /><!--Wimbledon Windmill-->
         </div>
 
@@ -344,6 +344,8 @@ import apsley from "@/components/Visit/apsley";
 import brooklands from "@/components/Visit/brooklands";
 import transport from "@/components/Visit/transport";
 import eye from "@/components/Visit/eye";
+import shreksadventure from "@/components/Visit/shreksadventure";
+import dungeon from "@/components/Visit/dungeon";
 
 import book from "@/components/amazon/book";
 
@@ -481,6 +483,8 @@ export default {
     transport,
     date,
     eye,
+    shreksadventure,
+    dungeon,
     book,
   },
 };

@@ -51,28 +51,27 @@ a bird's-eye view of Londons historic landmarks.
     <br />
 
     <div class="grid sm:flex">
-      <batterseazoo /><!--Battersea Park Children’s Zoo-->
       <dickens /><!--Charles Dickens-->
       <warrooms /><!--churchils War rooms-->
-</div>
-
-    <div class="grid sm:flex">
-      <clink /><!--Clink Prison Museum-->
-      <war /><!--Imperial War Museum-->
-      <kenpalace /><!--Kensington Palace-->
+       <clink /><!--Clink Prison Museum-->
        </div>
 
     <div class="grid sm:flex">
+      <war /><!--Imperial War Museum-->
+      <kenpalace /><!--Kensington Palace-->
       <kew /><!--Kew Gardens -->
-      <eye /><!--London Eye-->
-      <zoo /><!--london zoo-->
       </div>
 
     <div class="grid sm:flex">
+      <eye /><!--London Eye-->
+      <zoo /><!--london zoo-->
       <tussauds /><!--madame tussauds-->
-      <national /><!--the national Gallery-->
+      </div>
+
+    <div class="grid sm:flex">
+      <shreksadventure /><!--shreksadventure-->
+      <dungeon /><!--The London Dungeon-->
       <tower /><!--Tower Of London-->
-     
     </div>
 
      <div class="flex-grow">
@@ -194,6 +193,8 @@ import warrooms from "@/components/Visit/warrooms";
 import war from "@/components/Visit/war";
 import tussauds from "@/components/Visit/tussauds";
 import eye from "@/components/Visit/eye";
+import shreksadventure from "@/components/Visit/shreksadventure";
+import dungeon from "@/components/Visit/dungeon";
 
 
 import book from "@/components/amazon/book";
@@ -309,6 +310,9 @@ export default {
     war,
     tussauds,
     eye,
+    shreksadventure,
+    dungeon,
+
     book,
     calendar,
   },
