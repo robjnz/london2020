@@ -22,6 +22,7 @@
       <!--<date class="ml-8"/>-->
     
         <br />
+
      <on />
 
      </div>
@@ -55,6 +56,7 @@ export default {
       { src: "https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js" },
       { src: "https://kit.fontawesome.com/e3c70d4fc5.js" },
       { src: "//assets.pinterest.com/js/pinit.js"},
+     
      
     ]
   },
