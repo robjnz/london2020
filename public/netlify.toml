@@ -1,9 +1,5 @@
 [[plugins]]
 package = "netlify-plugin-checklinks"
-package = "netlify-plugin-algolia-index"
-
-[build]
-  publish = "public"
 
 [[plugins]]
   package = "netlify-plugin-submit-sitemap"
