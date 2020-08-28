@@ -22,13 +22,14 @@
         </g-link>
       </p>
       <h5 class="text-2xl text-pink-300">Closed</h5>
+      <!--
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       <!-- Sun 22 March 7.30pm-->
+       Sun 22 March 7.30pm
       </p>
-<!--
+
       <article class="text-blue-200">
 Once again we fuse together the best<br /> in musical talent.....<input
           id    = "read-more-hackney-1"

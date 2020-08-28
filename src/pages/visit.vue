@@ -347,6 +347,7 @@ import eye from "@/components/Visit/eye";
 import shreksadventure from "@/components/Visit/shreksadventure";
 import dungeon from "@/components/Visit/dungeon";
 
+
 import book from "@/components/amazon/book";
 
 import date from "@/components/Home/date";
@@ -485,6 +486,7 @@ export default {
     eye,
     shreksadventure,
     dungeon,
+   
     book,
   },
 };

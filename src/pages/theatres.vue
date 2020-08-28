@@ -8,8 +8,7 @@
         London Theatres
       </h1>
       <p class="ml-8 text-blue-100 text-2xl">
-       A to z guide of whats on at London theatres.
-
+        A to z guide of whats on at London theatres.
       </p>
       <!--<date class="ml-8" />-->
       <br />
@@ -22,73 +21,80 @@
 
       <div class="grid sm:flex">
         <almeida /><!--Almeida Theatre-->
+        <ambassadors /><!--Ambassadors Theatre-->
         <apollo /><!--Apollo Theatre-->
-        <apollovic /><!--Apollo Victoria Theatre-->
       </div>
 
       <div class="grid sm:flex">
+        <apollovic /><!--Apollo Victoria Theatre-->
         <arts /><!--artsdepot-->
         <barbican /><!--Barbican Centre-->
-        <barking /><!--Broadway Theatre Barking-->
       </div>
 
       <div class="grid sm:flex">
+        <barking /><!--Broadway Theatre Barking-->
         <bloomsbury /><!--Bloomsbury Theatre-->
         <cambridge /><!--Cambridge Theatre-->
-        <chickenshed /><!--chickenshed-->
       </div>
 
       <div class="grid sm:flex">
+        <chickenshed /><!--chickenshed-->
         <criterion /><!--Criterion Theatre-->
         <dominion /><!--Dominion Theatre-->
-        <donmar /><!--Donmar Warehouse-->
-         </div>
+      </div>
 
       <div class="grid sm:flex">
+        <donmar /><!--Donmar Warehouse-->
         <duchess /><!--Duchess Theatre-->
         <york /><!--Duke of York's Theatre-->
-        <fortune /><!--Fortune Theatre-->
-       </div>
+      </div>
 
       <div class="grid sm:flex">
+        <fortune /><!--Fortune Theatre-->
         <garrick /><!--Garrick Theatre-->
         <gielgud /><!--Gielgud Theatre-->
-        <greenwichT /><!--Greenwich Theatre-->
       </div>
 
       <div class="grid sm:flex">
+        <gillian /><!--Gillian Lynne Theatre-->
+        <greenwichT /><!--Greenwich Theatre-->
         <hackneyT /><!--hackney empire -->
+      </div>
+
+      <div class="grid sm:flex">
         <hampsteadT /><!--Hampstead Theatre-->
         <pinter /><!--Harold Pinter Theatre-->
+        <her /><!-- Majesty's Theatre-->
       </div>
 
       <div class="grid sm:flex">
-        <her /><!-- Majesty's Theatre-->
         <hoxton /><!--Hoxton Hall-->
         <intimate /><!--Intimate Theatre-->
-        </div>
-
-      <div class="grid sm:flex">
         <ilford /><!--Kenneth More Theatre-->
-       <leicester /><!--Leicester Square Theatre-->
-        <angel /><!--Little Angel Theatre-->
-        </div>
+      </div>
 
       <div class="grid sm:flex">
+        <leicester /><!--Leicester Square Theatre-->
+        <angel /><!--Little Angel Theatre-->
         <coliseum /><!--London Coliseum-->
-       <lyceum /><!--Lyceum Theatre-->
-       <lyric /><!--Lyric Theatre-->
-       </div>
-      
+      </div>
+
       <div class="grid sm:flex">
-      <hammersmith /><!--Lyric Hammersmith Theatre-->
-        </div>
-      
+        <lyceum /><!--Lyceum Theatre-->
+        <lyric /><!--Lyric Theatre-->
+        <hammersmith /><!--Lyric Hammersmith Theatre-->
+      </div>
+
+      <div class="grid sm:flex">
+        <nationalT /><!--National Theatre-->
+        <wimbledon /><!--New Wimbledon Theatre-->
+      </div>
+
       <div class="grid sm:flex">
         <hornchurch /><!--Queen's Theatre Hornchurch -->
         <rainbow /><!--Rainbow Theatre-->
-         </div>
-      
+      </div>
+
       <div class="grid sm:flex">
         <globe /><!--Shakespeare's Globe-->
         <shorditch /><!--Shoreditch Town Hall-->
@@ -98,20 +104,16 @@
         <stratford /><!--Theatre Royal Stratford East-->
         <dury /><!--Theatre Royal Dury lane-->
         <haymarket /><!--Theatre Royal Haymarket-->
-         </div>
+      </div>
 
       <div class="grid sm:flex">
         <palladium /><!--The London Palladium-->
         <two /><!--The O2 arena-->
-        </div>
-
-      <div class="grid sm:flex">
-        <yard /><!--The Yard -->
       </div>
 
-      <div class="grid sm:flex">
-        <wilton /><!--Wilton's Music Hall -->
-      </div>
+      <div class="grid sm:flex"><yard /><!--The Yard --></div>
+
+      <div class="grid sm:flex"><wilton /><!--Wilton's Music Hall --></div>
     </div>
     <br />
   </Layout>
@@ -163,6 +165,10 @@ import palladium from "@/components/Theatres/palladium";
 import lyceum from "@/components/Theatres/lyceum";
 import lyric from "@/components/Theatres/lyric";
 import hammersmith from "@/components/Theatres/hammersmith";
+import nationalT from "@/components/Theatres/nationalT";
+import ambassadors from "@/components/Theatres/ambassadors";
+import gillian from "@/components/Theatres/gillian";
+import wimbledon from "@/components/Theatres/wimbledon";
 
 import date from "@/components/Home/date";
 
@@ -222,7 +228,10 @@ export default {
     lyceum,
     lyric,
     hammersmith,
-
+    nationalT,
+    ambassadors,
+    gillian,
+    wimbledon,
     date,
   },
 };
