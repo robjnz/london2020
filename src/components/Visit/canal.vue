@@ -26,7 +26,7 @@
         </g-link>
       </p>
       
-       <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+       <h5 class=" mb-4 text-2xl text-pink-300"></h5>
       <article class="text-blue-200">
   Learn about the history of London's<br /> canals the cargoes they carried ....... 
   <input id="read-more-canal-1" class="read-more-canal" type="checkbox">

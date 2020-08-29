@@ -23,7 +23,7 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 27 August</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
            <h5 class=" mb-4 text-base text-orange-300">
         
      Admission free<br /><br />
@@ -37,15 +37,17 @@
 
       </h5>
       
-      <!--
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Thurs 19 March
-      
+       Thurs 24 Sept 2020 - Sun 24 Jan 2021
+      <br />
+      Tantra Enlightenment To Revolution<br />
+      Explore the radical force that <br />transformed the religious,<br /> cultural and political landscape of India.
+
       </p>
-      -->
+      <br />
       <article class="text-blue-200">
 The British Museum was founded in 1753<br /> opened its doors in 1759.......
 <input id="read-more-british-1" class="read-more-british" type="checkbox">
