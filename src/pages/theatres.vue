@@ -88,7 +88,13 @@
       <div class="grid sm:flex">
         <nationalT /><!--National Theatre-->
         <wimbledon /><!--New Wimbledon Theatre-->
+        <noel /><!--Noël Coward Theatre-->
       </div>
+
+      <div class="grid sm:flex">
+        <novello /><!--Novello Theatre-->
+        <open /><!--Open Air Theatre-->
+        </div>
 
       <div class="grid sm:flex">
         <hornchurch /><!--Queen's Theatre Hornchurch -->
@@ -108,6 +114,7 @@
 
       <div class="grid sm:flex">
         <palladium /><!--The London Palladium-->
+        <old /><!--The Old Vic-->
         <two /><!--The O2 arena-->
       </div>
 
@@ -169,6 +176,10 @@ import nationalT from "@/components/Theatres/nationalT";
 import ambassadors from "@/components/Theatres/ambassadors";
 import gillian from "@/components/Theatres/gillian";
 import wimbledon from "@/components/Theatres/wimbledon";
+import noel from "@/components/Theatres/noel";
+import novello from "@/components/Theatres/novello";
+import old from "@/components/Theatres/old";
+import open from "@/components/Theatres/open";
 
 import date from "@/components/Home/date";
 
@@ -232,6 +243,10 @@ export default {
     ambassadors,
     gillian,
     wimbledon,
+    noel,
+    novello,
+    old,
+    open,
     date,
   },
 };
