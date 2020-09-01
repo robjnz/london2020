@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-    Monday 31 August 2020
+    Tuesday 1 September 2020
     </h2>
     <p class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">
@@ -15,39 +15,15 @@
         <i class="fas fa-people-arrows"></i>
       </span>
     </p>
-
+<!--
      <h1 class="text-orange-400 text-2xl">
+        <span class="text-blue-100" style="font-size: 1em;">
+      <i class="fas fa-thumbs-up"></i>
+      </span>
+       
           Today's top pick of places to visit in London is:</h1>
-          <!--pick-->
-          <p class="mb-10 text-orange-300 text-xl">
-        The London Eye Observation wheel giving passengers
-a bird's-eye view of Londons historic landmarks.
-        <br />Adults: £31.00 Children: £25.00
-          <br />
-          Opening Times:
-          Mon To Sun
-          10.00am To 6.00pm<br />
-          Required To Book Online
-            <br>
-
-             <g-image  class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_100,w_200/v1598429442/eye_xftyp0.jpg"
-          alt   = "Kensington Palace">
-              </g-image>
-          
-      
-            <g-link
-        class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/31rwCJX"
-        target = "_blank"
-      >
-        More Info
-      </g-link>
-
-      <!--end pick -->
-                  </p>
-
-
+  
+-->
     <br />
 
     <div class="grid sm:flex">
@@ -199,6 +175,7 @@ import dungeon from "@/components/Visit/dungeon";
 
 import book from "@/components/amazon/book";
 import calendar from "@/components/Home/calendar";
+import today from "@/components/Home/today";
 
 
 export default {
@@ -315,6 +292,7 @@ export default {
 
     book,
     calendar,
+    today
   },
 };
 </script>
