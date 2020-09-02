@@ -49,7 +49,7 @@ export default {
       {
         name   : "description",
         content: 
-          " Places to visit for memorable days out in London, visit historical places of interest, museums or county houses, and for evening entertainment visit a London theatre."
+          " Places to visit for memorable days out in London, visit historical places of interest, museums, or county houses, and for evening entertainment visit a London theatre."
       }
     ],
     script: [
