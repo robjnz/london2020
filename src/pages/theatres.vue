@@ -189,7 +189,7 @@ export default {
     meta: [
       {
         name: "description",
-        content: "A to z guide of whats on at London theatres.",
+        content: "A to Z guide of what plays, that are showing at London theatres. Due to coronavirus London theatres are curently closed",
       },
     ],
   },
