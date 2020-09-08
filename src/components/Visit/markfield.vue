@@ -26,7 +26,22 @@
         </g-link>
       </p>
       
-       <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+       <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+       <h5 class=" mb-4 text-base text-orange-300">
+        
+     Admission free<br /><br />
+   
+      Opening Times: <br />
+      Sunday 13 September<br>
+      Saturday 19 September <br />Part of Open House London<br /><br />
+      Sunday 20 September <br />Part of Open House London<br /><br />
+      Sunday 27 September<br /><br />
+
+      Opening hours: 11.00 am to 5.00 pm
+      
+      </h5>
+
+       
       <article class="text-blue-200">
   Grade 2 listed engine hall <br />housing a restored.....
 

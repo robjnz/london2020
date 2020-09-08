@@ -24,7 +24,18 @@ King's Road<br />Chelsea London
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 3 September</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+        <h5 class=" mb-4 text-base text-orange-300">
+        
+      Tickets: £3.00
+      <br /><br />
+   
+      Opening Times: <br />Wed To Sun<br />
+      10.00am To 6.00pm  <br />Required To Book Online<br />
+
+      
+
+      </h5>
       
       <!--
       <p class="text-pink-300">

@@ -23,14 +23,17 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
         <h5 class=" mb-4 text-base text-orange-300">
         
       Adults: £15.00 <br />Children: £10.00 
 <br /><br />
    
-      Opening Times: <br />Mon To Sun<br />
-      9.30am To 6pm  <br />Purchased On Arrival<br />
+      Opening Times: <br />Wed To Thurs<br />
+      11.00am To 3.00pm  <br /><br />
+      Fri To Sun <br />
+      11.00am To 5.00pm<br />
+      Required To Book Online<br />
 
       
 

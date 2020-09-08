@@ -270,7 +270,7 @@ import bethune from "@/components/Visit/north/bethune";
 import canal from "@/components/Visit/canal";
 import forty from "@/components/Visit/forty";
 import jewish from "@/components/Visit/north/jewish";
-import markfield from "@/components/Visit/north/markfield";
+import markfield from "@/components/Visit/markfield";
 import stephens from "@/components/Visit/stephens";
 import airforce from "@/components/Visit/airforce";
 import totteridge from "@/components/Visit/north/totteridge";

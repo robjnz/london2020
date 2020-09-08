@@ -23,8 +23,18 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Open</h5>
-      <h5 class=" mb-4 text-lg text-pink-300">For personal prayer and devotion </h5>
+      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+       <h5 class=" mb-4 text-base text-orange-300">
+        
+      Adults: £17.00 <br />Concession £15.00 <br />Children: £7.20 
+<br />Family: £41.20<br /><br />
+   
+      Opening Times: <br />Mon To Sun<br />
+      8.30am To 3.30pm  <br />Required To Book Online<br />
+
+      
+
+      </h5>
       
       <!--
       <p class="text-pink-300">
