@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-    Tuesday 8 September 2020
+    Wednesday 9 September 2020
     </h2>
     <p class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">
@@ -49,11 +49,11 @@
       <dungeon /><!--The London Dungeon-->
       <tower /><!--Tower Of London-->
     </div>
-
+<!--calendar 
      <div class="flex-grow">
       <calendar />
     </div>
-
+calendar end-->
     <div class="grid sm:flex">
       <book />
     </div>

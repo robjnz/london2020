@@ -24,7 +24,7 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 17 September</h5>
         <h5 class=" mb-4 text-base text-orange-300">
         
       Adults: £8.50 <br />Concession £5.00 <br />Student: £3<br /> Children: Free 

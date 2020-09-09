@@ -23,7 +23,7 @@
           IG1 4XA
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h5 class="text-2xl text-pink-300"></h5>
 
       <!--
       <p class="text-pink-300">
