@@ -1,6 +1,17 @@
 <template>
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
+
+       <!--pick -->
+       <h1 class="text-orange-400 text-2xl">
+        <span class="text-blue-100" style="font-size: 1em;">
+      <i class="fas fa-thumbs-up"></i>
+      </span>
+       
+          Today's top pick of <br />places to visit in London is:
+          
+          </h1>
+  <!--end-->
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span>  Clink Prison Museum </H2>
