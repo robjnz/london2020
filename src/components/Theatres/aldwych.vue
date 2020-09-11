@@ -24,20 +24,20 @@
         
       
       </p>
-      <h5 class="text-2xl text-pink-300">The Tina Turner Musical</h5>
-      
+      <h5 class="text-2xl text-pink-300">Closed <!--The Tina Turner Musica--></h5>
+  <!--    
       <p class="text-orange-300">
-<!--
+
           <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-        -->
+        
         Mon: 7.30pm<br />
         Tues: 7.00pm<br />
         Wed – Sat: 7.30pm<br />
         Thurs & Sat: 2.30pm<br />
       </p>
-    
+    -->
 <!--
 <article class="text-blue-200">
    Mary Poppins, a mystical nanny returns <br />to London....

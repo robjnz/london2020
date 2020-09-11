@@ -1,6 +1,17 @@
 <template>
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
+
+       <!--pick -->
+       <h1 class="text-orange-400 text-2xl">
+        <span class="text-blue-100" style="font-size: 1em;">
+      <i class="fas fa-thumbs-up"></i>
+      </span>
+       
+          Today's top pick of <br />places to visit in London is:
+          
+          </h1>
+  <!--end-->
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span>  Imperial War Museum</H2>
@@ -36,15 +47,20 @@
       
 
       </h5>
-      <!--
-      <p class="text-pink-300">
+      <h1 class="text-2xl text-teal-400"> Events:</h1>
+      <h2 class="text-2xl text-teal-400"> Story Seekers</h2>
+
+      <p class="text-teal-400">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Thurs 19 March
+       Sat 12-Sun 13 September 2020<br />
       
+      Use your wits and imagination <br />to exploring the collections.
+
       </p>
-      -->
+      <br />
+      <iframe width="300" height="200" src="https://www.youtube.com/embed/gp3DpLFYVUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <article class="text-blue-200">
    IWM is a place to experience <br />the continuing influence of war.......
 <input id="read-more-war-1" class="read-more-war" type="checkbox">

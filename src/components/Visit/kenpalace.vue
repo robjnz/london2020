@@ -37,16 +37,23 @@
 
       </h5>
       
-      <!--
-      <p class="text-pink-300">
+     <h1 class="text-2xl text-teal-400"> Events:</h1>
+      <h2 class="text-2xl text-teal-400"> Life Through a Royal Lens</h2>
+
+      <p class="text-teal-400">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Thurs 19 March
+       March 2021<br />
       
+      Iconic photographs taken of the <br />royal family from Queen Victoria <br />to the present Day.
+
       </p>
-      -->
+      <br />
+      <iframe width="300" height="200" src="https://www.youtube.com/embed/BKkE2Wj3xC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
       <article class="text-blue-200">
+
  Royal palace and gardens, with exhibits<br /> on former residents.......
 <input id="read-more-kenpalace-1" class="read-more-kenpalace" type="checkbox">
 
