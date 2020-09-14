@@ -48,6 +48,7 @@
 
       </h5>
       <h1 class="text-2xl text-teal-400"> Events:</h1>
+      <!--events
       <h2 class="text-2xl text-teal-400"> Story Seekers</h2>
 
       <p class="text-teal-400">
@@ -59,6 +60,7 @@
       Use your wits and imagination <br />to exploring the collections.
 
       </p>
+      <--end-->
       <br />
       <iframe width="300" height="200" src="https://www.youtube.com/embed/gp3DpLFYVUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <article class="text-blue-200">
