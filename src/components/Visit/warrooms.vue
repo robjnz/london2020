@@ -49,16 +49,25 @@
       
 
       </h5>
-      
-      <!--
-      <p class="text-pink-300">
+      <h1 class="text-2xl text-teal-400"> Events:</h1>
+      <!--events-->
+      <h2 class="text-2xl text-teal-400">Operation black Door</h2>
+
+      <p class="text-teal-400">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Thurs 19 March
+       <br />Thurs 26 November 2020<br />
+        6.45pm to 10.15pm
+       <br /><br />
       
+      Uncover the secrets of Churchill’s <br />wartime bunker and encounter figures<br /> from the past, as you explore <br />the rooms where real wartime<br />history happened.
       </p>
-      -->
+      <!--end-->
+      <br />
+     <iframe width="290" height="200" src="https://www.youtube.com/embed/P7X79asos74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+      
       <article class="text-blue-200">
    Discover Life in Churchill's<br /> War Bunker.......
 <input id="read-more-warrooms-1" class="read-more-warrooms" type="checkbox">

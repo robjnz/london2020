@@ -47,15 +47,20 @@
       
 
       </h5>
-      <!--
-      <p class="text-pink-300">
+      <h1 class="text-2xl text-teal-400"> Events:</h1>
+      <h2 class="text-2xl text-teal-400"> The Living Image <br />of Charles Dickens</h2>
+
+      <p class="text-teal-400">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Thurs 19 March
+       <br />Sat 25th July 2020 to <br />Sun 25th April 2021<br /><br />
       
+      The exhibition explores the <br />power of the writer’s image.<br /> Starting in his own lifetime,<br /> through artist interpretations,<br /> radical rethinking in popular culture.
       </p>
-      -->
+<br />
+      <iframe width="290" height="200" src="https://www.youtube.com/embed/914VgyAka3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
       <article class="text-blue-200">
    The Victorian family home<br /> of Charles Dickens.......
 

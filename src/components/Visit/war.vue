@@ -48,21 +48,22 @@
 
       </h5>
       <h1 class="text-2xl text-teal-400"> Events:</h1>
-      <!--events
-      <h2 class="text-2xl text-teal-400"> Story Seekers</h2>
+      <!--events-->
+      <h2 class="text-2xl text-teal-400">Life in a Camp</h2>
 
       <p class="text-teal-400">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Sat 12-Sun 13 September 2020<br />
+       <br />Thurs 24 September 2020 to <br />Mon 24 May 2021<br /><br />
       
-      Use your wits and imagination <br />to exploring the collections.
+     Experience What Life is really <br />like in a refugee camp.
 
       </p>
-      <--end-->
+      <!--end-->
       <br />
-      <iframe width="300" height="200" src="https://www.youtube.com/embed/gp3DpLFYVUA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="290" height="200" src="https://www.youtube.com/embed/6hcack_xoKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
       <article class="text-blue-200">
    IWM is a place to experience <br />the continuing influence of war.......
 <input id="read-more-war-1" class="read-more-war" type="checkbox">

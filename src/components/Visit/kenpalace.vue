@@ -54,13 +54,13 @@
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       March 2021<br />
+       <br />March 2021<br /><br />
       
       Iconic photographs taken of the <br />royal family from Queen Victoria <br />to the present Day.
 
       </p>
       <br />
-      <iframe width="300" height="200" src="https://www.youtube.com/embed/BKkE2Wj3xC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="290" height="200" src="https://www.youtube.com/embed/BKkE2Wj3xC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
       <article class="text-blue-200">
 
