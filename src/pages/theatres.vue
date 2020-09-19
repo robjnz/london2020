@@ -94,6 +94,7 @@
       <div class="grid sm:flex">
         <novello /><!--Novello Theatre-->
         <open /><!--Open Air Theatre-->
+        <palace /><!--Palace Theatre-->
         </div>
 
       <div class="grid sm:flex">
@@ -180,6 +181,7 @@ import noel from "@/components/Theatres/noel";
 import novello from "@/components/Theatres/novello";
 import old from "@/components/Theatres/old";
 import open from "@/components/Theatres/open";
+import palace from "@/components/Theatres/palace";
 
 import date from "@/components/Home/date";
 
@@ -247,6 +249,7 @@ export default {
     novello,
     old,
     open,
+    palace,
     date,
   },
 };
