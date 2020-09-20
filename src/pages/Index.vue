@@ -9,7 +9,7 @@
         Places to visit for memorable days out in London.</h1>
 
         <p class="ml-6 mb-5 text-2xl text-blue-100">
-           Visit historical places of interest, museums and county houses, and for evening entertainment visit a London theatre.</p>
+          Visit historical places of interest, museums and county houses and for evening entertainment, <br />visit a show at one of London theatres.</p>
           
     
       
@@ -49,7 +49,7 @@ export default {
       {
         name   : "description",
         content: 
-          " Places to visit for memorable days out in London, visit historical places of interest, museums, or county houses, and for evening entertainment visit a London theatre."
+          "Places to visit for memorable days out in London, Visit historical places of interest, museums and county houses and for evening entertainment, visit a show at one of London theatres."
       }
     ],
     script: [
