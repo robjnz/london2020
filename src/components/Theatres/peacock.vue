@@ -3,29 +3,31 @@
     <div class="p-6">
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
           <i class="fas fa-theater-masks"></i>
-        </span> Palace Theatre</H2>
-      <g-link href="https://bit.ly/3c8KDQB" target="_blank"
+        </span> Peacock Theatre</H2>
+      <g-link href="https://bit.ly/2FUEVpe" target="_blank"
         ><g-image
        class = "w-auto h-auto"
-       src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1600421936/palace_sz9m3e.jpg"
-       alt   = "Palace Theatre"
+       src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1600586243/peacock_culeu4.jpg"
+       alt   = "Peacock Theatre"
       /></g-link>
        <p class="text-blue-200"> 
-      113 Shaftesbury Avenue<br /> Soho London 
+      Portugal Street<br /> Holborn London 
  
 
         <g-link
           class  = "text-red-700 hover:text-white"
-          to     = "https://bit.ly/2ZKLWzZ"
+          to     = "https://bit.ly/35RF2gn"
           target = "_blank"
         >
-          W1D 5AY
+          WC2A 2HT
         </g-link>
 
       </p>
       <h5 class="text-2xl text-pink-300"></h5>
        <h1 class="text-2xl text-teal-400"> Whats On:</h1>
+       <h5 class="text-2xl text-pink-300">Closed</h5>
 
+<!--
       <g-link href="https://bit.ly/2ZPFw2O" target="_blank"
         ><g-image
        class = "w-auto h-auto"
@@ -49,18 +51,19 @@
 <article class="text-teal-400">
    Harry Potter and the Cursed Child is <br />one play presented in two Parts..... 
 
-  <input id="read-more-palace-1" class="read-more-palace" type="checkbox">
+  <input id="read-more-peacock-1" class="read-more-peacock" type="checkbox">
   <div class="read-more-content">
        which are intended to be <br />seen in order on the same day<br /> matinee and evening <br />or on two consecutive evenings.
 
   </div>
-  <label class="read-more-palace-label text-red-700 hover:text-white" for="read-more-palace-1">Read </label>
+  <label class="read-more-peacock-label text-red-700 hover:text-white" for="read-more-peacock-1">Read </label>
 </article>
-<iframe width="290" height="200" src="https://www.youtube.com/embed/UjFaRoumUbA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   --> 
+
 <br />
 <g-link
         class  = "text-red-700 hover:text-white"
-        to     = "https://bit.ly/3c8KDQB"
+        to     = "https://bit.ly/2FUEVpe"
         target = "_blank"
       >
         More Info
@@ -79,10 +82,10 @@
   overflow  : hidden;
   transition: max-height .5s ease;
 }
-.read-more-palace {
+.read-more-peacock {
   display: none;
 }
-.read-more-palace-label {
+.read-more-peacock-label {
   display    : inline-block;
   user-select: none;
   cursor     : pointer;
@@ -91,17 +94,17 @@
   margin     : .5em;
   font-size  : 16px;
 }
-.read-more-palace-label:after {
+.read-more-peacock-label:after {
   content: "More";
   display: inline-block;
 }
-.read-more-palace:checked + .read-more-content {
+.read-more-peacock:checked + .read-more-content {
   display: block;
   /* css animation won't work with "auto"; set to some height larger
     than the content */
   max-height: 1000px;
 }
-.read-more-palace:checked + .read-more-content + .read-more-palace-label:after {
+.read-more-peacock:checked + .read-more-content + .read-more-peacock-label:after {
   content: "Less";
 }
 </style>

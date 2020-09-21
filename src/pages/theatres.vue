@@ -98,6 +98,11 @@
         </div>
 
       <div class="grid sm:flex">
+        <peacock /><!--Peacock Theatre-->
+        <phoenix /><!--Phoenix Theatre-->
+      </div>
+
+      <div class="grid sm:flex">
         <hornchurch /><!--Queen's Theatre Hornchurch -->
         <rainbow /><!--Rainbow Theatre-->
       </div>
@@ -182,6 +187,8 @@ import novello from "@/components/Theatres/novello";
 import old from "@/components/Theatres/old";
 import open from "@/components/Theatres/open";
 import palace from "@/components/Theatres/palace";
+import peacock from "@/components/Theatres/peacock";
+import phoenix from "@/components/Theatres/phoenix";
 
 import date from "@/components/Home/date";
 
@@ -250,6 +257,8 @@ export default {
     old,
     open,
     palace,
+    peacock,
+    phoenix,
     date,
   },
 };
