@@ -100,6 +100,7 @@
       <div class="grid sm:flex">
         <peacock /><!--Peacock Theatre-->
         <phoenix /><!--Phoenix Theatre-->
+        <piccadilly /><!--Piccadilly Theatre-->
       </div>
 
       <div class="grid sm:flex">
@@ -189,6 +190,8 @@ import open from "@/components/Theatres/open";
 import palace from "@/components/Theatres/palace";
 import peacock from "@/components/Theatres/peacock";
 import phoenix from "@/components/Theatres/phoenix";
+import piccadilly from "@/components/Theatres/piccadilly";
+
 
 import date from "@/components/Home/date";
 
@@ -198,7 +201,7 @@ export default {
     meta: [
       {
         name: "description",
-        content: "A to Z guide of what plays, that are showing at London theatres. Due to coronavirus London theatres are curently closed",
+        content: "A to Z guide of what plays, that are showing at London theatres. Due to coronavirus London theatres are curently closed, new exciting shows coming soon.",
       },
     ],
   },
@@ -259,6 +262,7 @@ export default {
     palace,
     peacock,
     phoenix,
+    piccadilly,
     date,
   },
 };

@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-   Monday 21 September 2020
+   Tuesday 22 September 2020
     </h2>
     <p class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">
