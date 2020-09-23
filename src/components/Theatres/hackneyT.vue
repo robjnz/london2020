@@ -14,14 +14,14 @@
       <p class="text-blue-200">
         291 Mare Street<br />Hackney London 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/2w0dgPr"
           target = "_blank"
         >
         E8 1EJ 
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h3 class="text-2xl text-red-400">Closed</h3>
       <!--
       <p class="text-pink-300">
         <span>
@@ -48,7 +48,7 @@ Once again we fuse together the best<br /> in musical talent.....<input
 -->
       <br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2JnhX7Z"
         target = "_blank"
       >

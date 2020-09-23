@@ -15,14 +15,14 @@
       2 Charing Cross Road<br /> Charing Cross London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3iJ498j"
           target = "_blank"
         >
          WC2H 0HH 
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h3 class="text-2xl text-red-400">Closed</h3>
       <!--
       <p class="text-orange-300">
           <span>
@@ -45,7 +45,7 @@
 
 <br />
 <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Y7LwD5"
         target = "_blank"
       >

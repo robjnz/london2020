@@ -13,14 +13,14 @@
       <p class="text-blue-200">
         Gerry Raffles Square <br />Stratford London
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/38WkDo6"
           target = "_blank"
         >
           E15 1BN
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h3 class="text-2xl text-red-400">Closed</h3>
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
@@ -48,7 +48,7 @@
 -->
       <br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2JjU3Kr"
         target = "_blank"
       >

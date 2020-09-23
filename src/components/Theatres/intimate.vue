@@ -8,7 +8,7 @@
         ><g-image
        class = "w-auto h-auto"
        src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585496098/intimate_eoy9sf.jpg"
-       alt   = "Intimate Theatre poster"
+       alt   = "Intimate Theatre building"
       /></g-link>
        
       <p class="text-blue-200"> 
@@ -17,14 +17,14 @@
        
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3bFpgFb"
           target = "_blank"
         >
            N13 4DH
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h3 class="text-2xl text-red-400">Closed</h3>
       <!--
       <p class="text-pink-300">
           <span>
@@ -47,7 +47,7 @@
 
 <br />
 <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2ycznCI"
         target = "_blank"
       >

@@ -15,7 +15,7 @@
  
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2ZKLWzZ"
           target = "_blank"
         >
@@ -23,8 +23,9 @@
         </g-link>
 
       </p>
-      <h5 class="text-2xl text-pink-300"></h5>
-       <h1 class="text-2xl text-teal-400"> Whats On:</h1>
+       <h2 class="text-2xl event"> Whats On:</h2>
+       <h2 class="text-2xl text-red-400"></h2>
+
 
       <g-link href="https://bit.ly/2ZPFw2O" target="_blank"
         ><g-image
@@ -34,9 +35,9 @@
       /></g-link>
       
       
-      <h2 class="text-2xl text-teal-400">Harry Potter <br />The Cursed Child </h2>
+      <h2 class="text-2xl event">Harry Potter <br />The Cursed Child </h2>
 
-      <p class="text-teal-400">
+      <p class="event">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
@@ -46,7 +47,7 @@
      
     
 
-<article class="text-teal-400">
+<article class="event">
    Harry Potter and the Cursed Child is <br />one play presented in two Parts..... 
 
   <input id="read-more-palace-1" class="read-more-palace" type="checkbox">
@@ -54,12 +55,12 @@
        which are intended to be <br />seen in order on the same day<br /> matinee and evening <br />or on two consecutive evenings.
 
   </div>
-  <label class="read-more-palace-label text-red-700 hover:text-white" for="read-more-palace-1">Read </label>
+  <label class="read-more-palace-label postcode hover:text-white" for="read-more-palace-1">Read </label>
 </article>
 <iframe width="290" height="200" src="https://www.youtube.com/embed/UjFaRoumUbA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3c8KDQB"
         target = "_blank"
       >

@@ -15,14 +15,14 @@
       3-5 Catherine Street<br />Covent Garden London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3iJPSbz"
           target = "_blank"
         >
          WC2B 5LA
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h3 class="text-2xl text-red-400">Closed</h3>
       <!--
       <p class="text-orange-300">
           <span>
@@ -45,7 +45,7 @@
 
 <br />
 <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2FoFzv7"
         target = "_blank"
       >

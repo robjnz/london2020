@@ -14,14 +14,14 @@
        White Post Lane<br />Hackney London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/33ktAGT"
           target = "_blank"
         >
           E9 5EN
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h3 class="text-2xl text-pink-400">Closed</h3>
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
@@ -48,7 +48,7 @@
 -->
       <br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2OYFsdx"
         target = "_blank"
       >

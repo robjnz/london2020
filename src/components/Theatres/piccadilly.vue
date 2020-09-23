@@ -15,7 +15,7 @@
  
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2Ek438v"
           target = "_blank"
         >
@@ -23,9 +23,8 @@
         </g-link>
 
       </p>
-      <h5 class="text-2xl text-pink-300"></h5>
-       <h1 class="text-2xl text-teal-400"> Whats On:</h1>
-       <h5 class="text-2xl text-pink-300">Closed</h5>
+       <h2 class="text-2xl event"> Whats On:</h2>
+       <h2 class="text-2xl text-red-400">Closed</h2>
 
        <!--
         <g-link href="https://bit.ly/2ZPFw2O" target="_blank"
@@ -36,7 +35,7 @@
       /></g-link>
       -->
      
-      <h1 class="text-2xl text-teal-400"> Coming Soon:</h1>
+      <h2 class="text-2xl event"> Coming Soon:</h2>
         <g-link href="https://bit.ly/32PL3bF" target="_blank"
         ><g-image
        class = "w-auto h-auto"
@@ -44,9 +43,9 @@
        alt   = "Moulin Rouge Poster"
       /></g-link>
       <br />
-      <h2 class="text-2xl text-teal-400">Moulin Rouge </h2>
+      <h2 class="text-2xl event">Moulin Rouge </h2>
 
-      <p class="text-teal-400">
+      <p class="event">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
@@ -66,14 +65,14 @@
       
 
 
-<article class="text-teal-400">
+<article class="event">
 Bohemians and aristocrats rub elbows<br /> and revel in electrifying enchantment.......
 
   <input id="read-more-piccadilly-1" class="read-more-piccadilly" type="checkbox">
   <div class="read-more-content">
      
  Pop the champagne and prepare for<br /> the spectacular spectacular.  </div>
-  <label class="read-more-piccadilly-label text-red-700 hover:text-white" for="read-more-piccadilly-1">Read </label>
+  <label class="read-more-piccadilly-label postcode hover:text-white" for="read-more-piccadilly-1">Read </label>
 </article>
    
 
@@ -81,7 +80,7 @@ Bohemians and aristocrats rub elbows<br /> and revel in electrifying enchantment
 <iframe width="290" height="200" src="https://www.youtube.com/embed/wlEaUz-5JpM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/32Nb635"
         target = "_blank"
       >

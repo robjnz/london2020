@@ -15,7 +15,7 @@
  
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2Enchgk"
           target = "_blank"
         >
@@ -23,9 +23,8 @@
         </g-link>
 
       </p>
-      <h5 class="text-2xl text-pink-300"></h5>
-       <h1 class="text-2xl text-teal-400"> Whats On:</h1>
-       <h5 class="text-2xl text-pink-300">Closed</h5>
+       <h2 class="text-2xl event"> Whats On:</h2>
+       <h2 class="text-2xl text-red-400">Closed</h2>
 
        <!--
         <g-link href="https://bit.ly/2ZPFw2O" target="_blank"
@@ -36,7 +35,7 @@
       /></g-link>
       -->
      
-      <h1 class="text-2xl text-teal-400"> Coming Soon:</h1>
+      <h2 class="text-2xl event"> Coming Soon:</h2>
         <g-link href="https://bit.ly/32Kjlg7" target="_blank"
         ><g-image
        class = "w-auto h-auto"
@@ -44,9 +43,9 @@
        alt   = "Harry Potter The Cursed Child Poster"
       /></g-link>
       <br />
-      <h2 class="text-2xl text-teal-400">Come From Away </h2>
+      <h2 class="text-2xl event">Come From Away </h2>
 
-      <p class="text-teal-400">
+      <p class="event">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
@@ -63,14 +62,14 @@
       
 
 
-<article class="text-teal-400">
+<article class="event">
  Real-life story of the 7,000 <br />air passengers from all over the world..... 
   <input id="read-more-phoenix-1" class="read-more-phoenix" type="checkbox">
   <div class="read-more-content">
      
  Who were grounded in Canada <br />during the wake of 9/11.
   </div>
-  <label class="read-more-phoenix-label text-red-700 hover:text-white" for="read-more-phoenix-1">Read </label>
+  <label class="read-more-phoenix-label postcode hover:text-white" for="read-more-phoenix-1">Read </label>
 </article>
    
 
@@ -79,7 +78,7 @@
 <iframe width="290" height="200" src="https://www.youtube.com/embed/tGrPEJIMyqM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3hKDaZe"
         target = "_blank"
       >

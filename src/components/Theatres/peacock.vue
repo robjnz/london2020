@@ -15,7 +15,7 @@
  
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/35RF2gn"
           target = "_blank"
         >
@@ -23,9 +23,8 @@
         </g-link>
 
       </p>
-      <h5 class="text-2xl text-pink-300"></h5>
-       <h1 class="text-2xl text-teal-400"> Whats On:</h1>
-       <h5 class="text-2xl text-pink-300">Closed</h5>
+       <h2 class="text-2xl event"> Whats On:</h2>
+       <h2 class="text-2xl text-red-400">Closed</h2>
 
 <!--
       <g-link href="https://bit.ly/2ZPFw2O" target="_blank"
@@ -62,7 +61,7 @@
 
 <br />
 <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2FUEVpe"
         target = "_blank"
       >

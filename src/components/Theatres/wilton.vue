@@ -15,14 +15,14 @@
         1 Graces Alley<br />Whitechapel London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/39UczFL"
           target = "_blank"
         >
          E1 8JB
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h3 class="text-2xl text-red-400">Closed</h3>
       <p class="text-pink-300">
         <span>
           <i class="far fa-calendar-alt"></i>
@@ -49,7 +49,7 @@
 -->
       <br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2R9bBf7"
         target = "_blank"
       >

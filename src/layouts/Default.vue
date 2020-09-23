@@ -105,6 +105,11 @@ color     : #68d391;
 
 }
 
+.event{
+color     : #4fd1c5;
+
+}
+
 
 
 
