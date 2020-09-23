@@ -15,14 +15,14 @@
       268-269 Tottenham Court Road<br /> Fitzrovia London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2CkndKB"
           target = "_blank"
         >
           W1T 7AQ  
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h3 class="text-2xl text-red-400">Closed</h3>
       <!--
       <p class="text-orange-300">
           <span>
@@ -45,7 +45,7 @@
 
 <br />
 <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2PM7RBG"
         target = "_blank"
       >

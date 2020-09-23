@@ -15,7 +15,7 @@
       49 Aldwych<br /> London 
  
  <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/31vEHwb"
           target = "_blank"
         >
@@ -24,7 +24,7 @@
         
       
       </p>
-      <h5 class="text-2xl text-pink-300">Closed <!--The Tina Turner Musica--></h5>
+      <h3 class="text-2xl text-red-400">Closed <!--The Tina Turner Musica--></h3>
   <!--    
       <p class="text-orange-300">
 
@@ -52,7 +52,7 @@
 
 <br />
 <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Pzll3z"
         target = "_blank"
       >

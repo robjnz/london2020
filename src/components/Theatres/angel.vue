@@ -14,7 +14,7 @@
       <p class="text-blue-200"> 
       14 Dagmar Passage<br /> The Angel London 
  <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/39srlmh"
           target = "_blank"
         >
@@ -23,7 +23,7 @@
         
       
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h3 class="text-2xl text-red-400">Closed</h3>
       <!--
       <p class="text-pink-300">
           <span>
@@ -46,7 +46,7 @@
 
 <br />
 <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2xz6yjA"
         target = "_blank"
       >

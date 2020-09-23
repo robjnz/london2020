@@ -8,7 +8,7 @@
         ><g-image
        class = "w-auto h-auto"
        src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1597396868/durylane_a4sxkh.jpg"
-       alt   = "Theatre Royal"
+       alt   = "Theatre Royal building"
       /></g-link>
        
       <p class="text-blue-200"> 

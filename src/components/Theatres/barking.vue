@@ -14,14 +14,14 @@
       <p class="text-blue-200"> 
          Broadway<br /> Barking Essex
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/3cXDRwZ"
           target = "_blank"
         >
           IG11 7LS
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h3 class="text-2xl text-red-400">Closed</h3>
       <!--
       <p class="text-pink-300">
           <span>
@@ -44,7 +44,7 @@
 
 <br />
 <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2WkdIT0"
         target = "_blank"
       >

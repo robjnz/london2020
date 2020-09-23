@@ -15,14 +15,14 @@
       Almeida Street<br /> The Angel London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2wDo0Ub"
           target = "_blank"
         >
            N1 1TA
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h3 class="text-2xl text-red-400">Closed</h3>
       <!--
       <p class="text-pink-300">
           <span>
@@ -45,7 +45,7 @@
 
 <br />
 <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2JnJx5R"
         target = "_blank"
       >
