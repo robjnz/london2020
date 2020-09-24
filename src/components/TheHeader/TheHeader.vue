@@ -6,12 +6,13 @@
       <g-image
         class = ""
         src   = "@/images/logomask_transparent.png" width = "95"
+        alt   = "visitlondon247 logo"
       ></g-image>
       <span class="font-semibold text-2xl tracking-tight"
         ><g-link class="hover:text-red-500" to="/">London</g-link>
       </span>
     </div>
-    <div class="block lg:hidden">
+    <div aria-label="menu" class="block lg:hidden">
      <button @click="isOpen = !isOpen" type="button" class="block text-teal-100 hover:text-white focus:text-white focus:outline-none">
           <svg class="h-6 w-6 fill-current" viewBox="0 0 24 24">
             <path v-if="isOpen" fill-rule="evenodd" d="M18.278 16.864a1 1 0 0 1-1.414 1.414l-4.829-4.828-4.828 4.828a1 1 0 0 1-1.414-1.414l4.828-4.829-4.828-4.828a1 1 0 0 1 1.414-1.414l4.829 4.828 4.828-4.828a1 1 0 1 1 1.414 1.414l-4.828 4.829 4.828 4.828z"/>
@@ -86,7 +87,7 @@
 
 
      <!-- Begin FusionBot.com site search engine code -->
-      <div class="text-blue-200">
+      <div aria-label="search box" class="text-blue-200">
 <form name="fbsearch" method="get" action="https://ss245.fusionbot.com/b/q" target="_blank" style="margin:0;">
   <div align="left"><font size="2" face="arial"><a href="https://www.fusionbot.com" target="_blank">Site Search</a>:</font><br />
   <input class="text-black text-center" type="text" name="keys" size="15">

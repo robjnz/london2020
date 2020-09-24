@@ -29,7 +29,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2B8o67T"
           target = "_blank"
         >
@@ -37,7 +37,6 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
       <h5 class=" mb-4 text-base text-orange-300">
         
       Adults: £22.00 <br />Concession £17.60 <br />Children: £11.00 
@@ -49,15 +48,22 @@
       
 
       </h5>
-      <h1 class="text-2xl text-teal-400"> Events:</h1>
+      <h1 class="text-2xl event"> Events:</h1>
       <!--events-->
-      <h2 class="text-2xl text-teal-400">Operation black Door</h2>
+      <h2 class="text-2xl event">Operation black Door</h2>
+  
+    <g-link href="https://bit.ly/3cphdxL" target="_blank"
+        ><g-image
+          class = "w-auto h-auto"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1600927308/blackdoor_rfnlpu.jpg"
+          alt   = "Churchill War Rooms operation black door poster"
+      /></g-link>
 
-      <p class="text-teal-400">
+      <p class="event">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       <br />Thurs 26 November 2020<br />
+       Thursday 26 November 2020<br />
         6.45pm to 10.15pm
        <br /><br />
       
@@ -65,7 +71,6 @@
       </p>
       <!--end-->
       <br />
-     <iframe width="290" height="200" src="https://www.youtube.com/embed/P7X79asos74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
       
       <article class="text-blue-200">
@@ -77,10 +82,15 @@
   See historic images, objects<br /> and interviews with the men and women<br /> who worked in the underground hideaway,<br /> revealing what it was like to work<br /> in secret alongside Winston Churchill<br /> during the Second World War.
 
 </div>
-<label class="read-more-warrooms-label text-red-700 hover:text-white" for="read-more-warrooms-1">Read </label>
+<label class="read-more-warrooms-label postcode hover:text-white" for="read-more-warrooms-1">Read </label>
 </article>
+
+<br />
+     <iframe width="290" height="200" src="https://www.youtube.com/embed/P7X79asos74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Agb347"
         target = "_blank"
       >

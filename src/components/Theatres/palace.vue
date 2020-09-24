@@ -55,9 +55,11 @@
        which are intended to be <br />seen in order on the same day<br /> matinee and evening <br />or on two consecutive evenings.
 
   </div>
-  <label class="read-more-palace-label postcode hover:text-white" for="read-more-palace-1">Read </label>
+  <label aria-label="open read more or less" class="read-more-palace-label postcode hover:text-white" for="read-more-palace-1">Read </label>
 </article>
-<iframe width="290" height="200" src="https://www.youtube.com/embed/UjFaRoumUbA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2 class="text-2xl event">video of behind the scenes</h2>
+<iframe aria-label="iframe youtube video" width="290" height="200" src="https://www.youtube.com/embed/UjFaRoumUbA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 <g-link
         class  = "postcode hover:text-white"

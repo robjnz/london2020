@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-   Wednesday 23 September 2020
+   Thursday 24 September 2020
     </h2>
     <p class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">
@@ -27,9 +27,9 @@
     <br />
 
     <div class="grid sm:flex">
-      <dickens /><!--Charles Dickens-->
+      <apsley /><!--Apsley House-->
+      <british /><!--British Museum-->
       <warrooms /><!--churchils War rooms-->
-       <clink /><!--Clink Prison Museum-->
        </div>
 
     <div class="grid sm:flex">
@@ -171,6 +171,8 @@ import tussauds from "@/components/Visit/tussauds";
 import eye from "@/components/Visit/eye";
 import shreksadventure from "@/components/Visit/shreksadventure";
 import dungeon from "@/components/Visit/dungeon";
+import apsley from "@/components/Visit/apsley";
+import british from "@/components/Visit/british";
 
 
 import book from "@/components/amazon/book";
@@ -289,6 +291,8 @@ export default {
     eye,
     shreksadventure,
     dungeon,
+    apsley,
+    british,
 
     book,
     calendar,

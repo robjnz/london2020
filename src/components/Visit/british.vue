@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2K8ALZI"
           target = "_blank"
         >
@@ -23,8 +23,8 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-           <h5 class=" mb-4 text-base text-orange-300">
+      <h2 class=" mb-4 text-2xl text-pink-300"></h2>
+           <h2 class=" mb-4 text-base text-orange-300">
         
      Admission free<br /><br />
    
@@ -35,19 +35,33 @@
 
       
 
-      </h5>
-      
-      <p class="text-pink-300">
+      </h2>
+      <h2 class="text-2xl event"> Events:</h2>
+      <h2 class="text-2xl event">Tantra Enlightenment <br />To revolution</h2>
+
+
+      <p class="event">
+
+         <g-link href="https://bit.ly/2G97AHd" target="_blank"
+        ><g-image
+          class = "w-auto h-auto"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1600925729/tantra_bxmva7.jpg"
+          alt   = "Tantra Enlightenment poster"
+      /></g-link>
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Thurs 24 Sept 2020 - Sun 24 Jan 2021
-      <br />
+       Thursday 24 Sept 2020 to  <span><br />
+          <i class="far fa-calendar-alt"></i>
+        </span> Sunday 24 Jan 2021
+      <br /><br />
       Tantra Enlightenment To Revolution<br />
       Explore the radical force that <br />transformed the religious,<br /> cultural and political landscape of India.
 
       </p>
       <br />
+      <iframe width="290" height="200" src="https://www.youtube.com/embed/iMxzzuR9ZZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
       <article class="text-blue-200">
 The British Museum was founded in 1753<br /> opened its doors in 1759.......
 <input id="read-more-british-1" class="read-more-british" type="checkbox">
@@ -56,10 +70,14 @@ The British Museum was founded in 1753<br /> opened its doors in 1759.......
 <br />
  It was the first national museum <br />to cover all fields of human knowledge.
  </div>
-<label class="read-more-british-label text-red-700 hover:text-white" for="read-more-british-1">Read </label>
+<label class="read-more-british-label postcode hover:text-white" for="read-more-british-1">Read </label>
 </article>
+
+<br />
+      <iframe width="290" height="200" src="https://www.youtube.com/embed/kMQgBAaUNs4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2KckjaU"
         target = "_blank"
       >

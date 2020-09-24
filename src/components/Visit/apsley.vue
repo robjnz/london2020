@@ -1,6 +1,17 @@
 <template>
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
+
+      <!--pick -->
+       <h1 class="text-orange-400 text-2xl">
+        <span class="text-blue-100" style="font-size: 1em;">
+      <i class="fas fa-thumbs-up"></i>
+      </span>
+       
+          Today's top pick of <br />places to visit in London is:
+          
+          </h1>
+  <!--end-->
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span>  Apsley House </H2>
@@ -16,16 +27,15 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3gnjpHh"
           target = "_blank"
         >
           W1J 7NT
         </g-link>
       </p>
-      
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-        <h5 class=" mb-4 text-base text-orange-300">
+      <br />
+        <h2 class=" mb-4 text-base text-orange-300">
         
       Adults: £11.30 <br />Concession £10.20 <br />Children: £6.80 
 <br />Family: £29.40<br /><br />
@@ -35,16 +45,26 @@
 
       
 
-      </h5>
+      </h2>
+
+        <h2 class="text-2xl event"> Events:</h2>
+      <!--events-->
       <!--
-      <p class="text-pink-300">
+      <h2 class="text-2xl text-teal-400">Operation black Door</h2>
+
+      <p class="text-teal-400">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Thurs 19 March
+       <br />Thurs 26 November 2020<br />
+        6.45pm to 10.15pm
+       <br /><br />
       
+      Uncover the secrets of Churchill’s <br />wartime bunker and encounter figures<br /> from the past, as you explore <br />the rooms where real wartime<br />history happened.
       </p>
-      -->
+      --end-->
+      <br />
+
       <article class="text-blue-200">
     Built in the 1820s for <br />the Duke of Wellington....... 
 <input id="read-more-apsley-1" class="read-more-apsley" type="checkbox">
@@ -53,10 +73,14 @@
 <br />
 collection of paintings, <br />silver and porcelain <br />many of the items <br />were presented to <br />the 1st Duke of Wellington<br /> after Waterloo.
 </div>
-<label class="read-more-apsley-label text-red-700 hover:text-white" for="read-more-apsley-1">Read </label>
+<label class="read-more-apsley-label postcode hover:text-white" for="read-more-apsley-1">Read </label>
 </article>
+
+<br />
+      <iframe width="290" height="200" src="https://www.youtube.com/embed/0iMBvabZKc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Dwwijt"
         target = "_blank"
       >
