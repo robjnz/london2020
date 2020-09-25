@@ -28,7 +28,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3eb7JFQ"
           target = "_blank"
         >
@@ -36,7 +36,6 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
        <h5 class=" mb-4 text-base text-orange-300">
         
       Admission free<br /><br />
@@ -47,11 +46,17 @@
       
 
       </h5>
-      <h1 class="text-2xl text-teal-400"> Events:</h1>
+      <h2 class="text-2xl event"> Events:</h2>
+       <g-link href="https://bit.ly/2Hn1cwG" target="_blank"
+        ><g-image
+          class = "w-auto h-auto"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1601013458/campiwm_ohvx1c.jpg"
+          alt   = "Imperial War Museum Life in a Camp poster"
+      /></g-link>
       <!--events-->
-      <h2 class="text-2xl text-teal-400">Life in a Camp</h2>
+      <h2 class="text-2xl event">Life in a Camp</h2>
 
-      <p class="text-teal-400">
+      <p class="event">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
@@ -60,9 +65,11 @@
      Experience What Life is really <br />like in a refugee camp.
 
       </p>
-      <!--end-->
+
       <br />
-      <iframe width="290" height="200" src="https://www.youtube.com/embed/6hcack_xoKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="290" height="200" src="https://www.youtube.com/embed/N16nc8jlhHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <br />
+      <!--end-->
       
       <article class="text-blue-200">
    IWM is a place to experience <br />the continuing influence of war.......
@@ -73,10 +80,18 @@
   on the world, an experience as <br />compelling and thought-provoking <br />as it is unforgettable. 
 
 </div>
-<label class="read-more-war-label text-red-700 hover:text-white" for="read-more-war-1">Read </label>
+<label class="read-more-war-label postcode hover:text-white" for="read-more-war-1">Read </label>
 </article>
+
+
+<br />
+      <iframe width="290" height="200" src="https://www.youtube.com/embed/U1VqJABpcWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <br />
+<br />
+      <iframe width="290" height="200" src="https://www.youtube.com/embed/6hcack_xoKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3hVAwQP"
         target = "_blank"
       >
