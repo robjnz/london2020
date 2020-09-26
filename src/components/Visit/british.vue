@@ -1,7 +1,7 @@
 <template>
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
-      <!--pick -->
+      <!--pick --
        <h1 class="text-orange-400 text-2xl">
         <span class="text-blue-100" style="font-size: 1em;">
       <i class="fas fa-thumbs-up"></i>
@@ -10,7 +10,7 @@
           Today's top pick of <br />places to visit in London is:
           
           </h1>
-  <!--end-->
+  --end-->
       <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span> British Museum</H2>
@@ -33,12 +33,11 @@
         </g-link>
       </p>
       
-      <h2 class=" mb-4 text-2xl text-pink-300"></h2>
            <h2 class=" mb-4 text-base text-orange-300">
         
      Admission free<br /><br />
    
-      Opening Times: <br />Wed To Sun<br />
+      Opening Times: <br />Wednesday To Sunday<br />
       10.00am – 5.00pm
       <br />
       Required To Book Online<br />
@@ -61,7 +60,8 @@
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Thursday 24 Sept 2020 to  <span><br />
+       Thursday 24 Sept 2020
+        <br />to  <span><br />
           <i class="far fa-calendar-alt"></i>
         </span> Sunday 24 Jan 2021
       <br /><br />

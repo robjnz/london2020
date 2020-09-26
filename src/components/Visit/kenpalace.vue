@@ -27,40 +27,45 @@
 
 
   <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3eNxtcx"
           target = "_blank"
         >
           W8 4PX
         </g-link>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-       <h5 class=" mb-4 text-base text-orange-300">
+       <h2 class=" mb-4 text-base text-orange-300">
         
       Adults: £17.00 <br />Concession £13.60 <br />Children: £8.50 
 <br />Family: £42.50<br /><br />
    
-      Opening Times: <br />Wed To Sun<br />
+      Opening Times: <br />Wednesday To Sunday<br />
       10.30am To 5.00pm  <br />Required To Book Online<br />
 
       
 
-      </h5>
+      </h2>
       
-     <h1 class="text-2xl text-teal-400"> Events:</h1>
-      <h2 class="text-2xl text-teal-400"> Life Through a Royal Lens</h2>
+     <h2 class="text-2xl event"> Events:</h2>
+      <g-link href="https://bit.ly/30a5Rso" target="_blank"
+        >
+        <g-image
+          class = "w-auto h-auto"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1601097725/queen_s18qxm.jpg"
+          alt   = "Life Through a Royal Lens image "
+      /></g-link>
+      <h2 class="text-2xl event"> Life Through a Royal Lens</h2>
 
-      <p class="text-teal-400">
+      <p class="event">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       <br />March 2021<br /><br />
+       Opening March 2021<br /><br />
       
       Iconic photographs taken of the <br />royal family from Queen Victoria <br />to the present Day.
 
       </p>
       <br />
-      <iframe width="290" height="200" src="https://www.youtube.com/embed/BKkE2Wj3xC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
       <article class="text-blue-200">
 
@@ -71,10 +76,15 @@
 <br />
 like Queen Victoria and Princess Diana.
 </div>
-<label class="read-more-kenpalace-label text-red-700 hover:text-white" for="read-more-kenpalace-1">Read </label>
+<label class="read-more-kenpalace-label postcode hover:text-white" for="read-more-kenpalace-1">Read </label>
 </article>
+
+<br />
+  <iframe width="290" height="200" src="https://www.youtube.com/embed/BKkE2Wj3xC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2S3ZPW7"
         target = "_blank"
       >

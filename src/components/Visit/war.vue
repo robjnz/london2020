@@ -36,16 +36,16 @@
         </g-link>
       </p>
       
-       <h5 class=" mb-4 text-base text-orange-300">
+       <h2 class=" mb-4 text-base text-orange-300">
         
       Admission free<br /><br />
    
-      Opening Times: <br />Mon To Sun<br />
+      Opening Times: <br />Monday To Sunday<br />
       10.00am To 6.00pm  <br />Required To Book Online<br />
 
       
 
-      </h5>
+      </h2>
       <h2 class="text-2xl event"> Events:</h2>
        <g-link href="https://bit.ly/2Hn1cwG" target="_blank"
         ><g-image
@@ -60,7 +60,11 @@
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       <br />Thurs 24 September 2020 to <br />Mon 24 May 2021<br /><br />
+       Thursday 24 September 2020 <br />to <br />
+       <span>
+          <i class="far fa-calendar-alt"></i>
+        </span>
+       Monday 24 May 2021<br /><br />
       
      Experience What Life is really <br />like in a refugee camp.
 

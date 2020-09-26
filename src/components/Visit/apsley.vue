@@ -40,7 +40,7 @@
       Adults: £11.30 <br />Concession £10.20 <br />Children: £6.80 
 <br />Family: £29.40<br /><br />
    
-      Opening Times: <br />Mon To Sun<br />
+      Opening Times: <br />Monday To Sunday<br />
       <br />Required To Book Online<br />
 
       
