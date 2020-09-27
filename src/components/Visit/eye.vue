@@ -27,7 +27,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2Eyonmo"
           target = "_blank"
         >
@@ -35,27 +35,18 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-        <h5 class=" mb-4 text-base text-orange-300">
+        <h2 class=" mb-4 text-base text-orange-300">
         
       Adults: £31.00 <br />Children: £25.00 
     <br /><br />
    
-      Opening Times: <br />Mon To Sun<br />
+      Opening Times: <br />Monday To Sunday<br />
       10.00am To 6.00pm  <br />Required To Book Online<br />
 
       
 
-      </h5>
-      <!--
-      <p class="text-pink-300">
-        <span>
-          <i class="far fa-calendar-alt"></i>
-        </span>
-       Thurs 19 March
-      
-      </p>
-      -->
+      </h2>
+    
       <article class="text-blue-200">
    Observation wheel giving passengers<br /> a bird's-eye view of Londons landmarks.......
 <input id="read-more-eyek-1" class="read-more-eyek" type="checkbox">
@@ -64,10 +55,14 @@
 <br />
 ......
 </div>
-<label class="read-more-eyek-label text-red-700 hover:text-white" for="read-more-eyek-1">Read </label>
+<label class="read-more-eyek-label postcode hover:text-white" for="read-more-eyek-1">Read </label>
 </article>
+
+<br />
+<iframe width="290" height="200" src="https://www.youtube.com/embed/e6TH2wJQD4g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/31rwCJX"
         target = "_blank"
       >

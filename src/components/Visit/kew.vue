@@ -26,7 +26,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2RwJwRw"
           target = "_blank"
         >
@@ -34,29 +34,19 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-       <h5 class=" mb-4 text-base text-orange-300">
-        <br />
+       <h2 class=" mb-4 text-base text-orange-300">
+       
       Adults: £9.00 <br />Concession £8.00 <br />Children: £4.50
 <br />Family: £21.00<br />
    <br />
-      Opening Times:<br /> Mon To Sun<br />
+      Opening Times:<br /> Monday To Sunday<br />
       10am To 6pm <br />
       Required To Book Online<br />
 
       
 
-      </h5>
-      
-      <!--
-      <p class="text-pink-300">
-        <span>
-          <i class="far fa-calendar-alt"></i>
-        </span>
-       Thurs 19 March
-      
-      </p>
-      -->
+      </h2>
+    
       <article class="text-blue-200">
 Discover the world of science behind <br />the botanical collections.....
 <input id="read-more-kew-1" class="read-more-kew" type="checkbox">
@@ -65,10 +55,15 @@ Discover the world of science behind <br />the botanical collections.....
 <br />
  with over 50,000 living plants<br /> to be found at <br />this World Heritage site.
  </div>
-<label class="read-more-kew-label text-red-700 hover:text-white" for="read-more-kew-1">Read </label>
+<label class="read-more-kew-label postcode hover:text-white" for="read-more-kew-1">Read </label>
 </article>
+
+<br />
+     <iframe width="290" height="200" src="https://www.youtube.com/embed/ft4mXomLWqw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2VmFjRH"
         target = "_blank"
       >

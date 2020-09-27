@@ -34,7 +34,7 @@
           W1J 7NT
         </g-link>
       </p>
-      <br />
+      
         <h2 class=" mb-4 text-base text-orange-300">
         
       Adults: £11.30 <br />Concession £10.20 <br />Children: £6.80 
