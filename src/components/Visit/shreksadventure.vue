@@ -27,7 +27,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2YyXlCH"
           target = "_blank"
         >
@@ -35,28 +35,19 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-        <h5 class=" mb-4 text-base text-orange-300">
+        <h2 class=" mb-4 text-base text-orange-300">
     
         
       Adult: 28.50 <br />Children: £23.00
 <br />Family: £70.00<br /><br />
    
-      Opening Times: <br />Mon To Sun<br />
+      Opening Times: <br />Monday To Sunday<br />
       10.00am To 3.00pm  <br />Required To Book Online<br />
 
       
 
-      </h5>
-      <!--
-      <p class="text-pink-300">
-        <span>
-          <i class="far fa-calendar-alt"></i>
-        </span>
-       Thurs 19 March
+      </h2>
       
-      </p>
-      -->
       <article class="text-blue-200">
    Visit the magical world <br />of Shreks Adventure.......
 <input id="read-more-shreksadventure-1" class="read-more-shreksadventure" type="checkbox">
@@ -66,10 +57,15 @@
   The swamp, <br />Rumplestilskin's carriage,<br /> the poison apple pub, <br />and the mirror maze.
 
 </div>
-<label class="read-more-shreksadventure-label text-red-700 hover:text-white" for="read-more-shreksadventure-1">Read </label>
+<label class="read-more-shreksadventure-label postcode hover:text-white" for="read-more-shreksadventure-1">Read </label>
 </article>
+
+<br />
+<iframe title="video virtual tour of shreks adventure 12.50 minute long " width="290" height="200" src="https://www.youtube.com/embed/rmPyxjYXlp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/32vJMF0"
         target = "_blank"
       >

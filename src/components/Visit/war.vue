@@ -71,7 +71,7 @@
       </p>
 
       <br />
-      <iframe width="290" height="200" src="https://www.youtube.com/embed/N16nc8jlhHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe title="video virtual tour of the Life in a Camp 0.58 minute long" width="290" height="200" src="https://www.youtube.com/embed/N16nc8jlhHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <br />
       <!--end-->
       
@@ -89,10 +89,10 @@
 
 
 <br />
-      <iframe width="290" height="200" src="https://www.youtube.com/embed/U1VqJABpcWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe title="video virtual tour of Imperial War Museum 5.18 minute long"  width="290" height="200" src="https://www.youtube.com/embed/U1VqJABpcWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <br />
 <br />
-      <iframe width="290" height="200" src="https://www.youtube.com/embed/6hcack_xoKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe title="video virtual tour the reopening of Imperial War Museum 2.02 minute long" width="290" height="200" src="https://www.youtube.com/embed/6hcack_xoKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <br />
       <g-link
         class  = "postcode hover:text-white"

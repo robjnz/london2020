@@ -26,15 +26,14 @@
         Tower of London<br />Wapping London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/38OAXr8"
           target = "_blank"
         >
          EC3N 4AB
         </g-link>
       </p>
-              <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-               <h5 class=" mb-4 text-base text-orange-300">
+               <h2 class=" mb-4 text-base text-orange-300">
         
       Adults: £25.00 <br />Concession £20.00 <br />Children: 12.50 
       <br />Family Saver 1: £37.50 1 Adult & 3 Children<br />Family Saver 2: £62.50 2 Adults & 3 Children 
@@ -42,17 +41,17 @@
 
 <br /><br />
    
-      Opening Times: <br />Wed To Sun<br />
+      Opening Times: <br />Wednesday To Sunday<br />
        10.pm To 6.00pm <br /> Required To Book Online<br />
 
       
 
-      </h5>
+      </h2>
 
-      <iframe width="290" height="200" src="https://www.youtube.com/embed/p-JACPCa3rA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe title="video virtual tour of the The Tower of London 0.32 minute long" width="290" height="200" src="https://www.youtube.com/embed/p-JACPCa3rA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2OKnQ4U"
         target = "_blank"
       >

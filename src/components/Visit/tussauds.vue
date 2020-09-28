@@ -30,7 +30,7 @@
         Marylebone Road<br />London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2Dl7eMi"
           target = "_blank"
         >
@@ -38,31 +38,18 @@
         </g-link>
       </p>
 
-       <h5 class="text-2xl text-pink-300"></h5>
-        <h5 class=" mb-4 text-base text-orange-300">
+        <h2 class=" mb-4 text-base text-orange-300">
         <br />
       Standard Ticket Entry: From £28.50
 <br />Family Standard Entry From £26.50<br /><br />
    
-      Opening Times: <br />Sat To Tues<br />
+      Opening Times: <br />Saturday To Tuesday<br />
       10.00am To 4.00pm  <br />Required To Book Online<br />
 
       
 
-      </h5>
-       <!--
-     <h5 class=" mb-4 text-base text-orange-300">
-        <br />
-      Adults: £32.50 <br />Concession £29.25 <br />Children: £21.12 
-<br /><br />
--->
-   <!--
-      Opening Times: <br />Mon To Sun<br />
-      Morning 10am To 2pm <br /> Afternoon 2pm To 6pm <br />Required To Book Online<br />
-
-      </h5>
-      -->
-       <h5 class=" mb-4 text-2xl text-green-300"></h5>
+      </h2>
+     
       <article class="text-blue-200">
    Wax replicas of famous celebrities<br /> & historic icons in themed galleries.....
   <input id="read-more-tussauds-1" class="read-more-tussauds" type="checkbox">
@@ -71,10 +58,15 @@
     <br />
    Royals, World Leaders, <br />A-List celebrities & Sports 
   </div>
-  <label class="read-more-tussauds-label text-red-700 hover:text-white" for="read-more-tussauds-1">Read </label>
+  <label class="read-more-tussauds-label postcode hover:text-white" for="read-more-tussauds-1">Read </label>
 </article>
+
+<br />
+      <iframe title="video virtual ture around madam tussauds 19.12 minute long" width="290" height="200" src="https://www.youtube.com/embed/erIIHHr_ZE0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Dl68jE"
         target = "_blank"
       >

@@ -27,7 +27,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3lgGnCG"
           target = "_blank"
         >
@@ -35,27 +35,43 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-        <h5 class=" mb-4 text-base text-orange-300">
+        <h2 class=" mb-4 text-base text-orange-300">
         
       Adults: £24.00 <br />Children: £19.00 
      <br /><br />
    
-      Opening Times: <br />Mon To Sun<br />
+      Opening Times: <br />Monday To Sunday<br />
       10.00am To 4.00pm  <br />Required To Book Online<br />
 
       
 
-      </h5>
-      <!--
-      <p class="text-pink-300">
+      </h2>
+
+ <h2 class="text-2xl event"> Events:</h2>
+      <g-link href="https://bit.ly/30h2Zdn" target="_blank"
+        >
+        <g-image
+          class = "w-auto h-auto"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1601287533/halloween_g4dog9.jpg"
+          alt   = "Halloween poster "
+      /></g-link>
+      <h2 class="text-2xl event"> Halloween</h2>
+
+      <p class="event">
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Thurs 19 March
+     Thurday 1 October 2020<br />To<br />
+      <span>
+          <i class="far fa-calendar-alt"></i>
+        </span>
+     Saturday 31 October 2020<br /><br />
       
+    The London Dungeon invites you <br />to join them at the Home of Halloween.
       </p>
-      -->
+      <br />
+
+      
       <article class="text-blue-200">
   The London Dungeon is a<br />uniquely thrilling attraction .......
 <input id="read-more-dungeon-1" class="read-more-dungeon" type="checkbox">
@@ -64,10 +80,15 @@
 <br />
 That will whisk you way back to<br /> the capital's most perilous past.
 </div>
-<label class="read-more-dungeon-label text-red-700 hover:text-white" for="read-more-dungeon-1">Read </label>
+<label class="read-more-dungeon-label postcode hover:text-white" for="read-more-dungeon-1">Read </label>
 </article>
+
+<br />
+<iframe title="video virtual tour of the London Dungeon 11.42 minute long" width="290" height="200" src="https://www.youtube.com/embed/W5KP039aq8o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
+
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3llJLfG"
         target = "_blank"
       >

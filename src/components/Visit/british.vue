@@ -70,7 +70,7 @@
 
       </p>
       <br />
-      <iframe width="290" height="200" src="https://www.youtube.com/embed/iMxzzuR9ZZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe title="video virtual tour of the The British Museum Tantra Enlightenment To Revolution 2.20 minute long" width="290" height="200" src="https://www.youtube.com/embed/iMxzzuR9ZZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <article class="text-blue-200">
 The British Museum was founded in 1753<br /> opened its doors in 1759.......
@@ -84,7 +84,7 @@ The British Museum was founded in 1753<br /> opened its doors in 1759.......
 </article>
 
 <br />
-      <iframe width="290" height="200" src="https://www.youtube.com/embed/kMQgBAaUNs4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe title="video virtual tour of the The British Museum 1.13 minute long" width="290" height="200" src="https://www.youtube.com/embed/kMQgBAaUNs4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <g-link
         class  = "postcode hover:text-white"
