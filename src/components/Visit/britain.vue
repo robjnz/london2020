@@ -1,9 +1,9 @@
 <template>
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
-      <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
+      <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
-        </span>  Tate Britain</H2>
+        </span>  Tate Britain</h1>
       <g-link href="https://bit.ly/3gs9HDM" target="_blank"
         ><g-image
           class = "w-auto h-auto"

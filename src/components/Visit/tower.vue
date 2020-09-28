@@ -12,9 +12,9 @@
           
           </h1>
   --end-->
-      <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
+      <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
-        </span> Tower Of London</H2>
+        </span> Tower Of London</h1>
       <g-link href="http://bit.ly/2OKnQ4U" target="_blank"
         ><g-image
           class = "w-auto h-auto"

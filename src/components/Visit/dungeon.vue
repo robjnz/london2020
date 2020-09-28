@@ -12,9 +12,9 @@
           
           </h1>
   --end-->
-      <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
+      <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
-        </span>  The London Dungeon </H2>
+        </span>  The London Dungeon </h1>
       <g-link href="https://bit.ly/3llJLfG" target="_blank"
         ><g-image
           class = "w-auto h-auto"

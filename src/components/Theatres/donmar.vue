@@ -1,9 +1,9 @@
 <template>
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
-      <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
+      <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
           <i class="fas fa-theater-masks"></i>
-        </span>  Donmar Warehouse</H2>
+        </span>  Donmar Warehouse</h1>
       <g-link href="https://bit.ly/31Y3ycj" target="_blank"
         ><g-image
        class = "w-auto h-auto"

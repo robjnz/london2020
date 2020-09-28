@@ -1,9 +1,9 @@
 <template>
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
-      <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
+      <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
           <i class="fas fa-theater-masks"></i>
-        </span> The Yard Theatre</H2>
+        </span> The Yard Theatre</h1>
       <g-link href="http://bit.ly/2OYFsdx" target="_blank"
         ><g-image
           src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1594204577/yarn_theatre_w8tzao.jpg"

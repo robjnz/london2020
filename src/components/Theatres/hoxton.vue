@@ -1,9 +1,9 @@
 <template>
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
-      <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
+      <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
           <i class="fas fa-theater-masks"></i>
-        </span> Hoxton Hall</H2>
+        </span> Hoxton Hall</h1>
       <g-link href="http://bit.ly/2EX7IsG" target="_blank"
         ><g-image
           src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1594203918/hockton_hall_cjieoo.jpg"

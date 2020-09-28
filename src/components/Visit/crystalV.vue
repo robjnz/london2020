@@ -1,10 +1,10 @@
 <template>
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
-      <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
+      <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
            <i class="fas fa-arrow-alt-circle-crystalV"></i>
-        </span> Crystal Palace Park</H2>
+        </span> Crystal Palace Park</h1>
       <g-link href="https://bit.ly/2UGgiSc" target="_blank"
         ><g-image
           class = "w-auto h-auto"

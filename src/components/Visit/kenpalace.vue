@@ -11,9 +11,9 @@
           
           </h1>
   -end-->
-      <H2 class="text-2xl text-blue-200"><span class="text-pink-300">
+      <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
-        </span>  Kensington Palace</H2>
+        </span>  Kensington Palace</h1>
       <g-link href="https://bit.ly/2S3ZPW7" target="_blank"
         >
         <g-image
