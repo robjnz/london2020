@@ -21,7 +21,7 @@
         </button>
     </div>
 
-    <div :class="isOpen ? 'block' : 'hidden'  " class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+    <div :class="isOpen ? 'block': 'hidden' " class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
       <div class="text-lg lg:flex-grow">
         <g-link
           to    = "/"
