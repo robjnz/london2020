@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-  Tuesday 29 September 2020
+  Wednesday 30 September 2020
     </h2>
     <p class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">
@@ -27,19 +27,19 @@
     <br />
 
     <div class="grid sm:flex">
+      <alexandra /><!--alexandra palace-->
       <apsley /><!--Apsley House-->
       <british /><!--British Museum-->
-      <warrooms /><!--churchils War rooms-->
-       </div>
-
-    <div class="grid sm:flex">
-      <war /><!--Imperial War Museum-->
-      <kenpalace /><!--Kensington Palace-->
-      <kew /><!--Kew Gardens -->
       </div>
 
     <div class="grid sm:flex">
-      <eye /><!--London Eye-->
+      <warrooms /><!--churchils War rooms-->
+      <war /><!--Imperial War Museum-->
+      <kenpalace /><!--Kensington Palace-->
+      </div>
+
+    <div class="grid sm:flex">
+      <kew /><!--Kew Gardens -->
       <zoo /><!--london zoo-->
       <tussauds /><!--madame tussauds-->
       </div>
@@ -173,6 +173,7 @@ import shreksadventure from "@/components/Visit/shreksadventure";
 import dungeon from "@/components/Visit/dungeon";
 import apsley from "@/components/Visit/apsley";
 import british from "@/components/Visit/british";
+import alexandra from "@/components/Visit/alexandra";
 
 
 import book from "@/components/amazon/book";
@@ -293,6 +294,7 @@ export default {
     dungeon,
     apsley,
     british,
+    alexandra,
 
     book,
     calendar,
