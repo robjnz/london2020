@@ -2,7 +2,7 @@
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
 
-      <!--pick -
+      <!--pick --
        <h1 class="text-orange-400 text-2xl">
         <span class="text-blue-100" style="font-size: 1em;">
       <i class="fas fa-thumbs-up"></i>
