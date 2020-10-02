@@ -14,7 +14,7 @@
     Battersea Park<br />Battersea London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2UQGklP"
           target = "_blank"
         >
@@ -22,7 +22,7 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+      <h2 class=" mb-4 text-2xl text-pink-300"></h2>
       
       <!--
       <p class="text-pink-300">
@@ -41,10 +41,15 @@
 
  It has a riverside promenade<br /> a large lake and ecological areas,<br /> children's play areas,<br /> the Pump House gallery. 
   </div>
-<label class="read-more-battersea-label text-red-700 hover:text-white" for="read-more-battersea-1">Read </label>
+<label class="read-more-battersea-label postcode hover:text-white" for="read-more-battersea-1">Read </label>
 </article>
+
+<br />
+
+      <iframe title="video Battersea Park 13.32 minute long" width="290" height="200" src="https://www.youtube.com/embed/q8I_FNrwQ4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2xXCSwL"
         target = "_blank"
       >

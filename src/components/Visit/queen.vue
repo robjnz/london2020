@@ -15,7 +15,7 @@
         Olympic Park<br /> Stratford London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/3aN2Lxt"
           target = "_blank"
         >
@@ -33,7 +33,7 @@
       </p>
       -->
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/33bvDwV"
         target = "_blank"
       >

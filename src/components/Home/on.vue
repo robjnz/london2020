@@ -4,7 +4,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-  Friday 2 October 2020
+  Saturday 3 October 2020
     </h2>
     <p class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">
@@ -136,7 +136,7 @@ import walthamstow from "@/components/Football/walthamstow";
 import west from "@/components/Football/west";
 import westwomen from "@/components/Football/westwomen";
 import barkingR from "@/components/Rugby/barkingR";
-import bethune from "@/components/Visit/north/bethune";
+import bethune from "@/components/Visit/bethune";
 import crystalV from "@/components/Visit/crystalV";
 import totteridge from "@/components/Visit/north/totteridge";
 import wandsworthcommon from "@/components/Visit/wandsworthcommon";

@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2RDlLXZ"
           target = "_blank"
         >
@@ -23,7 +23,7 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h2 class=" mb-4 text-2xl text-pink-300">Closed</h2>
       
       <!--
       <p class="text-pink-300">
@@ -42,10 +42,14 @@ Learn about the <br />Bank of England and money.....
 <br />
  Discover history<br /> architecture and banknote design.
  </div>
-<label class="read-more-bankengland-label text-red-700 hover:text-white" for="read-more-bankengland-1">Read </label>
+<label class="read-more-bankengland-label postcode hover:text-white" for="read-more-bankengland-1">Read </label>
 </article>
+
+<br />
+      <iframe title="video tour of bank of england 6.17 minute long" width="290" height="200" src="https://www.youtube.com/embed/vMAsY7XLNvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3ens6AP"
         target = "_blank"
       >

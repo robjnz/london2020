@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/33tvqHm"
           target = "_blank"
         >
@@ -24,8 +24,8 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-        <h5 class=" mb-4 text-base text-orange-300">
+      <h2 class=" mb-4 text-2xl text-pink-300"></h2>
+        <h2 class=" mb-4 text-base text-orange-300">
         
       Adults: £16.30 <br />Concession £15.30 <br />Children: £8.95 
 <br />Family: £42.55<br /><br />
@@ -35,7 +35,7 @@
 
       
 
-      </h5>
+      </h2>
       <!--
       <p class="text-pink-300">
         <span>
@@ -54,10 +54,14 @@ Brooklands Museum celebrates the<br /> history of aviation and motor sport......
 <br />
 Loch Ness Wellington Bomber, <br />Concorde, McLaren F1 racing Car <br />amd much more!
 </div>
-<label class="read-more-brooklands-label text-red-700 hover:text-white" for="read-more-brooklands-1">Read </label>
+<label class="read-more-brooklands-label postcode hover:text-white" for="read-more-brooklands-1">Read </label>
 </article>
+
+<br />
+      <iframe title="video Brooklands Museum 2.13 minute long" width="290" height="200" src="https://www.youtube.com/embed/lRps-EEo-zw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/30s25es"
         target = "_blank"
       >

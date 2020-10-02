@@ -16,7 +16,7 @@ Westminster <br />London
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2YfR122"
           target = "_blank"
         >
@@ -24,7 +24,7 @@ Westminster <br />London
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h2 class=" mb-4 text-2xl text-pink-300">Closed</h2>
       
       <!--
       <p class="text-pink-300">
@@ -43,10 +43,14 @@ Westminster <br />London
 <br />
  It's responsible for all <br />the road travel arrangements<br /> for The Queen and members<br /> of the Royal Family.
 </div>
-<label class="read-more-mews-label text-red-700 hover:text-white" for="read-more-mews-1">Read </label>
+<label class="read-more-mews-label postcode hover:text-white" for="read-more-mews-1">Read </label>
 </article>
+
+<br />
+      <iframe title="video The royal mews Buckingham Palace 8.58 minute long" width="290" height="200" src="https://www.youtube.com/embed/a3V715WIplY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Y6V8xf"
         target = "_blank"
       >

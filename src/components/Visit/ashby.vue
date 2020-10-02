@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2A0PxAh"
           target = "_blank"
         >
@@ -24,7 +24,7 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+      <h2 class=" mb-4 text-2xl text-pink-300"></h2>
       
       <!--
       <p class="text-pink-300">
@@ -44,10 +44,10 @@ Ashby's Brixton Mill was built in 1816<br /> and worked by wind until 1862 .....
  Has been fully restored to working<br /> order in 2011.
 
 </div>
-<label class="read-more-ashby-label text-red-700 hover:text-white" for="read-more-ashby-1">Read </label>
+<label class="read-more-ashby-label postcode hover:text-white" for="read-more-ashby-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2WsPPHl"
         target = "_blank"
       >

@@ -14,7 +14,7 @@
         Brigden Road <br />Bexley London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/39yBiiQ"
           target = "_blank"
         >
@@ -24,7 +24,7 @@
       </p>
 
 
-       <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+       <h2 class=" mb-4 text-2xl text-pink-300"></h2>
       <article class="text-blue-200">
    An ancient Hornbeam woods<br /> west of Bexley....... 
   <input id="read-more-bexley-1" class="read-more-bexley" type="checkbox">
@@ -32,10 +32,10 @@
       <br />
  village Site of Importance <br />for Nature Conservation.
   </div>
-  <label class="read-more-bexley-label text-red-700 hover:text-white" for="read-more-bexley-1">Read </label>
+  <label class="read-more-bexley-label postcode hover:text-white" for="read-more-bexley-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2E7182l"
         target = "_blank"
       >

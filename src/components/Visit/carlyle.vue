@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/35rmBwA"
           target = "_blank"
         >
@@ -24,7 +24,7 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h2 class=" mb-4 text-2xl text-pink-300">Closed</h2>
       
       <!--
       <p class="text-pink-300">
@@ -44,10 +44,10 @@ The home of Thomas and <br />Jane Carlyle......
 victorian writer and historian.
 
 </div>
-<label class="read-more-carlye-label text-red-700 hover:text-white" for="read-more-carlye-1">Read </label>
+<label class="read-more-carlye-label postcode hover:text-white" for="read-more-carlye-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3aTRif7"
         target = "_blank"
       >

@@ -14,7 +14,7 @@
    Chelsea Bridge Gate<br />Battersea London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2UUOHNj"
           target = "_blank"
         >
@@ -30,7 +30,7 @@
       <br />Required To Book Online
       <br /><br />
        <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2NFRLIz"
         target = "_blank"
       >
@@ -57,10 +57,14 @@
 
 In there collection is<br /> black-capped squirrel monkey <br />and the Emperor tamarin monkey.
   </div>
-<label class="read-more-batterseazoo-label text-red-700 hover:text-white" for="read-more-batterseazoo-1">Read </label>
+<label class="read-more-batterseazoo-label postcode hover:text-white" for="read-more-batterseazoo-1">Read </label>
 </article>
+
+<br />
+      <iframe title="video Battersea Park Zoo 7.07 minute long" width="290" height="200" src="https://www.youtube.com/embed/QG1vGfhox80" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3aSVJHP"
         target = "_blank"
       >

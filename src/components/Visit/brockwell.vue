@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/35yWYtV"
           target = "_blank"
         >
@@ -24,7 +24,7 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+      <h2 class=" mb-4 text-2xl text-pink-300"></h2>
       
       <!--
       <p class="text-pink-300">
@@ -44,10 +44,10 @@ Historic park located between Brixton<br /> Dulwich and Herne Hill.......
  has ornamental ponds, formal flower beds,<br /> a walled 'Old English' <br />herbaceous flower garden<br /> and a 19th century clock tower.
 
 </div>
-<label class="read-more-brockwell-label text-red-700 hover:text-white" for="read-more-brockwell-1">Read </label>
+<label class="read-more-brockwell-label postcode hover:text-white" for="read-more-brockwell-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/35uUEnE"
         target = "_blank"
       >

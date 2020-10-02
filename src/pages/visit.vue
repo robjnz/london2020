@@ -266,7 +266,7 @@ import viktor from "@/components/Visit/viktor";
 import wanstead from "@/components/Visit/wanstead";
 import william from "@/components/Visit/william";
 import alexandra from "@/components/Visit/alexandra";
-import bethune from "@/components/Visit/north/bethune";
+import bethune from "@/components/Visit/bethune";
 import canal from "@/components/Visit/canal";
 import forty from "@/components/Visit/forty";
 import jewish from "@/components/Visit/north/jewish";

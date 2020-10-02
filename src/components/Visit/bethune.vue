@@ -20,7 +20,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2WEXqEx"
           target = "_blank"
         >
@@ -35,10 +35,10 @@
         Bethune Recreation Ground
 
   </div>
-  <label class="read-more-bethune-label text-red-700 hover:text-white" for="read-more-bethune-1">Read </label>
+  <label class="read-more-bethune-label postcode hover:text-white" for="read-more-bethune-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3asPxGc"
         target = "_blank"
       >

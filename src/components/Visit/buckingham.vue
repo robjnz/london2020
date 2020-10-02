@@ -16,7 +16,7 @@ Westminster <br />London
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3f15wNA"
           target = "_blank"
         >
@@ -24,7 +24,7 @@ Westminster <br />London
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+      <h2 class=" mb-4 text-2xl text-pink-300">Closed</h2>
       
       <!--
       <p class="text-pink-300">
@@ -43,10 +43,14 @@ Westminster <br />London
 <br />
 It's where The Queen and members <br />of the Royal Family receive <br />and entertain their guests<br /> on State, ceremonial<br /> and official occasions. 
 </div>
-<label class="read-more-buckingham-label text-red-700 hover:text-white" for="read-more-buckingham-1">Read </label>
+<label class="read-more-buckingham-label postcode hover:text-white" for="read-more-buckingham-1">Read </label>
 </article>
+
+<br />
+      <iframe title="video The State Rooms Buckingham Palace 7.07 minute long" width="290" height="200" src="https://www.youtube.com/embed/eW5mNMoJxQk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/30f7vd4"
         target = "_blank"
       >
