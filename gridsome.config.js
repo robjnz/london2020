@@ -27,8 +27,19 @@ module.exports = {
       options: {
         id: 'UA-84231316-6'
       }
+    },
+    {
+      use: '@gridsome/vue-remark',
+      options: {
+        typeName: 'Documentation', // Required
+        baseDir: './docs', // Where .md files are located
+        pathPrefix: '/docs', // Add route prefix. Optional
+        template: './src/templates/Documentation.vue' // Optional
+      }
     }
   ]
 };
+
+
 
 
