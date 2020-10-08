@@ -18,18 +18,41 @@
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_150,w_560/v1515831480/tower_vow6im.jpg"
           alt   = "tower of london"
       />
-       <a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a>     
-      <!--<date class="ml-8"/>-->
+     
     
-        <br />
+       
+<!--
 
+<div v-for="edge in $page.docs.edges" :key="edge.node.id">
+  <g-link :to="edge.node.path">{{ edge.node.title }} </g-link>
+
+</div>
+-->
+<br />
      <on />
 
      </div>
    
     <br />
+    
   </Layout>
 </template>
+
+<page-query>
+
+query post {
+ docs: allPost{
+  edges{
+    node{
+     title
+      path
+    
+    }
+    } 
+  }
+}
+
+</page-query>
 
 <script>
 import football from "@/components/Home/football";

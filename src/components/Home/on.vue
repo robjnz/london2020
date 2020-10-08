@@ -1,10 +1,11 @@
 <template>
   <div class="m-4 mt-10 p-4 w-auto rounded-lg">
+
     <h2 class="text-xl text-blue-100">
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-  Wednesday 7 October 2020
+  Thursday 8 October 2020
     </h2>
     <p class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">
