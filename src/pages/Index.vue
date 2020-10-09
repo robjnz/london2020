@@ -3,7 +3,7 @@
     
     <div id="background" class="container m-auto">
       <h1 class="ml-6 mt-16 text-4xl text-blue-100">
-        <!--
+       <!--
         Things To Do In London Today, For memorable Days Out.
         -->
         Places to visit for memorable days out in London.</h1>
@@ -21,14 +21,17 @@
      
     
        
-<!--
 
-<div v-for="edge in $page.docs.edges" :key="edge.node.id">
-  <g-link :to="edge.node.path">{{ edge.node.title }} </g-link>
+<h2 class="ml-6 text-2xl"> Posts</h2>
+<div class="ml-10 text-xl" 
+
+v-for="edge in $page.docs.edges" :key="edge.node.id">
+  <g-link  class= "postcode text-xl hover:text-white" :to="edge.node.path">{{ edge.node.title }} - {{ edge.node.created }}  </g-link>
+  
 
 </div>
--->
-<br />
+
+
      <on />
 
      </div>
@@ -46,6 +49,7 @@ query post {
     node{
      title
       path
+      created
     
     }
     } 

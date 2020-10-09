@@ -1,6 +1,8 @@
 <template>
 <Layout>
-  <div id="work-card" class="mx-56 mt-20 mb-20 p-4 w-auto rounded-lg">
+
+  <div id="background" class="container m-auto">
+  <div id="work-card" class="mx-20 mt-20 mb-20 p-4 w-auto rounded-lg">
 <h1>{{$page.post.title}}</h1>
 <h2>Author: {{$page.post.author}}</h2>
 <h2>Created: {{$page.post.created}}</h2>
@@ -11,6 +13,7 @@
 
 
 
+  </div>
   </div>
   
 </Layout>
