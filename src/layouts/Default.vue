@@ -24,7 +24,7 @@ body {
   padding-left : 2px;
   padding-right: 2px;
   background   : #242943;
-  color        : #00ff7f;
+  color        : #ebf8ff;
   font-size    : 15;
 
 }
