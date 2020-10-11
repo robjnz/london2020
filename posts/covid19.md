@@ -1,11 +1,12 @@
 ---
-title: London is open
+title: London Is Open to Visitors
 author: VisitLondon247
-created: 10 October 2020
+created: 11 October 2020
 
 ---
 
 <br /><br />
+
 <div class="text-2xl text-blue-300">
 London Is Open to Visitors
 </div>
@@ -30,7 +31,7 @@ This is due to the current, government covid19 guideline, of social distancing o
 <div class="text-2xl text-blue-300">
 Traveling in London during covid19
 </div>
-<br > <br >
+<br > 
 
  Face coverings must be worn for the full duration of journeys on the public transport network, including inside stations, and in taxis and private hire vehicles.
 
@@ -51,3 +52,25 @@ If possible try to walk or cycle and travel at quiet times.
 <iframe width="290" height="200" src="https://www.youtube.com/embed/mMZ2zFqVF38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br /><br />
+
+<div class="text-2xl text-blue-300">
+ London's Pubs and Restaurant covid19
+</div>
+
+<br />
+From Thursday 24 September for the next six months, pubs restaurants and bar must be closed by 10pm.
+ <br /><br />
+ Drive-thru restaurants are exempt from the 10pm rule.
+
+ <br />
+ Takeaways must close by 10pm, but can continue to do deliveries.
+
+ <br /><br />
+
+ <div class="text-2xl text-blue-300">
+ London's Theatre's covid19
+</div>
+
+<br />
+
+At present their are no performance at any west end theatre's.
