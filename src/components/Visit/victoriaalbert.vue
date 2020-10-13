@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2Y255NQ"
           target = "_blank"
         >
@@ -54,10 +54,10 @@ The Museum holds many of <br />the UK's national collections......
 <br />
 
 for the study of<br />architecture, furniture, fashion, textiles,<br/> photography, sculpture, painting, jewellery, <br />glass, ceramics, book arts, <br />Asian art and design, <br />theatre and performance. </div>
-<label class="read-more-victoriaalbert-label text-red-700 hover:text-white" for="read-more-victoriaalbert-1">Read </label>
+<label class="read-more-victoriaalbert-label postcode hover:text-white" for="read-more-victoriaalbert-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2yKcvL2"
         target = "_blank"
       >

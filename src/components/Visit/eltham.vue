@@ -15,7 +15,7 @@
         Court Yard Eltham <br /> Greenwich London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/3cRYYR9"
           target = "_blank"
         >
@@ -34,7 +34,7 @@
 -->
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/3aI2oUI"
         target = "_blank"
       >

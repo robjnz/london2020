@@ -15,7 +15,7 @@
        Windmill Road<br />Wimbledon Common London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/39T5558"
           target = "_blank"
         >
@@ -42,10 +42,10 @@ Area of Conservation, <br />the Commons provide.....
        an important home for wildlife<br /> and a place for visitors<br /> to relax and unwind. 
 
   </div>
- <label class="read-more-wimbledoncommon-label text-red-700 hover:text-white" for="read-more-wimbledoncommon-1">Read </label>
+ <label class="read-more-wimbledoncommon-label postcode hover:text-white" for="read-more-wimbledoncommon-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Xl6COI"
         target = "_blank"
       >

@@ -15,7 +15,7 @@
        Morden Hall Road<br /> Morden London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2yz0WGu"
           target = "_blank"
         >
@@ -40,10 +40,10 @@
   <div class="read-more-content">
    of a country estate <br />with a glimpse of its<br /> agricultural and industrial history.
   </div>
-  <label class="read-more-morden-label text-red-700 hover:text-white" for="read-more-morden-1">Read </label>
+  <label class="read-more-morden-label postcode hover:text-white" for="read-more-morden-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3dZuw8p"
         target = "_blank"
       >

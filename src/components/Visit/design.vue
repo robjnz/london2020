@@ -17,7 +17,7 @@
  
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2yf3NVf"
           target = "_blank"
         >
@@ -64,10 +64,10 @@
 <br />
  in every form from<br /> covers product, industrial,<br /> graphic, fashion <br />and architectural design.
 </div>
-<label class="read-more-design-label text-red-700 hover:text-white" for="read-more-design-1">Read </label>
+<label class="read-more-design-label postcode hover:text-white" for="read-more-design-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3f4lcAQ"
         target = "_blank"
       >

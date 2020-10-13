@@ -16,7 +16,7 @@
 Barkingside Essex 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/2vNapsT"
           target = "_blank"
         >
@@ -30,11 +30,11 @@ Barkingside Essex
       <br />
  The famous Fairlop Oak was reputedly<br /> the largest tree in Hainault Forest,<br /> the site of a famous fair held <br />on the first Friday<br /> in July until around 1892.
   </div>
-  <label class="read-more-fairlop-label text-red-700 hover:text-white" for="read-more-fairlop-1">Read </label>
+  <label class="read-more-fairlop-label postcode hover:text-white" for="read-more-fairlop-1">Read </label>
 </article>
     
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/3cvMXRv"
         target = "_blank"
       >

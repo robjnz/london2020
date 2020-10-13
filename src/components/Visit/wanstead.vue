@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/38Qiz0S"
           target = "_blank"
         >
@@ -25,7 +25,7 @@
       </p>
      <br /><br />
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2Jda6JW"
         target = "_blank"
       >

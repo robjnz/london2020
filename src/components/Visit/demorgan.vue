@@ -14,7 +14,7 @@
     Down Lane Compton<br /> Guildford surrey
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2y2m73K"
           target = "_blank"
         >
@@ -49,10 +49,10 @@
   <div class="read-more-content">
 
 and ceramics by <br />William and Evelyn De Morgan.  </div>
- <label class="read-more-demorgan-label text-red-700 hover:text-white" for="read-more-demorgan-1">Read </label>
+ <label class="read-more-demorgan-label postcode hover:text-white" for="read-more-demorgan-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/34mGepg"
         target = "_blank"
       >

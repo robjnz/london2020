@@ -18,7 +18,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3ewHg60"
           target = "_blank"
         >
@@ -54,10 +54,10 @@
 <br />
  including modern and contemporary art.
 </div>
-<label class="read-more-britain-label text-red-700 hover:text-white" for="read-more-britain-1">Read </label>
+<label class="read-more-britain-label postcode hover:text-white" for="read-more-britain-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3gs9HDM"
         target = "_blank"
       >

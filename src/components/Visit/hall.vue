@@ -16,7 +16,7 @@
         Bexley Kent
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/2ve9T6S"
           target = "_blank"
         >
@@ -53,11 +53,11 @@
 <br />
 The Secret Wartime History <br />of Hall Place explores<br /> how American soldiers stationed <br />at Hall Place – code name Santa Fe –<br /> intercepted encoded messages <br />sent by the Germans.
   </div>
-<label class="read-more-hall-label text-red-700 hover:text-white" for="read-more-hall-1">Read </label>
+<label class="read-more-hall-label postcode hover:text-white" for="read-more-hall-1">Read </label>
 </article>
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2QyDQ6A"
         target = "_blank"
       >

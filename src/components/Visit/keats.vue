@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2x4cOzV"
           target = "_blank"
         >
@@ -54,10 +54,10 @@
 Built in 1815 and originally<br /> named Wentworth Place.
 
  </div>
-<label class="read-more-keats-label text-red-700 hover:text-white" for="read-more-keats-1">Read </label>
+<label class="read-more-keats-label postcode hover:text-white" for="read-more-keats-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Pjs2Xw"
         target = "_blank"
       >

@@ -15,7 +15,7 @@
          Hunting Lodge 6 Rangers Road<br /> Chingford London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/33bTP2g"
           target = "_blank"
         >
@@ -26,7 +26,7 @@
            <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2Sgs9D9"
         target = "_blank"
       >

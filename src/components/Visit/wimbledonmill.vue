@@ -15,7 +15,7 @@
        Windmill Road<br />Wimbledon Common London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/39T5558"
           target = "_blank"
         >
@@ -39,10 +39,10 @@
   <input id="read-more-wimbledonmill-1" class="read-more-wimbledonmill" type="checkbox">
   <div class="read-more-content">
 since it was built in 1817 <br />to serve the local community.<br /><br /> It only operated until 1864,<br /> when the machinery was removed<br /> and it was converted to<br /> residential accommodation.  </div>
-  <label class="read-more-wimbledonmill-label text-red-700 hover:text-white" for="read-more-wimbledonmill-1">Read </label>
+  <label class="read-more-wimbledonmill-label postcode hover:text-white" for="read-more-wimbledonmill-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2JI6QHT"
         target = "_blank"
       >

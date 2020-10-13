@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/32YCLhU"
           target = "_blank"
         >
@@ -55,10 +55,10 @@
 <br />
 Who lived at 221b Baker Street,<br /> between 1881-1904, <br />according to the stories<br /> written by Sir Arthur Conan Doyle.
 </div>
-<label class="read-more-homes-label text-red-700 hover:text-white" for="read-more-homes-1">Read </label>
+<label class="read-more-homes-label postcode hover:text-white" for="read-more-homes-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2D9dxT0"
         target = "_blank"
       >

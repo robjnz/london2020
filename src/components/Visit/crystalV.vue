@@ -16,7 +16,7 @@
         Thicket Road<br />London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2UIr8Y4"
           target = "_blank"
         >
@@ -42,10 +42,10 @@
         an outdoor concert stage,<br />  a maze children's farm<br /> and playground.<br /> including a lake which<br /> is valuable for water birds. 
 
   </div>
-  <label class="read-more-crystalV-label text-red-700 hover:text-white" for="read-more-crystalV-1">Read </label>
+  <label class="read-more-crystalV-label postcode hover:text-white" for="read-more-crystalV-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2UGgiSc"
         target = "_blank"
       >

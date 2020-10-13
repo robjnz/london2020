@@ -14,7 +14,7 @@
         Romney Road<br /> Greenwich London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/39NF5sD"
           target = "_blank"
         >
@@ -25,7 +25,7 @@
         <h5 class=" mb-4 text-2xl text-pink-300"></h5>
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2yibjM1"
         target = "_blank"
       >

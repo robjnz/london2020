@@ -16,7 +16,7 @@
 Pinner London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/34opLkh"
           target = "_blank"
         >
@@ -53,10 +53,10 @@ Heath Robinson exhibition<br /> tells the full story.....
  of Heath Robinson’s<br /> artistic career with<br /> original artwork and other items.  
  
  </div>
-<label class="read-more-robinson-label text-red-700 hover:text-white" for="read-more-robinson-1">Read </label>
+<label class="read-more-robinson-label postcode hover:text-white" for="read-more-robinson-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2JRecbV"
         target = "_blank"
       >

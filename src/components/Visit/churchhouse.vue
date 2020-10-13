@@ -16,7 +16,7 @@
         Lodge Church Road<br /> Bromley Kent
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3bQLSCp"
           target = "_blank"
         >
@@ -41,10 +41,10 @@
     a playground are the draw <br />at this quiet, lakefront park.
 
   </div>
-  <label class="read-more-churchhouse-label text-red-700 hover:text-white" for="read-more-churchhouse-1">Read </label>
+  <label class="read-more-churchhouse-label postcode hover:text-white" for="read-more-churchhouse-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3dYTjt6"
         target = "_blank"
       >

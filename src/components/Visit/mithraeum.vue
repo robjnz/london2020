@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3a4Vrg1"
           target = "_blank"
         >
@@ -57,10 +57,10 @@ Ancient temple<br /> found during the recent excavations,.....
 <br />
  a selection of the <br />remarkable Roman artefacts. 
  </div>
-<label class="read-more-mithraeum-label text-red-700 hover:text-white" for="read-more-mithraeum-1">Read </label>
+<label class="read-more-mithraeum-label postcode hover:text-white" for="read-more-mithraeum-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2K51A14"
         target = "_blank"
       >

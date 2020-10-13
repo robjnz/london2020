@@ -27,7 +27,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3jL8Yzt"
           target = "_blank"
         >
@@ -71,10 +71,10 @@
 
 Uncover the private world behind<br />  the author where the he wrote <br />Oliver Twist, <br />Pickwick Papers<br /> and Nicholas Nickleby. 
 </div>
-<label class="read-more-dickens-label text-red-700 hover:text-white" for="read-more-dickens-1">Read </label>
+<label class="read-more-dickens-label postcode hover:text-white" for="read-more-dickens-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3g0baAG"
         target = "_blank"
       >

@@ -16,7 +16,7 @@
         Barking Essex
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/39Q9NBk"
           target = "_blank"
         >
@@ -27,7 +27,7 @@
 
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2W9FpxW"
         target = "_blank"
       >

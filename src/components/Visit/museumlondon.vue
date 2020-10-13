@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3acQbGV"
           target = "_blank"
         >
@@ -55,10 +55,10 @@ The Museum of London <br />tells the story.....
 <br />
  of the capital from its <br />first settlers to modern times. 
  </div>
-<label class="read-more-museumlondon-label text-red-700 hover:text-white" for="read-more-museumlondon-1">Read </label>
+<label class="read-more-museumlondon-label postcode hover:text-white" for="read-more-museumlondon-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2yaS7mj"
         target = "_blank"
       >

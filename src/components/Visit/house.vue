@@ -15,7 +15,7 @@
        Three Mill Lane<br /> Bromley By Bow London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/3cMVZK1"
           target = "_blank"
         >
@@ -27,7 +27,7 @@
 
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2vkeNzo"
         target = "_blank"
       >

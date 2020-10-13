@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3czrk1q"
           target = "_blank"
         >
@@ -43,10 +43,10 @@
 <br />
  It's the final resting place of 17 monarchs.<br /><br /> The church we see today<br /> was begun by Henry III in 1245.<br /><br /> It’s one of the most important <br />Gothic buildings in the country,<br /> and has the medieval shrine <br />of an Anglo-Saxon saint at its heart.
 </div>
-<label class="read-more-westminster-label text-red-700 hover:text-white" for="read-more-westminster-1">Read </label>
+<label class="read-more-westminster-label postcode hover:text-white" for="read-more-westminster-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2AM1Fp7"
         target = "_blank"
       >

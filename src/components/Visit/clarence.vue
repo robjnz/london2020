@@ -17,7 +17,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3762VPZ"
           target = "_blank"
         >
@@ -44,10 +44,10 @@
 <br />
 Built by John Nash in 1825-27 <br />for George III’s third son.
 </div>
-<label class="read-more-clarence-label text-red-700 hover:text-white" for="read-more-clarence-1">Read </label>
+<label class="read-more-clarence-label postcode hover:text-white" for="read-more-clarence-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/30h8lGd"
         target = "_blank"
       >

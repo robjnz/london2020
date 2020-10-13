@@ -14,7 +14,7 @@
       Trinity Road <br />Wandsworth London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2UR5Vv2"
           target = "_blank"
         >
@@ -40,10 +40,10 @@ There are woods<br /> lakes, and heath.....
 
  as well as playgrounds,<br /> café, bowls and tennis,<br /> and a trim trail.
   </div>
- <label class="read-more-wandsworthcommon-label text-red-700 hover:text-white" for="read-more-wandsworthcommon-1">Read </label>
+ <label class="read-more-wandsworthcommon-label postcode hover:text-white" for="read-more-wandsworthcommon-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2UQCF7I"
         target = "_blank"
       >

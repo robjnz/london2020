@@ -17,7 +17,7 @@ Walthamstow London
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/2TMbUAL"
           target = "_blank"
         >
@@ -27,7 +27,7 @@ Walthamstow London
              <h5 class=" mb-4 text-2xl text-pink-300"></h5>
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2IHVzGL"
         target = "_blank"
       >

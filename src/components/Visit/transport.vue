@@ -17,7 +17,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/30zw9Fn"
           target = "_blank"
         >
@@ -55,10 +55,10 @@
    Over the last 200 years.
 
 </div>
-<label class="read-more-transport-label text-red-700 hover:text-white" for="read-more-transport-1">Read </label>
+<label class="read-more-transport-label postcode hover:text-white" for="read-more-transport-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3i9rRu3"
         target = "_blank"
       >

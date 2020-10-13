@@ -16,7 +16,7 @@
  
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2Y2v3ks"
           target = "_blank"
         >
@@ -43,10 +43,10 @@
 <br />
 Over 15,000 objects on display, <br />including world-famous objects<br /> including the Stephenson's <br />Rocket Engine.
 </div>
-<label class="read-more-science-label text-red-700 hover:text-white" for="read-more-science-1">Read </label>
+<label class="read-more-science-label postcode hover:text-white" for="read-more-science-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3eIVEZE"
         target = "_blank"
       >

@@ -18,7 +18,7 @@
       <p class="text-blue-200">
         12-13 New Wharf Road<br /> London
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/39lS6ZF"
           target = "_blank"
         >
@@ -33,10 +33,10 @@
   <div class="read-more-content">
  the people who lived<br /> worked on the waterways.
   </div>
-  <label class="read-more-canal-label text-red-700 hover:text-white" for="read-more-canal-1">Read </label>
+  <label class="read-more-canal-label postcode hover:text-white" for="read-more-canal-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2QM1sHC"
         target = "_blank"
       >

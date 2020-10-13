@@ -19,7 +19,7 @@
         Barnet London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2WDU0SA"
           target = "_blank"
         >
@@ -34,10 +34,10 @@
          its environs are a beautiful place<br /> for a spring or summer walk.
 
   </div>
-  <label class="read-more-totteridge-label text-red-700 hover:text-white" for="read-more-totteridge-1">Read </label>
+  <label class="read-more-totteridge-label postcode hover:text-white" for="read-more-totteridge-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2UdgF6u"
         target = "_blank"
       >

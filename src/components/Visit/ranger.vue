@@ -16,7 +16,7 @@
         Blackheath London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/2TJQa8w"
           target = "_blank"
         >
@@ -38,7 +38,7 @@
 
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2OgMGcC"
         target = "_blank"
       >

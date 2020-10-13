@@ -16,7 +16,7 @@
         Postmill Close<br /> Croydon Surrey
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2V1JKkK"
           target = "_blank"
         >
@@ -42,10 +42,10 @@
      in this country, a fascinating piece of <br />industrial archaeology of<br />a tower Mill built in 1854.
 
   </div>
-  <label class="read-more-shirley-label text-red-700 hover:text-white" for="read-more-shirley-1">Read </label>
+  <label class="read-more-shirley-label postcode hover:text-white" for="read-more-shirley-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2RajpzS"
         target = "_blank"
       >

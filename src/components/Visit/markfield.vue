@@ -17,7 +17,7 @@
       <p class="text-blue-200">
         Markfield Road<br /> Tottenham London 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2QMP4a7"
           target = "_blank"
         >
@@ -50,10 +50,10 @@
   working steam-powered beam<br /> engine dating from 1888. 
 
   </div>
-  <label class="read-more-markfield-label text-red-700 hover:text-white" for="read-more-markfield-1">Read </label>
+  <label class="read-more-markfield-label postcode hover:text-white" for="read-more-markfield-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3bsEHAa"
         target = "_blank"
       >

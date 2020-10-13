@@ -15,7 +15,7 @@
        1a Goldsmiths Row<br />Hackney London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/33cCPZA"
           target = "_blank"
         >
@@ -27,7 +27,7 @@
     
     
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2IGnVkM"
         target = "_blank"
       >

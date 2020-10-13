@@ -15,7 +15,7 @@
         11 Mare Street<br />Hackney London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/3aWJKJ9"
           target = "_blank"
         >
@@ -40,11 +40,11 @@ The Country's only <br />Curiosity Museum.....
 Is dedicated to subverting life,<br /> the universe and everything bored<br /> of the life and world it sees around it<br /> seeks to create a new world<br /> filled with beauty,<br /> wonder and the imagination.
 
   </div>
- <label class="read-more-viktor-label text-red-700 hover:text-white" for="read-more-viktor-1">Read </label>
+ <label class="read-more-viktor-label postcode hover:text-white" for="read-more-viktor-1">Read </label>
 </article>
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2CHwY42"
         target = "_blank"
       >

@@ -16,7 +16,7 @@
         Dagenham Essex
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/3akXLQj"
           target = "_blank"
         >
@@ -34,7 +34,7 @@
       </p>
       -->
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2RtEkMK"
         target = "_blank"
       >

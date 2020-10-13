@@ -15,7 +15,7 @@
         46-50 Copperfield Road<br/>Mile End London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/3aW7T2x"
           target = "_blank"
         >
@@ -26,7 +26,7 @@
 
         
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2R9hzMW"
         target = "_blank"
       >

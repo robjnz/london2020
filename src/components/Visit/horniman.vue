@@ -15,7 +15,7 @@
         100 London Road<br />Forest Hill London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/2TJinfz"
           target = "_blank"
         >
@@ -40,11 +40,11 @@
     The natural environment, <br />encouraging us to shape <br />a positive future for <br />the world we all share
 
 </div>
-<label class="read-more-horniman-label text-red-700 hover:text-white" for="read-more-horniman-1">Read </label>
+<label class="read-more-horniman-label postcode hover:text-white" for="read-more-horniman-1">Read </label>
 </article>
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2ykLEm0"
         target = "_blank"
       >

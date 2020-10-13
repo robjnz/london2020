@@ -16,7 +16,7 @@
         West India Quay London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/2vX30Y2"
           target = "_blank"
         >
@@ -49,7 +49,7 @@
       </p>
       -->
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2EyBcwJ"
         target = "_blank"
       >

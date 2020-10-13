@@ -16,7 +16,7 @@
         High Beach Essex
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2MZX4Cu"
           target = "_blank"
         >
@@ -32,13 +32,13 @@
       <br />
  between Epping in Essex to the north,<br /> and Forest Gate in Greater <br />London to the south,<br /> straddling the border <br />between London and Essex. 
   </div>
-  <label class="read-more-epping-label text-red-700 hover:text-white" for="read-more-epping-1">Read </label>
+  <label class="read-more-epping-label postcode hover:text-white" for="read-more-epping-1">Read </label>
 </article>
         
      
     
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2N0SOTq"
         target = "_blank"
       >

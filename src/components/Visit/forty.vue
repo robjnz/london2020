@@ -18,7 +18,7 @@
       <p class="text-blue-200">
         Forty Hill<br /> Enfield Middlesex  
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2ybi3OD"
           target = "_blank"
         >
@@ -36,10 +36,10 @@
  Landscaped with an Ornamental lake<br /> medieval fishing ponds and streams,<br /> a walled garden.
 
   </div>
-  <label class="read-more-forty-label text-red-700 hover:text-white" for="read-more-forty-1">Read </label>
+  <label class="read-more-forty-label postcode hover:text-white" for="read-more-forty-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3aw80SF"
         target = "_blank"
       >

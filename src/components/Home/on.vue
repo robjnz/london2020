@@ -139,7 +139,7 @@ import westwomen from "@/components/Football/westwomen";
 import barkingR from "@/components/Rugby/barkingR";
 import bethune from "@/components/Visit/bethune";
 import crystalV from "@/components/Visit/crystalV";
-import totteridge from "@/components/Visit/north/totteridge";
+import totteridge from "@/components/Visit/totteridge";
 import wandsworthcommon from "@/components/Visit/wandsworthcommon";
 import wimbledoncommon from "@/components/Visit/wimbledoncommon";
 import batterseazoo from "@/components/Visit/batterseazoo";

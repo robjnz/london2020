@@ -14,7 +14,7 @@
     7 Hammersmith Terrace<br />Hamersmith London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/39WuStp"
           target = "_blank"
         >
@@ -41,10 +41,10 @@ Former home of English engraver<br /> and printer Emery Walker.....
 <br />
  Walker was an important figure <br />in the English Arts <br />and Crafts movement.
   </div>
-<label class="read-more-emery-label text-red-700 hover:text-white" for="read-more-emery-1">Read </label>
+<label class="read-more-emery-label postcode hover:text-white" for="read-more-emery-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/34pp5eL"
         target = "_blank"
       >

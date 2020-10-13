@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/33jYq4x"
           target = "_blank"
         >
@@ -52,10 +52,10 @@ The laboratory has been restored <br />to its 1928 condition.....
 <br />
 Explore the story of Alexander Fleming,<br /> and the discovery and development<br /> of penicillin through displays and video.
 </div>
-<label class="read-more-clink-label text-red-700 hover:text-white" for="read-more-clink-1">Read </label>
+<label class="read-more-clink-label postcode hover:text-white" for="read-more-clink-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3jYa3E2"
         target = "_blank"
       >

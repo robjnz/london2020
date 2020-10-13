@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2WYzLOS"
           target = "_blank"
         >
@@ -23,8 +23,7 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Reopens 7 October</h5>
-        <h5 class=" mb-4 text-base text-orange-300">
+        <h2 class=" mb-4 text-base text-orange-300">
         
       Admission free
 <br /><br />
@@ -34,7 +33,7 @@
 
       
 
-      </h5>
+      </h2>
       <!--
       <p class="text-pink-300">
         <span>
@@ -52,10 +51,10 @@
 <br />
  Aims to challenge <br />how we all think <br />and feel about health.
 </div>
-<label class="read-more-wellcome-label text-red-700 hover:text-white" for="read-more-wellcome-1">Read </label>
+<label class="read-more-wellcome-label postcode hover:text-white" for="read-more-wellcome-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2OZhpce"
         target = "_blank"
       >

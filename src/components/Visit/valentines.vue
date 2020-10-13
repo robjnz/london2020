@@ -16,7 +16,7 @@
         Ilford Essex
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/32JR9IP"
           target = "_blank"
         >
@@ -35,7 +35,7 @@
 
       -->
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2xZFMRL"
         target = "_blank"
       >

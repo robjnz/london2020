@@ -17,7 +17,7 @@
       <p class="text-blue-200">
         129–131 Albert Street<br /> Camden Town London 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/39ow5t0"
           target = "_blank"
         >
@@ -32,10 +32,10 @@
   <div class="read-more-content">
  and preserving the <br />disappearing heritage<br /> of London’s East End.
   </div>
-  <label class="read-more-jewish-label text-red-700 hover:text-white" for="read-more-jewish-1">Read </label>
+  <label class="read-more-jewish-label postcode hover:text-white" for="read-more-jewish-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2JjppSy"
         target = "_blank"
       >

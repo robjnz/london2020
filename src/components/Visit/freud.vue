@@ -18,7 +18,7 @@
       <p class="text-blue-200">
         20 Maresfield Gardens<br />Hampstead London 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2xvMdvn"
           target = "_blank"
         >
@@ -50,10 +50,10 @@
   <div class="read-more-content">
        and see Sigmund Freud iconic couch.
   </div>
-  <label class="read-more-freud-label text-red-700 hover:text-white" for="read-more-freud-1">Read </label>
+  <label class="read-more-freud-label postcode hover:text-white" for="read-more-freud-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3dqVsxw"
         target = "_blank"
       >

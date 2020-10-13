@@ -14,7 +14,7 @@
     Harlesden Road<br />Willesden London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2UQGklP"
           target = "_blank"
         >
@@ -40,10 +40,10 @@
   <div class="read-more-content">
 
  of a Victorian park.<br /> It has a maintains several<br /> iconic buildings of the<br /> area including the gazebo,<br /> drinking fountains<br /> and its flower beds.</div>
-<label class="read-more-roundwood-label text-red-700 hover:text-white" for="read-more-roundwood-1">Read </label>
+<label class="read-more-roundwood-label postcode hover:text-white" for="read-more-roundwood-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3c7BKFQ"
         target = "_blank"
       >

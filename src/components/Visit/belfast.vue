@@ -18,7 +18,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3cQpfPw"
           target = "_blank"
         >
@@ -46,10 +46,10 @@
    Second World War Royal Navy warship.<br /> Since her launch over 82 years ago.
 
 </div>
-<label class="read-more-belfast-label text-red-700 hover:text-white" for="read-more-belfast-1">Read </label>
+<label class="read-more-belfast-label postcode hover:text-white" for="read-more-belfast-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3eevH2X"
         target = "_blank"
       >

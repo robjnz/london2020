@@ -76,11 +76,13 @@
        <p class="text-base event">
        <span>
           <i class="far fa-calendar-alt"></i>
-        </span> 12th October 2020 <br />A Rainy Day in New York 5.30pm
-        <iframe title="video trailor of Arainy day in new york " width="290" height="200" src="https://www.youtube.com/embed/mJxZXImE-3Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </span> 13 October 2020 <br />10 Thing I Hate About You 5.30pm
+        
+        <iframe aria-label="youtube-video" title="video trailer of 10 Thing I Hate About You 0.31 seconds " width="290" height="200" src="https://www.youtube.com/embed/uE7qjQlfoRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
-       Grease 8.30pm
-        <iframe title="video trailer of grease" width="290" height="200" src="https://www.youtube.com/embed/f2CCEixOVVU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       Romeo & Juliet 8.30pm
+       
+        <iframe aria-label="youtube-video" title="video trailer of Romeo & Juliet 2.10 minutes" width="290" height="200" src="https://www.youtube.com/embed/4VBsi0VxiLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       

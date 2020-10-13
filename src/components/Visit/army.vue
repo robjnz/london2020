@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3b2VxFv"
           target = "_blank"
         >
@@ -51,10 +51,10 @@
 <br />
  and its impact on society past <br />and present.revealing true stories <br />of ordinary people with <br />extraordinary responsibilities.
 </div>
-<label class="read-more-army-label text-red-700 hover:text-white" for="read-more-army-1">Read </label>
+<label class="read-more-army-label postcode hover:text-white" for="read-more-army-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2SrND1S"
         target = "_blank"
       >

@@ -15,7 +15,7 @@
        Pinewood Road<br /> Havering-Atte-Bower Essex 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/2Q6imjC"
           target = "_blank"
         >
@@ -30,12 +30,12 @@
       <br />
  It includes 100 acres of woodland.
   </div>
-  <label class="read-more-havering-label text-red-700 hover:text-white" for="read-more-havering-1">Read </label>
+  <label class="read-more-havering-label postcode hover:text-white" for="read-more-havering-1">Read </label>
 </article>
      
       
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2vYTVxT"
         target = "_blank"
       >

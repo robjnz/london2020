@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2VnbQad"
           target = "_blank"
         >
@@ -43,10 +43,10 @@
 <br />
  They comprise of mainly Oaks,<br /> Silver Birches, Hornbeam,<br /> Beech and Hazel trees. 
  </div>
-<label class="read-more-ruislip-label text-red-700 hover:text-white" for="read-more-ruislip-1">Read </label>
+<label class="read-more-ruislip-label postcode hover:text-white" for="read-more-ruislip-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2xgbAlu"
         target = "_blank"
       >

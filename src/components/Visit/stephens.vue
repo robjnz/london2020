@@ -17,7 +17,7 @@
       <p class="text-blue-200">
         17 East End Road<br /> London
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2WHAx3n"
           target = "_blank"
         >
@@ -42,10 +42,10 @@
         gifted for the use <br />and enjoyment of the people<br /> by Henry Charles 'Inky' Stephens<br /> of the Stephens' Ink Company.
 
   </div>
-  <label class="read-more-stephens-label text-red-700 hover:text-white" for="read-more-stephens-1">Read </label>
+  <label class="read-more-stephens-label postcode hover:text-white" for="read-more-stephens-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2R0v5oP"
         target = "_blank"
       >

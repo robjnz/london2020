@@ -15,7 +15,7 @@
         Lodge Avenue<br /> Dagenham Essex
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/33efo23"
           target = "_blank"
         >
@@ -26,7 +26,7 @@
       <br /><br /><br />
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2Q7ZlO3"
         target = "_blank"
       >

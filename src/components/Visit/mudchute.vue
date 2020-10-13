@@ -16,7 +16,7 @@
         Isle of Dogs London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/2QaOYJd"
           target = "_blank"
         >
@@ -25,7 +25,7 @@
         <br /><br /><br />
       </p>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2CXL8ON"
         target = "_blank"
       >

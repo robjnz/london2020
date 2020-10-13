@@ -16,7 +16,7 @@ Pool of Little Venice<br />London
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2VWhMXP"
           target = "_blank"
         >
@@ -44,10 +44,10 @@ Built in the 1810s<br /> this waterway runs for 8.6 miles ......
 
 through east and north-central <br />London between the Grand Union<br />canal at Paddington and the<br /> River Thames at Limehouse.
  </div>
-<label class="read-more-regentscanal-label text-red-700 hover:text-white" for="read-more-regentscanal-1">Read </label>
+<label class="read-more-regentscanal-label postcode hover:text-white" for="read-more-regentscanal-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3535DEI"
         target = "_blank"
       >

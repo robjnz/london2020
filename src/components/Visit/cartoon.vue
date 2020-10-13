@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/310q5Vf"
           target = "_blank"
         >
@@ -54,10 +54,10 @@
   .....
 
 </div>
-<label class="read-more-cartoon-label text-red-700 hover:text-white" for="read-more-cartoon-1">Read </label>
+<label class="read-more-cartoon-label postcode hover:text-white" for="read-more-cartoon-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3fdpmFa"
         target = "_blank"
       >

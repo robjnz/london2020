@@ -15,7 +15,7 @@
        39 Windsor Avenue Merton Abbey<br />Merton London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/34h5FbL"
           target = "_blank"
         >
@@ -42,10 +42,10 @@
         British animal breeds.<br /> A riding school and a cafe. 
 
   </div>
- <label class="read-more-deen-label text-red-700 hover:text-white" for="read-more-deen-1">Read </label>
+ <label class="read-more-deen-label postcode hover:text-white" for="read-more-deen-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2V7oB8O"
         target = "_blank"
       >

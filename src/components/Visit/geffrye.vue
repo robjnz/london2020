@@ -15,7 +15,7 @@
        136 Kingsland Road<br />Hackney London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/38KPSTg"
           target = "_blank"
         >
@@ -27,7 +27,7 @@
      
     
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/3cU96J8"
         target = "_blank"
       >

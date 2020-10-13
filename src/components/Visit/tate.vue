@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3bPDgf1"
           target = "_blank"
         >
@@ -49,10 +49,10 @@
   to the present day<br /> and of international modern<br /> and contemporary art.
 
 </div>
-<label class="read-more-tate-label text-red-700 hover:text-white" for="read-more-tate-1">Read </label>
+<label class="read-more-tate-label postcode hover:text-white" for="read-more-tate-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Xg61wi"
         target = "_blank"
       >

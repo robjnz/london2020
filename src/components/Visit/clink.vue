@@ -27,7 +27,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3gfGKef"
           target = "_blank"
         >
@@ -65,10 +65,10 @@
    and most notorious prisons.<br /><br />There are opportunities to view <br />archaeological artefacts, <br />experience the sights, sounds <br />and smells of the prison.
 
 </div>
-<label class="read-more-clink-label text-red-700 hover:text-white" for="read-more-clink-1">Read </label>
+<label class="read-more-clink-label postcode hover:text-white" for="read-more-clink-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2LQZOkS"
         target = "_blank"
       >

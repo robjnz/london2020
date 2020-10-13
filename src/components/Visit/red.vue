@@ -14,7 +14,7 @@
         Red House Lane<br /> Bexleyheath London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/3aLrxho"
           target = "_blank"
         >
@@ -30,7 +30,7 @@
         <!--Sat 4 to Sat 18 April-->
       </p>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2OK74SV"
         target = "_blank"
       >

@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3b6zdvc"
           target = "_blank"
         >
@@ -53,10 +53,10 @@ Marble Hill was built for Henrietta Howard<br /> mistress of King George II.....
 <br />
   when he was Prince of Wales,<br />  The house and gardens were intended<br /> as an Arcadian retreat<br /> from crowded 18th-century London.
  </div>
-<label class="read-more-marblehouse-label text-red-700 hover:text-white" for="read-more-marblehouse-1">Read </label>
+<label class="read-more-marblehouse-label postcode hover:text-white" for="read-more-marblehouse-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3ab7wAo"
         target = "_blank"
       >

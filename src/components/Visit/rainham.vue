@@ -15,7 +15,7 @@
         The Broadway <br />Rainham Essex 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/39NSUaq"
           target = "_blank"
         >
@@ -32,7 +32,7 @@
       </p>
         -->
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2pV7NSZ"
         target = "_blank"
       >

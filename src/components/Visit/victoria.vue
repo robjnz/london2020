@@ -15,7 +15,7 @@
         Grove Road<br />Bow London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/39RBjhZ"
           target = "_blank"
         >
@@ -25,7 +25,7 @@
              <h5 class=" mb-4 text-2xl text-pink-300"></h5>
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/33nUqOo"
         target = "_blank"
       >

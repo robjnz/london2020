@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2KIY4K4"
           target = "_blank"
         >
@@ -54,10 +54,10 @@
  in contemporary art.<br />
 ecology, climate emergency,<br />and the impact of <br />digital and new technologies. 
 </div>
-<label class="read-more-serpentine-label text-red-700 hover:text-white" for="read-more-serpentine-1">Read </label>
+<label class="read-more-serpentine-label postcode hover:text-white" for="read-more-serpentine-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3f7XFyH"
         target = "_blank"
       >

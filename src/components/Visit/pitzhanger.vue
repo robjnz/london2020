@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2xZuAo8"
           target = "_blank"
         >
@@ -42,10 +42,10 @@ Was the home of Sir John Soane<br /> one of the most influential architects.....
  in British history. <br /><br />Soane designed many <br />extraordinary buildings,<br /> but Pitzhanger is almost unique<br /> as a building designed,<br /> built and lived in<br /> by Soane himself.
 
   </div>
-<label class="read-more-pitzhanger-label text-red-700 hover:text-white" for="read-more-pitzhanger-1">Read </label>
+<label class="read-more-pitzhanger-label postcode hover:text-white" for="read-more-pitzhanger-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2RscMsO"
         target = "_blank"
       >

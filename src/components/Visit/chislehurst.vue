@@ -16,7 +16,7 @@
         Old Hill<br /> Chislehurst Kent
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/39GYlXR"
           target = "_blank"
         >
@@ -53,10 +53,10 @@
         They were dug for the chalk to<br /> use in lime burning<br /> and brick making of<br /> Building London<br /> as well as for flints<br /> to fire the tinderboxes<br /> and flintlock guns.
 
   </div>
-  <label class="read-more-chislehurst-label text-red-700 hover:text-white" for="read-more-chislehurst-1">Read </label>
+  <label class="read-more-chislehurst-label postcode hover:text-white" for="read-more-chislehurst-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2UHY5ni"
         target = "_blank"
       >

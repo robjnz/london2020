@@ -15,7 +15,7 @@
         2- 4 Homerton High Street<br /> Hackney London 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/39NqFJf"
           target = "_blank"
         >
@@ -33,7 +33,7 @@
       </p>
 -->
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2QB1TXc"
         target = "_blank"
       >

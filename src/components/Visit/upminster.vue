@@ -15,7 +15,7 @@
         89 St Marys Lane<br /> Upminster Essex 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/2QeVGhh"
           target = "_blank"
         >
@@ -25,7 +25,7 @@
               <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
 
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2EmkhgG"
         target = "_blank"
       >

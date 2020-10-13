@@ -16,7 +16,7 @@
         Beckton London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "http://bit.ly/2W86YaM"
           target = "_blank"
         >
@@ -27,7 +27,7 @@
 
       
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "http://bit.ly/2Q8dkDk"
         target = "_blank"
       >

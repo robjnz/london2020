@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3abNWnh"
           target = "_blank"
         >
@@ -50,10 +50,10 @@
 <br />
   stunning art collection, including <br />Rembrandt's 'Portrait with Two Circles'.
  </div>
-<label class="read-more-kenwood-label text-red-700 hover:text-white" for="read-more-kenwood-1">Read </label>
+<label class="read-more-kenwood-label postcode hover:text-white" for="read-more-kenwood-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2yrob5n"
         target = "_blank"
       >

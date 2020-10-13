@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2WSVxnE"
           target = "_blank"
         >
@@ -45,10 +45,10 @@
   The present building retains <br />the basic form of the <br />Gothic structure built <br />between 1220 and 1420.
 
 </div>
-<label class="read-more-soutwarkcath-label text-red-700 hover:text-white" for="read-more-soutwarkcath-1">Read </label>
+<label class="read-more-soutwarkcath-label postcode hover:text-white" for="read-more-soutwarkcath-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2LJ92Qm"
         target = "_blank"
       >

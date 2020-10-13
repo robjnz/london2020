@@ -17,7 +17,7 @@
       <p class="text-blue-200">
         Hampstead Grove<br /> London 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3bqy9Ce"
           target = "_blank"
         >
@@ -32,10 +32,10 @@
   <div class="read-more-content">
  .....
   </div>
-  <label class="read-more-fenton-label text-red-700 hover:text-white" for="read-more-fenton-1">Read </label>
+  <label class="read-more-fenton-label postcode hover:text-white" for="read-more-fenton-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Jl8df6"
         target = "_blank"
       >

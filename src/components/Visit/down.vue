@@ -15,7 +15,7 @@
         Luxted Road Downe Orpington<br /> Bromley Kent
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2xKagam"
           target = "_blank"
         >
@@ -52,10 +52,10 @@
          See the study where<br /> Darwin wrote 'On the Origin of Species'<br  /> and stroll through the gardens<br /> that inspired him.
 
   </div>
-  <label class="read-more-down-label text-red-700 hover:text-white" for="read-more-down-1">Read </label>
+  <label class="read-more-down-label postcode hover:text-white" for="read-more-down-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2RaujVY"
         target = "_blank"
       >

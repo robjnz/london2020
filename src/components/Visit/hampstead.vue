@@ -16,7 +16,7 @@ Highgate London
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3abNWnh"
           target = "_blank"
         >
@@ -43,10 +43,10 @@ Highgate London
 <br />
  ......
  </div>
-<label class="read-more-hampstead-label text-red-700 hover:text-white" for="read-more-hampstead-1">Read </label>
+<label class="read-more-hampstead-label postcode hover:text-white" for="read-more-hampstead-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2VfzR49"
         target = "_blank"
       >

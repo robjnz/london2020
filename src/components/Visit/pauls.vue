@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2RFn8p5"
           target = "_blank"
         >
@@ -53,10 +53,10 @@ The cathedral is one of the most <br />recognisable sights of London......
 <br />
  It sits on Ludgate Hill <br /> at the highest point of the City of London<br /> and is a Grade I listed building. 
  </div>
-<label class="read-more-pauls-label text-red-700 hover:text-white" for="read-more-pauls-1">Read </label>
+<label class="read-more-pauls-label postcode hover:text-white" for="read-more-pauls-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3abjhqv"
         target = "_blank"
       >

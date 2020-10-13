@@ -16,7 +16,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3e98wr1"
           target = "_blank"
         >
@@ -44,10 +44,10 @@
    This atmospheric museum <br />offers a unique insight into<br /> the history of medicine and surgery.
 
 </div>
-<label class="read-more-operating-label text-red-700 hover:text-white" for="read-more-operating-1">Read </label>
+<label class="read-more-operating-label postcode hover:text-white" for="read-more-operating-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3gj1G3V"
         target = "_blank"
       >

@@ -15,7 +15,7 @@
       Cromwell Road<br />Kensington London
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3eITo4C"
           target = "_blank"
         >
@@ -51,10 +51,10 @@ The Museum is a world-class <br />as a science research centre.......
 <br />
 Housing over 80 million specimens<br /> spanning billions of years.
 </div>
-<label class="read-more-natural-label text-red-700 hover:text-white" for="read-more-natural-1">Read </label>
+<label class="read-more-natural-label postcode hover:text-white" for="read-more-natural-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/353O5s9"
         target = "_blank"
       >

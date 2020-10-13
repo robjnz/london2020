@@ -16,7 +16,7 @@ King's Road<br />Chelsea London
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/3f0Y466"
           target = "_blank"
         >
@@ -54,10 +54,10 @@ King's Road<br />Chelsea London
 <br />
 and international artists<br /> who have never <br />exhibited in the UK.
 </div>
-<label class="read-more-saatchi-label text-red-700 hover:text-white" for="read-more-saatchi-1">Read </label>
+<label class="read-more-saatchi-label postcode hover:text-white" for="read-more-saatchi-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3cTg8xc"
         target = "_blank"
       >

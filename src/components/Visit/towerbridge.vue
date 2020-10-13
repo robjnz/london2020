@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/34BkyWF"
           target = "_blank"
         >
@@ -54,10 +54,10 @@ Tower Bridge will transport<br /> you back to Victorian London......
 telling the story of the city’s <br />defining landmark from <br />the very beginning.
 <br /><br />visit its high-level <br />Walkways and Glass Floors.
  </div>
-<label class="read-more-towerbridge-label text-red-700 hover:text-white" for="read-more-towerbridge-1">Read </label>
+<label class="read-more-towerbridge-label postcode hover:text-white" for="read-more-towerbridge-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2RFKCdU"
         target = "_blank"
       >

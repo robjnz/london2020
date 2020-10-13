@@ -15,7 +15,7 @@
 
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/2Kl5a7l"
           target = "_blank"
         >
@@ -42,10 +42,10 @@
 <br />
  It has a large wetland area <br />and is home to around 100 species<br /> of wild bird and a breeding <br />population of hedgehogs.
  </div>
-<label class="read-more-regentspark-label text-red-700 hover:text-white" for="read-more-regentspark-1">Read </label>
+<label class="read-more-regentspark-label postcode hover:text-white" for="read-more-regentspark-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/2XZrGed"
         target = "_blank"
       >

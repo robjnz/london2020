@@ -16,7 +16,7 @@
         Church Street<br />  Croydon Surrey
 
         <g-link
-          class  = "text-red-700 hover:text-white"
+          class  = "postcode hover:text-white"
           to     = "https://bit.ly/34b85bS"
           target = "_blank"
         >
@@ -42,10 +42,10 @@
   <div class="read-more-content">
  It is believed to have been founded<br /> in Saxon times. There <br /> is a record of a<br /> priest of Croydon in 960. <br />The first record of<br /> a church building<br /> is in Domesday Book of 1086. 
   </div>
-  <label class="read-more-minster-label text-red-700 hover:text-white" for="read-more-minster-1">Read </label>
+  <label class="read-more-minster-label postcode hover:text-white" for="read-more-minster-1">Read </label>
 </article>
       <g-link
-        class  = "text-red-700 hover:text-white"
+        class  = "postcode hover:text-white"
         to     = "https://bit.ly/3aKv2VT"
         target = "_blank"
       >
