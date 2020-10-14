@@ -62,12 +62,12 @@
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       12  October 2020<br />
+       Monday 12  October 2020<br />
        To<br />
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       31 October 2020<br />
+       Saturday 31 October 2020<br />
        <br />
       
        Films includes a mix of family classics<br /> such as Jurassic Park and Ghostbusters,<br /> cult classics Pulp Fiction.      
@@ -76,13 +76,12 @@
        <p class="text-base event">
        <span>
           <i class="far fa-calendar-alt"></i>
-        </span> 13 October 2020 <br />10 Thing I Hate About You 5.30pm
-        
-        <iframe aria-label="youtube-video" title="video trailer of 10 Thing I Hate About You 0.31 seconds " width="290" height="200" src="https://www.youtube.com/embed/uE7qjQlfoRs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </span> Wednesday 14 October 2020 <br />Rocks 5.30pm
+        <iframe aria-label="youtube-video" title="video trailer of rocks  2.07 seconds " width="290" height="200" src="https://www.youtube.com/embed/NULP0s2FhPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
-       Romeo & Juliet 8.30pm
+       The Big Lebowski 8.30pm
        
-        <iframe aria-label="youtube-video" title="video trailer of Romeo & Juliet 2.10 minutes" width="290" height="200" src="https://www.youtube.com/embed/4VBsi0VxiLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe aria-label="youtube-video" title="video trailer of the Big Lebowski 1.09 minutes" width="290" height="200" src="https://www.youtube.com/embed/4VBsi0VxiLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       
