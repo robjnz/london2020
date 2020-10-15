@@ -21,7 +21,7 @@
 </h1>
       <g-link href="https://bit.ly/2vTGGyw" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "object-scale-down"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585222919/alexandra_d4foln.jpg"
           fluid-grow
           alt = "Alexandra Palace "
@@ -41,7 +41,7 @@
       
        <g-link href="https://bit.ly/33bFdBq" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "object-scale-down"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1601366033/driveinclub_vxrkk8.jpg"
           fluid-grow
           alt = "Alexandra Palace drive in club poster"
@@ -76,12 +76,12 @@
        <p class="text-base event">
        <span>
           <i class="far fa-calendar-alt"></i>
-        </span> Wednesday 14 October 2020 <br />Rocks 5.30pm
-        <iframe aria-label="youtube-video" title="video trailer of rocks  2.07 seconds " width="290" height="200" src="https://www.youtube.com/embed/NULP0s2FhPE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </span> Thursday 15 October 2020 <br />Fleabag 5.30pm
+
+        <iframe class="object-scale-down" aria-label="youtube-video" title="video trailer of Fleabag  0.26 seconds " width="290" height="200" src="https://www.youtube.com/embed/ygWAY44SKYQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
-       The Big Lebowski 8.30pm
-       
-        <iframe aria-label="youtube-video" title="video trailer of the Big Lebowski 1.09 minutes" width="290" height="200" src="https://www.youtube.com/embed/4VBsi0VxiLg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       Escape From Pretoria 8.30pm
+        <iframe aria-label="youtube-video" title="video trailer of  Escape From Pretoria 2.46 minutes" width="290" height="200" src="https://www.youtube.com/embed/FBcEDnA1pD4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       

@@ -24,8 +24,8 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300">Open</h5>
-      <h5 class=" mb-4 text-lg text-pink-300">personal prayer and devotion </h5>
+      <h2 class=" mb-4 text-2xl text-pink-300">Open</h2>
+      <h2 class=" mb-4 text-lg text-pink-300">personal prayer and devotion </h2>
 
       <!--
       <p class="text-pink-300">

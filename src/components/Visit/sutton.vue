@@ -22,7 +22,7 @@
           E9 6JQ
         </g-link>
       </p>
-      <h5 class="text-2xl text-pink-300">Closed</h5>
+      <h2 class="text-2xl text-pink-300">Closed</h2>
 
       <!--
       <p class="text-pink-300">

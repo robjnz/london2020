@@ -22,15 +22,15 @@
           E8 4RP 
         </g-link>
       </p>
-             <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-              <h5 class=" mb-4 text-base text-orange-300">
+             <h2 class=" mb-4 text-2xl text-pink-300"></h2>
+              <h2 class=" mb-4 text-base text-orange-300">
         
       Adults: £8.00 <br />
 <br />
       Opening Times: <br />Wed To Sun<br />12.00pm To 10.00pm
       <br />Book Online
       <br />
-      </h5>
+      </h2>
 
        <article class="text-blue-200">
 The Country's only <br />Curiosity Museum.....

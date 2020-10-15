@@ -18,7 +18,7 @@
       <g-link href="https://bit.ly/2LQZOkS" target="_blank"
         ><g-image
           class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1590226180/clink_fmnh59.jpg"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1590226180/clink_fmnh29.jpg"
           alt   = "clink Prison Museum"
       /></g-link>
       <p class="text-blue-200">
@@ -35,8 +35,8 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-        <h5 class=" mb-4 text-base text-orange-300">
+      <h2 class=" mb-4 text-2xl text-pink-300"></h2>
+        <h2 class=" mb-4 text-base text-orange-300">
         
       Adults: £8.50 <br />Concession £6.50 <br />Children: £6.50 
 <br />Family: £24.20<br /><br />
@@ -46,7 +46,7 @@
 
       
 
-      </h5>
+      </h2>
       <!--
       <p class="text-pink-300">
         <span>

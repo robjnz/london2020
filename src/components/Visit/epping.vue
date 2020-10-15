@@ -24,7 +24,7 @@
         </g-link>
       </p>
 
-       <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+       <h2 class=" mb-4 text-2xl text-pink-300"></h2>
       <article class="text-blue-200">
   Epping Forest is a 2,400-hectare area<br /> of ancient woodland....... 
   <input id="read-more-epping-1" class="read-more-epping" type="checkbox">

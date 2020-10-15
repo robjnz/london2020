@@ -23,8 +23,8 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-       <h5 class=" mb-4 text-base text-orange-300">
+      <h2 class=" mb-4 text-2xl text-pink-300"></h2>
+       <h2 class=" mb-4 text-base text-orange-300">
         
       Adults: £14.50 <br />Concession £13.10 <br />Children: £8.70 
 <br />Family: £37.70<br /><br />
@@ -34,7 +34,7 @@
 
       
 
-      </h5>
+      </h2>
       
       <!--
       <p class="text-pink-300">

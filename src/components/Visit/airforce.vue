@@ -9,10 +9,9 @@
 </h1
       >
       <g-link href="https://bit.ly/3broAmB" target="_blank"
-        ><g-image
-          class = "w-auto h-auto"
+        ><g-image 
+          class = "object-scale-down"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585156962/airforce_ft0caa.jpg"
-          fluid-grow
           alt = "Royal Air Force Museum"
       /></g-link>
       <p class="text-blue-200">
@@ -26,8 +25,7 @@
         </g-link>
       </p>
       
-       <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-       <h5 class=" mb-4 text-base text-orange-300">
+       <h2 class=" mb-4 text-base text-orange-300">
      Admission free<br />
      
      <br />
@@ -35,7 +33,7 @@
 <br />Required To Book Online
        
 
-     </h5>
+     </h2>
       <article class="text-blue-200">
   Celebrates and commemorates<br /> the Royal Air Force 
 ....... 

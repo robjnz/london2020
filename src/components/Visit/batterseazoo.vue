@@ -22,7 +22,7 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-base text-orange-300">
+      <h2 class=" mb-4 text-base text-orange-300">
         <br />
       Adults: £9.95 <br />Children: £7.95 <br />Family: £32.50
 <br /><br />
@@ -38,7 +38,7 @@
       </g-link>
       
 
-      </h5>
+      </h2>
       <!--
       <p class="text-pink-300">
         <span>

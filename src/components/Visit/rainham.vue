@@ -21,7 +21,7 @@
         >
          RM13 9YN
         </g-link>
-         <h5 class="text-2xl text-pink-300">Closed</h5>
+         <h2 class="text-2xl text-pink-300">Closed</h2>
 
         <!-- 
       <p class="text-pink-300">

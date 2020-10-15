@@ -22,7 +22,7 @@
           E3 5TB
         </g-link>
       </p>
-             <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+             <h2 class=" mb-4 text-2xl text-pink-300"></h2>
 
       <g-link
         class  = "postcode hover:text-white"

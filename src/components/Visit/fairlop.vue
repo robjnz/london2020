@@ -22,7 +22,7 @@ Barkingside Essex
         >
           IG6 3HN
         </g-link>
-          <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+          <h2 class=" mb-4 text-2xl text-pink-300"></h2>
       <article class="text-blue-200">
   Fairlop Waters Country Park <br />is part of the larger Fairlop Plain........ 
   <input id="read-more-fairlop-1" class="read-more-fairlop" type="checkbox">

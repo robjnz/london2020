@@ -23,8 +23,8 @@
           SE10 8QX
         </g-link>
       </p>
-            <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-             <h5 class=" mb-4 text-base text-orange-300">
+            <h2 class=" mb-4 text-2xl text-pink-300"></h2>
+             <h2 class=" mb-4 text-base text-orange-300">
         
       Adults: £10.00 <br />Concession £9.00 <br />Children: £6.00 
 <br />Family: £26.00<br /><br />
@@ -34,7 +34,7 @@
 
       
 
-      </h5>
+      </h2>
 
 
       <g-link

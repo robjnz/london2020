@@ -35,8 +35,8 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-        <h5 class=" mb-4 text-base text-orange-300">
+      <h2 class=" mb-4 text-2xl text-pink-300"></h2>
+        <h2 class=" mb-4 text-base text-orange-300">
         
       Adults: £9.50 <br />Concession £7.50 <br />Children: £4.50 
 <br /><br />
@@ -46,7 +46,7 @@
 
       
 
-      </h5>
+      </h2>
       <h1 class="text-2xl text-teal-400"> Events:</h1>
       <h2 class="text-2xl text-teal-400"> The Living Image <br />of Charles Dickens</h2>
 

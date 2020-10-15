@@ -25,7 +25,7 @@
         </g-link>
       </p>
       
-       <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+       <h2 class=" mb-4 text-2xl text-pink-300">Closed</h2>
       <article class="text-blue-200">
   Social history of Jewish people<br /> across London....... 
   <input id="read-more-jewish-1" class="read-more-jewish" type="checkbox">

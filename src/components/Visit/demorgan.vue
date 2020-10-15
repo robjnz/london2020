@@ -22,8 +22,8 @@
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
-        <h5 class=" mb-4 text-base text-orange-300">
+      <h2 class=" mb-4 text-2xl text-pink-300"></h2>
+        <h2 class=" mb-4 text-base text-orange-300">
         
    
       <!--Opening Times: <br />Mon To Sun<br />
@@ -31,7 +31,7 @@
       <br />Required To Book Online<br />
      
 
-      </h5>
+      </h2>
       
       <!--
       <p class="text-pink-300">

@@ -24,8 +24,8 @@
         </g-link>
       </p>
 
-     <h5 class="text-2xl text-pink-300">Gardens Open</h5>
-     <h5 class=" mb-4 text-base text-orange-300">
+     <h2 class="text-2xl text-pink-300">Gardens Open</h2>
+     <h2 class=" mb-4 text-base text-orange-300">
         <br />
       Adults: £8.00 <br />Concession £7.00 <br />Children: £4.00<br /> Family: £20.00 
 <br />
@@ -34,7 +34,7 @@
 
       
 
-      </h5>
+      </h2>
 <!--
      <br />
       <p class="text-pink-300">

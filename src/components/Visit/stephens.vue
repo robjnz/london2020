@@ -24,8 +24,8 @@
            N3 3QE 
         </g-link>
       </p>
-       <h5 class=" mb-4 text-2xl text-pink-300">Gardens Open</h5>
-        <h5 class=" mb-4 text-base text-orange-300">
+       <h2 class=" mb-4 text-2xl text-pink-300">Gardens Open</h2>
+        <h2 class=" mb-4 text-base text-orange-300">
      Admission free<br />
      
      <br />
@@ -33,7 +33,7 @@
 <br />
        
 
-     </h5>
+     </h2>
 
       <article class="text-blue-200">
   Grade ll listed house <br /> & landscaped gardens......<br /> 

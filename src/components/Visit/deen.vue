@@ -16,14 +16,14 @@
 
         <g-link
           class  = "postcode hover:text-white"
-          to     = "https://bit.ly/34h5FbL"
+          to     = "https://bit.ly/34h2FbL"
           target = "_blank"
         >
           SW19 2RR
         </g-link>
       </p>
       
-      <h5 class=" mb-4 text-2xl text-pink-300"></h5>
+      <h2 class=" mb-4 text-2xl text-pink-300"></h2>
       
       <!--
       <p class="text-pink-300">

@@ -22,7 +22,7 @@
           RM4 1PB
         </g-link>
       </p>
-<h5 class=" mb-4 text-2xl text-pink-300"></h5>
+<h2 class=" mb-4 text-2xl text-pink-300"></h2>
       <article class="text-blue-200">
   Havering Country Park <br />is a varied environment....... 
   <input id="read-more-havering-1" class="read-more-havering" type="checkbox">

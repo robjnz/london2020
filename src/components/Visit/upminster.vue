@@ -22,7 +22,7 @@
         RM14 2QL
         </g-link>
       </p>
-              <h5 class=" mb-4 text-2xl text-pink-300">Closed</h5>
+              <h2 class=" mb-4 text-2xl text-pink-300">Closed</h2>
 
       <g-link
         class  = "postcode hover:text-white"
