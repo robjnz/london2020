@@ -17,8 +17,8 @@
         </span>  Apsley House </h1>
       <g-link href="https://bit.ly/2Dwwijt" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1596361693/apsley_etjixy.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1596361693/apsley_etjixy.jpg"
           alt   = "apsley house"
       /></g-link>
       <p class="text-blue-200">
@@ -77,7 +77,7 @@ collection of paintings, <br />silver and porcelain <br />many of the items <br 
 </article>
 
 <br />
-      <iframe title="video virtual tour of the The Apsley House 0.39 minute long" width="290" height="200" src="https://www.youtube.com/embed/0iMBvabZKc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe  class="h-32 w-full object-fill" title="video virtual tour of the The Apsley House 0.39 minute long" src="https://www.youtube.com/embed/0iMBvabZKc4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <g-link
         class  = "postcode hover:text-white"

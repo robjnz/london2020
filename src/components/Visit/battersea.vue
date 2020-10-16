@@ -6,8 +6,8 @@
         </span> Battersea Park</h1>
       <g-link href="https://bit.ly/2xXCSwL" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1586361831/batterseapark_k3yiaz.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586361831/batterseapark_k3yiaz.jpg"
           alt   = "Battersea Park"
       /></g-link>
       <p class="text-blue-200">
@@ -46,7 +46,7 @@
 
 <br />
 
-      <iframe title="video Battersea Park 13.32 minute long" width="290" height="200" src="https://www.youtube.com/embed/q8I_FNrwQ4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-fill" title="video Battersea Park 13.32 minute long" src="https://www.youtube.com/embed/q8I_FNrwQ4w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <g-link
         class  = "postcode hover:text-white"

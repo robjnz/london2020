@@ -9,8 +9,8 @@
         
       <g-link href="https://bit.ly/3asPxGc" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585076334/bethune_c02oyh.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1585076334/bethune_c02oyh.jpg"
           fluid-grow
           alt = "Bethune Nature Reserve"
       /></g-link>

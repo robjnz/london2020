@@ -6,8 +6,8 @@
         </span> Bank Of England Museum</h1>
       <g-link href="https://bit.ly/3ens6AP" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1586879358/bankengland_rxmejw.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586879358/bankengland_rxmejw.jpg"
           alt   = "bank of england museum"
       /></g-link>
       <p class="text-blue-200">
@@ -46,7 +46,7 @@ Learn about the <br />Bank of England and money.....
 </article>
 
 <br />
-      <iframe title="video tour of bank of england 6.17 minute long" width="290" height="200" src="https://www.youtube.com/embed/vMAsY7XLNvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-fill" title="video tour of bank of england 6.17 minute long" src="https://www.youtube.com/embed/vMAsY7XLNvU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <g-link
         class  = "postcode hover:text-white"

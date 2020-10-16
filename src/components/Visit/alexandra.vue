@@ -19,13 +19,15 @@
         </span>
         Alexandra Palace 
 </h1>
+
       <g-link href="https://bit.ly/2vTGGyw" target="_blank"
         ><g-image
-          class = "object-scale-down"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585222919/alexandra_d4foln.jpg"
-          fluid-grow
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1585222919/alexandra_d4foln.jpg"
           alt = "Alexandra Palace "
       /></g-link>
+
+      
       <p class="text-blue-200">
         Alexandra Palace Way<br /> London 
         <g-link
@@ -41,8 +43,8 @@
       
        <g-link href="https://bit.ly/33bFdBq" target="_blank"
         ><g-image
-          class = "object-scale-down"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1601366033/driveinclub_vxrkk8.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1601366033/driveinclub_vxrkk8.jpg"
           fluid-grow
           alt = "Alexandra Palace drive in club poster"
       /></g-link>
@@ -76,12 +78,12 @@
        <p class="text-base event">
        <span>
           <i class="far fa-calendar-alt"></i>
-        </span> Thursday 15 October 2020 <br />Fleabag 5.30pm
+        </span> Friday 16 October 2020 <br />Monster Inc 5.30pm
 
-        <iframe class="object-scale-down" aria-label="youtube-video" title="video trailer of Fleabag  0.26 seconds " width="290" height="200" src="https://www.youtube.com/embed/ygWAY44SKYQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Monster inc 1.42 seconds" src="https://www.youtube.com/embed/8IBNZ6O2kMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
-       Escape From Pretoria 8.30pm
-        <iframe aria-label="youtube-video" title="video trailer of  Escape From Pretoria 2.46 minutes" width="290" height="200" src="https://www.youtube.com/embed/FBcEDnA1pD4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       Queen And Slim 8.30pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of  Queen And Slim 2.30 minutes" src="https://www.youtube.com/embed/CDnhh4NEi_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       

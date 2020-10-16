@@ -31,8 +31,10 @@ v-for="edge in $page.docs.edges" :key="edge.node.id">
 
 </div>
 
-
-     <on />
+<div class="overflow-auto">
+  <on />
+</div>
+     
 
      </div>
    
