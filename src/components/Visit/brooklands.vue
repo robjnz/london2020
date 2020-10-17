@@ -6,8 +6,8 @@
         </span>  Brooklands Museum </h1>
       <g-link href="https://bit.ly/30s25es" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1596617827/brooklands_fbu3mr.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1596617827/brooklands_fbu3mr.jpg"
           alt   = "Brooklands Museum"
       /></g-link>
       <p class="text-blue-200">
@@ -58,7 +58,7 @@ Loch Ness Wellington Bomber, <br />Concorde, McLaren F1 racing Car <br />amd muc
 </article>
 
 <br />
-      <iframe title="video Brooklands Museum 2.13 minute long" width="290" height="200" src="https://www.youtube.com/embed/lRps-EEo-zw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-fill" title="video Brooklands Museum 2.13 minute long" src="https://www.youtube.com/embed/lRps-EEo-zw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <g-link
         class  = "postcode hover:text-white"

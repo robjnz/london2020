@@ -6,7 +6,7 @@
         </span>  Buckingham Palace</h1>
       <g-link href="https://bit.ly/3eZ8nXv" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1591526855/gallery_uog4fg.jpg"
           alt   = "buckingham palace"
       /></g-link>
@@ -47,7 +47,7 @@ The Royal Collection, featuring <br />old master paintings, <br />rare furniture
 </article>
 
 <br />
-      <iframe title="video The queen's gallery Buckingham Palace 7.07 minute long" width="290" height="200" src="https://www.youtube.com/embed/-wqtvxIVyMs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-fill" title="video The queen's gallery Buckingham Palace 7.07 minute long" src="https://www.youtube.com/embed/-wqtvxIVyMs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <g-link
         class  = "postcode hover:text-white"

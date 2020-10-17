@@ -6,8 +6,8 @@
         </span>  Carlye House</h1>
       <g-link href="https://bit.ly/3aTRif7" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1588431500/carlyle_fkvpex.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1588431500/carlyle_fkvpex.jpg"
           alt   = "carlye house"
       /></g-link>
       <p class="text-blue-200">

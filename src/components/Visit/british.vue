@@ -16,8 +16,8 @@
         </span> British Museum</h1>
       <g-link href="https://bit.ly/2KckjaU" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1587052674/british_vexfwb.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1587052674/british_vexfwb.jpg"
           alt   = "British Museum"
       /></g-link>
       <p class="text-blue-200">
@@ -53,7 +53,7 @@
 
          <g-link href="https://bit.ly/2G97AHd" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1600925729/tantra_bxmva7.jpg"
           alt   = "Tantra Enlightenment poster"
       /></g-link>
@@ -70,7 +70,7 @@
 
       </p>
       <br />
-      <iframe title="video virtual tour of the The British Museum Tantra Enlightenment To Revolution 2.20 minute long" width="290" height="200" src="https://www.youtube.com/embed/iMxzzuR9ZZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-fill" title="video virtual tour of the The British Museum Tantra Enlightenment To Revolution 2.20 minute long" src="https://www.youtube.com/embed/iMxzzuR9ZZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <article class="text-blue-200">
 The British Museum was founded in 1753<br /> opened its doors in 1759.......
@@ -84,7 +84,7 @@ The British Museum was founded in 1753<br /> opened its doors in 1759.......
 </article>
 
 <br />
-      <iframe title="video virtual tour of the The British Museum 1.13 minute long" width="290" height="200" src="https://www.youtube.com/embed/kMQgBAaUNs4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-fill" title="video virtual tour of the The British Museum 1.13 minute long" src="https://www.youtube.com/embed/kMQgBAaUNs4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <g-link
         class  = "postcode hover:text-white"

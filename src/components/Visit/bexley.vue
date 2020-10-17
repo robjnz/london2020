@@ -5,7 +5,7 @@
            <i class="fas fa-landmark"></i>
         </span> Bexley Park Wood</h1>
       <g-link href="http://bit.ly/2E7182l" target="_blank"
-        ><g-image class="w-auto h-auto"
+        ><g-image class="h-32 w-full object-fill"
           src = "@/images/visit/bexleywoods.jpg"
           fluid-grow
           alt = "Bexley Park Wood"

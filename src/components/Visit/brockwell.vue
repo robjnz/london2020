@@ -6,8 +6,8 @@
         </span>  Brockwell Park</h1>
       <g-link href="https://bit.ly/35uUEnE" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1588606892/brockwell_eqfeyv.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1588606892/brockwell_eqfeyv.jpg"
           alt   = "brockwell park"
       /></g-link>
       <p class="text-blue-200">

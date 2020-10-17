@@ -6,7 +6,7 @@
         </span>  Buckingham Palace</h1>
       <g-link href="https://bit.ly/30f7vd4" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1591525110/buckingham_jgziiv.jpg"
           alt   = "buckingham palace"
       /></g-link>
@@ -47,7 +47,7 @@ It's where The Queen and members <br />of the Royal Family receive <br />and ent
 </article>
 
 <br />
-      <iframe title="video The State Rooms Buckingham Palace 7.07 minute long" width="290" height="200" src="https://www.youtube.com/embed/eW5mNMoJxQk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-fill" title="video The State Rooms Buckingham Palace 7.07 minute long" src="https://www.youtube.com/embed/eW5mNMoJxQk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <g-link
         class  = "postcode hover:text-white"

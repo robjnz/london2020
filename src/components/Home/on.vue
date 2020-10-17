@@ -6,7 +6,7 @@
         <i class="far fa-calendar-alt"></i>
       </span>
   
-  Friday 16 October 2020
+  Saturday 17 October 2020
     </h2>
     <p class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">

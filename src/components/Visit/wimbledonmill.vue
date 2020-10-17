@@ -6,8 +6,8 @@
         </span> Wimbledon Windmill</h1>
       <g-link href="https://bit.ly/2JI6QHT" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1586254162/wimbledonmill_bswfoa.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586254162/wimbledonmill_bswfoa.jpg"
           fluid-grow
           alt = "Wimbledon Windmill Museum"
       /></g-link>

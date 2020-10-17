@@ -6,8 +6,8 @@
         </span>  Buckingham Palace</h1>
       <g-link href="https://bit.ly/2Y6V8xf" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1591525963/mews_llzq0x.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1591525963/mews_llzq0x.jpg"
           alt   = "buckingham palace"
       /></g-link>
       <p class="text-blue-200">
@@ -47,7 +47,7 @@ Westminster <br />London
 </article>
 
 <br />
-      <iframe title="video The royal mews Buckingham Palace 8.58 minute long" width="290" height="200" src="https://www.youtube.com/embed/a3V715WIplY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-fill" title="video The royal mews Buckingham Palace 8.58 minute long" src="https://www.youtube.com/embed/a3V715WIplY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <g-link
         class  = "postcode hover:text-white"

@@ -78,12 +78,16 @@
        <p class="text-base event">
        <span>
           <i class="far fa-calendar-alt"></i>
-        </span> Friday 16 October 2020 <br />Monster Inc 5.30pm
+        </span> Saturday 17 October 2020 <br />Jumanji The Next Level 2.30pm
 
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Monster inc 1.42 seconds" src="https://www.youtube.com/embed/8IBNZ6O2kMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Jumanji The Next Level 2.57 minutes" src="https://www.youtube.com/embed/rBxcF-r9Ibs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
-       Queen And Slim 8.30pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of  Queen And Slim 2.30 minutes" src="https://www.youtube.com/embed/CDnhh4NEi_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       Jurassic Park 5.30pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Jurassic Park 1.16 minutes" src="https://www.youtube.com/embed/QWBKEmWWL38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       
+         <br />
+       Friday 8.45pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Friday 2.43 minutes" src="https://www.youtube.com/embed/umvFBoLOOgo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       
