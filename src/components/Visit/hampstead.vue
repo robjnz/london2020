@@ -6,8 +6,8 @@
         </span> Hampstead Heath</h1>
       <g-link href="https://bit.ly/2VfzR49" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1587054305/hampstead_dystfp.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1587054305/hampstead_dystfp.jpg"
           alt   = "hampstead Heath"
       /></g-link>
       <p class="text-blue-200">

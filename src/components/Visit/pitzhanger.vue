@@ -6,8 +6,8 @@
         </span> Pitzhanger Manor</h1>
       <g-link href="https://bit.ly/2RscMsO" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1586443218/pitzhanger_nco2e9.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586443218/pitzhanger_nco2e9.jpg"
           alt   = "pitzhanger manor"
       /></g-link>
       <p class="text-blue-200">

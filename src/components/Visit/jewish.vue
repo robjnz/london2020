@@ -9,9 +9,8 @@
 </h1>
       <g-link href="https://bit.ly/2JjppSy" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585230475/jewish_uqhr2a.jpg"
-          fluid-grow
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1585230475/jewish_uqhr2a.jpg"
           alt = "Jewish Museum"
       /></g-link>
       <p class="text-blue-200">

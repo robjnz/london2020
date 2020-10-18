@@ -6,8 +6,8 @@
         </span>  Tate Modern</h1>
       <g-link href="https://bit.ly/2Xg61wi" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1590073129/tate_lyczam.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1590073129/tate_lyczam.jpg"
           alt   = "Tate Modern"
       /></g-link>
       <p class="text-blue-200">

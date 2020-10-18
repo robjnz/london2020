@@ -6,8 +6,8 @@
         </span>  Natural History Museum</h1>
       <g-link href="https://bit.ly/353O5s9" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1587809602/natural_un1f4h.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1587809602/natural_un1f4h.jpg"
           alt   = " Natural History Museum"
       /></g-link>
       <p class="text-blue-200">

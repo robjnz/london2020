@@ -6,8 +6,8 @@
         </span>  National Army Museum</h1>
       <g-link href="https://bit.ly/2SrND1S" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1588416158/army_mzyxxl.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1588416158/army_mzyxxl.jpg"
           alt   = " National Army Museum"
       /></g-link>
       <p class="text-blue-200">

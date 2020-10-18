@@ -17,8 +17,8 @@
         </span>  London Eye</h1>
       <g-link href="https://bit.ly/31rwCJX" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1598429442/eye_xftyp0.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1598429442/eye_xftyp0.jpg"
           alt   = "London Eye"
       /></g-link>
       <p class="text-blue-200">
@@ -59,7 +59,7 @@
 </article>
 
 <br />
-<iframe width="290" height="200" src="https://www.youtube.com/embed/e6TH2wJQD4g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="h-32 w-full object-fill" src="https://www.youtube.com/embed/e6TH2wJQD4g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <g-link
         class  = "postcode hover:text-white"

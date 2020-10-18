@@ -6,8 +6,8 @@
         </span>  The Cartoon Museum </h1>
       <g-link href="https://bit.ly/3fdpmFa" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1596125642/cartoon_dnjvmm.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1596125642/cartoon_dnjvmm.jpg"
           alt   = "The cartoon Museum"
       /></g-link>
       <p class="text-blue-200">
@@ -56,6 +56,11 @@
 </div>
 <label class="read-more-cartoon-label postcode hover:text-white" for="read-more-cartoon-1">Read </label>
 </article>
+
+<br />
+     <iframe class="h-32 w-full object-fill" title="video virtual tour of " src="" frameborder="0" allow="accelerometer; fullplay; encrypted-media; gyroscope; picture-in-picture" allowfullfull></iframe>
+
+<br />
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/3fdpmFa"

@@ -10,8 +10,8 @@
       >
       <g-link href="https://bit.ly/3aw80SF" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585204449/fortyhill_dw52u0.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1585204449/fortyhill_dw52u0.jpg"
           fluid-grow
           alt = "Forty Hall"
       /></g-link>

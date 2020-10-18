@@ -5,9 +5,8 @@
            <i class="fas fa-landmark"></i>
         </span> Red House </h1>
       <g-link href="http://bit.ly/2OK74SV" target="_blank"
-        ><g-image class="w-auto h-auto"
+        ><g-image class="h-32 w-full object-fill"
           src = "@/images/visit/red.jpg"
-          fluid-grow
           alt = "Red House"
       /></g-link>
       <p class="text-blue-200">

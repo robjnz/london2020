@@ -6,8 +6,8 @@
         </span>  Serpentine Galleries</h1>
       <g-link href="https://bit.ly/3f7XFyH" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1588239263/serpentine_qw3xo1.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1588239263/serpentine_qw3xo1.jpg"
           alt   = " Serpentine Galleries"
       /></g-link>
       <p class="text-blue-200">

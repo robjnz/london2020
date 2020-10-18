@@ -7,8 +7,8 @@
         </span> Church House Gardens</h1>
       <g-link href="https://bit.ly/3dYTjt6" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1586098678/churchhouse_murvvb.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586098678/churchhouse_murvvb.jpg"
           fluid-grow
           alt = "church house gardens"
       /></g-link>

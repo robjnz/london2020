@@ -6,9 +6,8 @@
         </span> St. Margaret of Antioch </h1>
       <g-link href="http://bit.ly/2W9FpxW" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/antioch.jpg"
-          fluid-grow
           alt = "St. Margaret of Antioch"
       /></g-link>
       <p class="text-blue-200">

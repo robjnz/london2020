@@ -6,9 +6,8 @@
         </span> Jack The Ripper Museum </h1>
       <g-link href="http://bit.ly/2vxQka1" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/jack.jpg"
-          fluid-grow
           alt = "Jack The Ripper Museum"
       /></g-link>
       <p class="text-blue-200">

@@ -4,8 +4,9 @@
       <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span> Royal Museums </h1>
+        
       <g-link href="http://bit.ly/2yibjM1" target="_blank"
-        ><g-image class="w-auto h-auto"
+        ><g-image class="h-32 w-full object-fill"
           src = "@/images/visit/greenwich.jpg"
           fluid-grow
           alt = "Royal Museums Greenwich"

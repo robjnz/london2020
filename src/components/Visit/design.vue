@@ -6,8 +6,8 @@
         </span>  Design Museum</h1>
       <g-link href="https://bit.ly/3f4lcAQ" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1588233239/design_vpzeri.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1588233239/design_vpzeri.jpg"
           alt   = " Design Museum"
       /></g-link>
       <p class="text-blue-200">

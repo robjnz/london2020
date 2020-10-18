@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/30s25es" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1596617827/brooklands_fbu3mr.jpg"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1596617827/brooklands_fbu3mr.jpg"
           alt   = "Brooklands Museum"
       /></g-link>
       <p class="text-blue-200">
@@ -47,7 +47,7 @@
       -->
       <article class="text-blue-200">
 
-Brooklands Museum celebrates the<br /> history of aviation and motor sport......
+Brooklands Museum celebrates<br /> the history of aviation......
 <input id="read-more-brooklands-1" class="read-more-brooklands" type="checkbox">
   
   <div class="read-more-content">
@@ -58,7 +58,7 @@ Loch Ness Wellington Bomber, <br />Concorde, McLaren F1 racing Car <br />amd muc
 </article>
 
 <br />
-      <iframe class="h-32 w-full object-fill" title="video Brooklands Museum 2.13 minute long" src="https://www.youtube.com/embed/lRps-EEo-zw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-full" title="video Brooklands Museum 2.13 minute long" src="https://www.youtube.com/embed/lRps-EEo-zw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
       <g-link
         class  = "postcode hover:text-white"

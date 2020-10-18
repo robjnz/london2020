@@ -17,8 +17,8 @@
         </span>  The London Dungeon </h1>
       <g-link href="https://bit.ly/3llJLfG" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1598437748/dungeon_qcfigx.jpg"
+          class = "h-32 w-64 object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1598437748/dungeon_qcfigx.jpg"
           alt   = "The London Dungeon"
       /></g-link>
       <p class="text-blue-200">
@@ -51,8 +51,8 @@
       <g-link href="https://bit.ly/30h2Zdn" target="_blank"
         >
         <g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1601287533/halloween_g4dog9.jpg"
+          class = "h-32 w-64 object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1601287533/halloween_g4dog9.jpg"
           alt   = "Halloween poster "
       /></g-link>
       <h2 class="text-2xl event"> Halloween</h2>
@@ -84,7 +84,7 @@ That will whisk you way back to<br /> the capital's most perilous past.
 </article>
 
 <br />
-<iframe title="video virtual tour of the London Dungeon 11.42 minute long" width="290" height="200" src="https://www.youtube.com/embed/W5KP039aq8o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="h-32 w-full object-fill" title="video virtual tour of the London Dungeon 11.42 minute long" src="https://www.youtube.com/embed/W5KP039aq8o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
       <g-link

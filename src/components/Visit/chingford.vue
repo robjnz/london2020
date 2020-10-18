@@ -6,7 +6,7 @@
         </span> Chingford Sky Trail</h1>
       <g-link href="http://bit.ly/2THvCgW" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/chingford.jpg"
           fluid-grow
           alt = "Chingford Sky Trail"

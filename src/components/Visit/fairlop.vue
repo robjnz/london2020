@@ -6,7 +6,7 @@
         </span> Fairlop Waters Park</h1>
       <g-link href="http://bit.ly/3cvMXRv" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/fairlop.jpg"
           fluid-grow
           alt = "Fairlop Waters Park"

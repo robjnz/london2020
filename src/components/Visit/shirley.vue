@@ -7,8 +7,8 @@
         </span> Shirley Windmill</h1>
       <g-link href="https://bit.ly/2RajpzS" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1586099997/shirley_d9pc5t.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586099997/shirley_d9pc5t.jpg"
           fluid-grow
           alt = "Shirley Windmill"
       /></g-link>

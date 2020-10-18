@@ -6,7 +6,7 @@
         </span> Eastbury Manor House</h1>
       <g-link href="http://bit.ly/2OBHS0Q" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/eastbury.jpg"
           fluid-grow
           alt = "Eastbury Manor House"

@@ -7,8 +7,8 @@
         </span> Chislehurst Caves</h1>
       <g-link href="https://bit.ly/2UHY5ni" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1586097533/chislehurst_mzby07.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586097533/chislehurst_mzby07.jpg"
           fluid-grow
           alt = "Chislehurst Caves"
       /></g-link>

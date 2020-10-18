@@ -6,8 +6,8 @@
         </span> Tower Bridge</h1>
       <g-link href="https://bit.ly/2RFKCdU" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1515831480/tower_vow6im.jpg"
+          class = "h-32 w-w-auto object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1515831480/tower_vow6im.jpg"
           alt   = "tower bridge"
       /></g-link>
       <p class="text-blue-200">

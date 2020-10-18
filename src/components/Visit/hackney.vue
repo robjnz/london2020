@@ -6,7 +6,7 @@
         </span> Hackney City Farm</h1>
       <g-link href="http://bit.ly/2IGnVkM" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/hackney.jpg"
           fluid-grow
           alt = "Hackney City Farm"

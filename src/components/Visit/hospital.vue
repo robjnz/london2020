@@ -6,7 +6,7 @@
         </span> Hospital Chapel</h1>
       <g-link href="http://bit.ly/2NY3WOT" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/hospital.jpg"
           fluid-grow
           alt = "Hospital Chapel Ilford"

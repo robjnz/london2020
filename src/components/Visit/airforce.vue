@@ -10,8 +10,8 @@
       >
       <g-link href="https://bit.ly/3broAmB" target="_blank"
         ><g-image 
-          class = "object-scale-down"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585156962/airforce_ft0caa.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1585156962/airforce_ft0caa.jpg"
           alt = "Royal Air Force Museum"
       /></g-link>
       <p class="text-blue-200">

@@ -6,8 +6,8 @@
         </span> Down House</h1>
       <g-link href="https://bit.ly/2RaujVY" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1586016982/down_uyffs1.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586016982/down_uyffs1.jpg"
           fluid-grow
           alt = "Down House"
       /></g-link>

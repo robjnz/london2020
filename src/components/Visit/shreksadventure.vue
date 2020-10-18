@@ -17,8 +17,8 @@
         </span>  Shreks Adventure </h1>
       <g-link href="https://bit.ly/32vJMF0" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1598436236/shrek_xu0imb.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1598436236/shrek_xu0imb.jpg"
           alt   = "Shreks Aadventure"
       /></g-link>
       <p class="text-blue-200">
@@ -61,7 +61,7 @@
 </article>
 
 <br />
-<iframe title="video virtual tour of shreks adventure 12.50 minute long " width="290" height="200" src="https://www.youtube.com/embed/rmPyxjYXlp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="h-32 w-full object-fill" title="video virtual tour of shreks adventure 12.50 minute long " src="https://www.youtube.com/embed/rmPyxjYXlp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
       <g-link

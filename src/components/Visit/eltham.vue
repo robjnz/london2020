@@ -6,7 +6,7 @@
         </span> Eltham Palace</h1>
       <g-link href="http://bit.ly/3aI2oUI" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/eltham.jpg"
           fluid-grow
           alt = "Eltham Palace"

@@ -10,7 +10,7 @@
       >
       <g-link href="https://bit.ly/2QM1sHC" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585238658/canal_i4h6sm.jpg"
           fluid-grow
           alt = "London Canal Museum"

@@ -6,8 +6,8 @@
         </span>  Clarence House</h1>
       <g-link href="https://bit.ly/30h8lGd" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1591544159/clarence_nr9chr.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1591544159/clarence_nr9chr.jpg"
           alt   = "Clarence House"
       /></g-link>
       <p class="text-blue-200">
@@ -46,6 +46,10 @@ Built by John Nash in 1825-27 <br />for George III’s third son.
 </div>
 <label class="read-more-clarence-label postcode hover:text-white" for="read-more-clarence-1">Read </label>
 </article>
+
+
+
+
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/30h8lGd"

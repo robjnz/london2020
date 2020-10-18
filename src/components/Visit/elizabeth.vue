@@ -6,7 +6,7 @@
         </span> Elizabeth's Hunting Lodge</h1>
       <g-link href="http://bit.ly/2Sgs9D9" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/elizabeth.jpg"
           fluid-grow
           alt = "Elizabeth's Hunting Lodge"

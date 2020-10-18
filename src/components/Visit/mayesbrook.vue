@@ -6,7 +6,7 @@
         </span> Mayesbrook Park </h1>
       <g-link href="http://bit.ly/2Q7ZlO3" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/mayesbrook.jpg"
           fluid-grow
           alt = "Mayesbrook Park"

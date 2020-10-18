@@ -6,7 +6,7 @@
         </span> Geffrye Museum</h1>
       <g-link href="http://bit.ly/3cU96J8" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/geffrye.jpg"
           fluid-grow
           alt = "Geffrye Museum"

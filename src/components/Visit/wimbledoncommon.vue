@@ -6,8 +6,8 @@
         </span> Wimbledon Common  </h1>
       <g-link href="https://bit.ly/2Xl6COI" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1586355412/wimbledoncommon_qjcydf.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586355412/wimbledoncommon_qjcydf.jpg"
           fluid-grow
           alt = "wimbledon Common"
       /></g-link>

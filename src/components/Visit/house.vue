@@ -6,7 +6,7 @@
         </span> House Mill</h1>
       <g-link href="http://bit.ly/2vkeNzo" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/house.jpg"
           fluid-grow
           alt = "House Mill"

@@ -6,9 +6,8 @@
         </span> Valence House</h1>
       <g-link href="http://bit.ly/2RtEkMK" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/valence.jpg"
-          fluid-grow
           alt = "Valence House Museum"
       /></g-link>
       <p class="text-blue-200">

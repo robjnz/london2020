@@ -9,8 +9,8 @@
 </h1>
       <g-link href="https://bit.ly/2R0v5oP" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585155211/stephans_xezuy7.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1585155211/stephans_xezuy7.jpg"
           fluid-grow
           alt = "Stephens House & Gardens"
       /></g-link>

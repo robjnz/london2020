@@ -6,8 +6,8 @@
         </span>  The National Gallery</h1>
       <g-link href="https://bit.ly/3eFkpoT" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1591109173/national_nxwlnj.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1591109173/national_nxwlnj.jpg"
           alt   = "the national gallery"
       /></g-link>
       <p class="text-blue-200">
@@ -66,6 +66,12 @@
 </div>
 <label class="read-more-national-label postcode hover:text-white" for="read-more-national-1">Read </label>
 </article>
+
+
+<br />
+     <iframe class="h-32 w-full object-fill" title="video virtual tour of " src="" frameborder="0" allow="accelerometer; fullplay; encrypted-media; gyroscope; picture-in-picture" allowfullfull></iframe>
+
+<br />
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/3eFkpoT"

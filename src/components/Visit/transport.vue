@@ -6,8 +6,8 @@
         </span>  London Transport Museum </h1>
       <g-link href="https://bit.ly/3i9rRu3" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1596637462/transport_g5w9qg.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1596637462/transport_g5w9qg.jpg"
           alt   = "London Transport Museum"
       /></g-link>
       <p class="text-blue-200">

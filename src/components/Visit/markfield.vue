@@ -9,9 +9,8 @@
 </h1>
       <g-link href="https://bit.ly/3bsEHAa" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585205957/markfield_qwuvz0.jpg"
-          fluid-grow
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1585205957/markfield_qwuvz0.jpg"
           alt = "markfield Hall"
       /></g-link>
       <p class="text-blue-200">

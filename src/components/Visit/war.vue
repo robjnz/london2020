@@ -17,8 +17,8 @@
         </span>  Imperial War Museum</h1>
       <g-link href="https://bit.ly/3hVAwQP" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1590156939/war_gdlnus.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1590156939/war_gdlnus.jpg"
           alt   = "Imperial War Museum"
       /></g-link>
       <p class="text-blue-200">
@@ -49,8 +49,8 @@
       <h2 class="text-2xl event"> Events:</h2>
        <g-link href="https://bit.ly/2Hn1cwG" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1601013458/campiwm_ohvx1c.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1601013458/campiwm_ohvx1c.jpg"
           alt   = "Imperial War Museum Life in a Camp poster"
       /></g-link>
       <!--events-->
@@ -71,7 +71,7 @@
       </p>
 
       <br />
-      <iframe title="video virtual tour of the Life in a Camp 0.58 minute long" width="290" height="200" src="https://www.youtube.com/embed/N16nc8jlhHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-fill" title="video virtual tour of the Life in a Camp 0.58 minute long" src="https://www.youtube.com/embed/N16nc8jlhHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <br />
       <!--end-->
       
@@ -89,10 +89,10 @@
 
 
 <br />
-      <iframe title="video virtual tour of Imperial War Museum 5.18 minute long"  width="290" height="200" src="https://www.youtube.com/embed/U1VqJABpcWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-fill" title="video virtual tour of Imperial War Museum 5.18 minute long" src="https://www.youtube.com/embed/U1VqJABpcWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <br />
 <br />
-      <iframe title="video virtual tour the reopening of Imperial War Museum 2.02 minute long" width="290" height="200" src="https://www.youtube.com/embed/6hcack_xoKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-fill" title="video virtual tour the reopening of Imperial War Museum 2.02 minute long" src="https://www.youtube.com/embed/6hcack_xoKM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <br />
       <g-link
         class  = "postcode hover:text-white"

@@ -14,13 +14,17 @@
 
       <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
-        </span>  Churchill War Rooms</h1>
+        </span> War Rooms</h1>
+
       <g-link href="https://bit.ly/2Agb347" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1590745930/warrooms_nywbti.jpg"
+          class = "h-32 w-64 object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1590745930/warrooms_nywbti.jpg"
           alt   = "Churchill War Rooms"
       /></g-link>
+
+      
+
       <p class="text-blue-200">
         Clive Steps King Charles Street<br />Westminster London
 
@@ -54,8 +58,8 @@
   
     <g-link href="https://bit.ly/3cphdxL" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1600927308/blackdoor_rfnlpu.jpg"
+          class = "h-32 w-64 object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1600927308/blackdoor_rfnlpu.jpg"
           alt   = "Churchill War Rooms operation black door poster"
       /></g-link>
 
@@ -79,16 +83,17 @@
 
   <div class="read-more-content">
 <br />
-  See historic images, objects<br /> and interviews with the men and women<br /> who worked in the underground hideaway,<br /> revealing what it was like to work<br /> in secret alongside Winston Churchill<br /> during the Second World War.
+  See historic images, objects<br /> and interviews with <br />the men and women<br /> who worked in the<br /> underground hideaway,<br /> revealing what it<br /> was like to work<br /> in secret alongside <br />Winston Churchill<br /> during the Second World War.
 
 </div>
 <label class="read-more-warrooms-label postcode hover:text-white" for="read-more-warrooms-1">Read </label>
 </article>
 
 <br />
-     <iframe title="video virtual tour of Churchill War Rooms 1.50 minute long" width="290" height="200" src="https://www.youtube.com/embed/P7X79asos74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     <iframe class="h-32 w-full object-fill" title="video virtual tour of Churchill War Rooms 1.50 minute long" src="https://www.youtube.com/embed/P7X79asos74" frameborder="0" allow="accelerometer; fullplay; encrypted-media; gyroscope; picture-in-picture" allowfullfull></iframe>
 
 <br />
+
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Agb347"
@@ -126,7 +131,7 @@
 }
 .read-more-warrooms:checked + .read-more-content {
   display: block;
-  /* css animation won't work with "auto"; set to some height larger
+  /* css animation won't work with "full"; set to some height larger
     than the content */
   max-height: 1000px;
 }

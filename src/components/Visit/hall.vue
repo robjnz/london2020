@@ -6,7 +6,7 @@
         </span> Hall Place & Gardens</h1>
       <g-link href="http://bit.ly/2QyDQ6A" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/hallplace.jpg"
           fluid-grow
           alt = "Hall Place & Gardens"

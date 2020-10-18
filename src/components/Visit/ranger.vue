@@ -6,9 +6,8 @@
         </span> Ranger’s House</h1>
       <g-link href="http://bit.ly/2OgMGcC" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/ranger.jpg"
-          fluid-grow
           alt = "Ranger’s House"
       /></g-link>
       <p class="text-blue-200">

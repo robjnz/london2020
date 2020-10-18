@@ -6,7 +6,7 @@
         </span> Mudchute</h1>
       <g-link href="http://bit.ly/2CXL8ON" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/mudchute.jpg"
           fluid-grow
           alt = "Mudchute"

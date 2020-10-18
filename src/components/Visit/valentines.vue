@@ -6,7 +6,7 @@
         </span> Valentines Mansion</h1>
       <g-link href="http://bit.ly/38ReARM" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/valentines.jpg"
           fluid-grow
           alt = "Valentines Mansion"

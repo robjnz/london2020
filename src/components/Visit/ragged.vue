@@ -6,7 +6,7 @@
         </span> Ragged School Museum</h1>
       <g-link href="http://bit.ly/2R9hzMW" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/ragged.jpg"
           fluid-grow
           alt = "Ragged School Museum"

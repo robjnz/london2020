@@ -17,8 +17,8 @@
       <g-link href="https://bit.ly/2S3ZPW7" target="_blank"
         >
         <g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1587828374/kenpalace_dffnar.jpg"
+          class = "h-32 w-64 object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1587828374/kenpalace_dffnar.jpg"
           alt   = "Kensington Palace"
       /></g-link>
       <p class="text-blue-200">
@@ -50,8 +50,8 @@
       <g-link href="https://bit.ly/30a5Rso" target="_blank"
         >
         <g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1601097725/queen_s18qxm.jpg"
+          class = "h-32 w-64 object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1601097725/queen_s18qxm.jpg"
           alt   = "Life Through a Royal Lens image "
       /></g-link>
       <h2 class="text-2xl event"> Life Through a Royal Lens</h2>
@@ -80,7 +80,7 @@ like Queen Victoria and Princess Diana.
 </article>
 
 <br />
-  <iframe width="290" height="200" src="https://www.youtube.com/embed/BKkE2Wj3xC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="h-32 w-full object-fill" src="https://www.youtube.com/embed/BKkE2Wj3xC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allow64screen></iframe>
 
 <br />
       <g-link

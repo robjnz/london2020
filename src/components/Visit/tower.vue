@@ -17,7 +17,7 @@
         </span> Tower Of London</h1>
       <g-link href="http://bit.ly/2OKnQ4U" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/tower.jpg"
           fluid-grow
           alt = "Tower Of London"

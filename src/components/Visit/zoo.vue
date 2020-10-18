@@ -21,8 +21,8 @@
 
       <g-link href="https://bit.ly/2xspOPI" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585290413/zoo_bpl1vd.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1585290413/zoo_bpl1vd.jpg"
           alt = "London zoo"
       /></g-link>
       <p class="text-blue-200">
@@ -58,7 +58,7 @@
 </article>
 
 <br />
-      <iframe title="london zoo video 30 minute long" width="290" height="200" src="https://www.youtube.com/embed/fygyNQAzRFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class="h-32 w-full object-fill" title="london zoo video 30 minute long" src="https://www.youtube.com/embed/fygyNQAzRFM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
 
       <g-link

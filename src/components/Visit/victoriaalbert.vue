@@ -6,8 +6,8 @@
         </span> Victoria & Albert Museum</h1>
       <g-link href="https://bit.ly/2yKcvL2" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1587808401/victoriamuseum_hogzne.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1587808401/victoriamuseum_hogzne.jpg"
           alt   = "victoria & albert museum"
       /></g-link>
       <p class="text-blue-200">

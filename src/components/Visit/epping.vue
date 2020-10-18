@@ -6,7 +6,7 @@
         </span> Epping Forest</h1>
       <g-link href="https://bit.ly/2N0SOTq" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/epping.jpg"
           fluid-grow
           alt = "Epping Forest"

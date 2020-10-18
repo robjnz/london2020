@@ -6,8 +6,8 @@
         </span> Morden Hall Park</h1>
       <g-link href="https://bit.ly/3dZuw8p" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1586252752/mordon_ip4rzx.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586252752/mordon_ip4rzx.jpg"
           fluid-grow
           alt = "Morden Hall Park"
       /></g-link>

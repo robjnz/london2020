@@ -6,7 +6,7 @@
         </span> Olympic Park</h1>
       <g-link href="http://bit.ly/33bvDwV" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/queen.jpg"
           fluid-grow
           alt = "Olympic Park"

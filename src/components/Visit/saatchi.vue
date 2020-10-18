@@ -6,8 +6,8 @@
         </span>  Saatchi Gallery</h1>
       <g-link href="https://bit.ly/3cTg8xc" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1588240752/saatchi_wwtgow.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1588240752/saatchi_wwtgow.jpg"
           alt   = " Saatchi Gallery"
       /></g-link>
       <p class="text-blue-200">

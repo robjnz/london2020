@@ -6,8 +6,8 @@
         </span> Regents Canal</h1>
       <g-link href="https://bit.ly/3535DEI" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1587744063/regents_canal_d6luen.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1587744063/regents_canal_d6luen.jpg"
           alt   = "regents canal"
       /></g-link>
       <p class="text-blue-200">

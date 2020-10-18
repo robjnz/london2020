@@ -6,7 +6,7 @@
         </span> William Morris Gallery</h1>
       <g-link href="http://bit.ly/2IHVzGL" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/william.jpg"
           fluid-grow
           alt = "William Morris Gallery"

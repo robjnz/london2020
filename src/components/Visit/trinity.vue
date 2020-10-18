@@ -6,7 +6,7 @@
         </span> Trinity Buoy Wharf</h1>
       <g-link href="http://bit.ly/2D11g22" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/trinity.jpg"
           fluid-grow
           alt = "Trinity Buoy Wharf"

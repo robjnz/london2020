@@ -6,8 +6,8 @@
         </span> kenwood House</h1>
       <g-link href="https://bit.ly/2yrob5n" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1587464118/kenwood_ow0mh6.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1587464118/kenwood_ow0mh6.jpg"
           alt   = "kenwood House"
       /></g-link>
       <p class="text-blue-200">

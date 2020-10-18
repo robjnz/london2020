@@ -6,8 +6,8 @@
         </span> Keats House</h1>
       <g-link href="https://bit.ly/2Pjs2Xw" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1587741322/keats_au8ir2.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1587741322/keats_au8ir2.jpg"
           alt   = "keats house"
       /></g-link>
       <p class="text-blue-200">

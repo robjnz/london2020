@@ -6,7 +6,7 @@
         </span> Victoria Park</h1>
       <g-link href="http://bit.ly/33nUqOo" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
+          class = "h-32 w-full object-fill"
           src   = "@/images/visit/victoria.jpg"
           fluid-grow
           alt = "Victoria Park"

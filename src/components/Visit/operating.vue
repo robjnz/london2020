@@ -6,8 +6,8 @@
         </span>  The Old Operating Theatre </h1>
       <g-link href="https://bit.ly/3gj1G3V" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1590225123/operating_w3iaif.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1590225123/operating_w3iaif.jpg"
           alt   = "The Old Operating Theatre"
       /></g-link>
       <p class="text-blue-200">
@@ -46,6 +46,11 @@
 </div>
 <label class="read-more-operating-label postcode hover:text-white" for="read-more-operating-1">Read </label>
 </article>
+
+<br />
+     <iframe class="h-32 w-full object-fill" title="video virtual tour of " src="" frameborder="0" allow="accelerometer; fullplay; encrypted-media; gyroscope; picture-in-picture" allowfullfull></iframe>
+
+<br />
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/3gj1G3V"

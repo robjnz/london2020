@@ -9,8 +9,8 @@
         
       <g-link href="https://bit.ly/2UdgF6u" target="_blank"
         ><g-image
-          class = "w-auto h-auto"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1585070198/totteridge_sx8fzn.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1585070198/totteridge_sx8fzn.jpg"
           fluid-grow
           alt = "Totteridge Fields"
       /></g-link>
@@ -36,6 +36,11 @@
   </div>
   <label class="read-more-totteridge-label postcode hover:text-white" for="read-more-totteridge-1">Read </label>
 </article>
+
+<br />
+     <iframe class="h-32 w-full object-fill" title="video virtual tour of " src="" frameborder="0" allow="accelerometer; fullplay; encrypted-media; gyroscope; picture-in-picture" allowfullfull></iframe>
+
+<br />
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/2UdgF6u"
