@@ -7,8 +7,7 @@
       <g-link href="https://bit.ly/2V7oB8O" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586256535/deen_nfziir.jpg"
-          fluid-grow
+          src   = "@/images/visit/deen.jpg"
           alt = "Deen City Farm"
       /></g-link>
       <p class="text-blue-200">

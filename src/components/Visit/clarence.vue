@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/30h8lGd" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1591544159/clarence_nr9chr.jpg"
+          src   = "@/images/visit/clarence.jpg"
           alt   = "Clarence House"
       /></g-link>
       <p class="text-blue-200">

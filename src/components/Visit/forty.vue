@@ -11,8 +11,7 @@
       <g-link href="https://bit.ly/3aw80SF" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1585204449/fortyhill_dw52u0.jpg"
-          fluid-grow
+          src   = "@/images/visit/fortyhill.jpg"
           alt = "Forty Hall"
       /></g-link>
       <p class="text-blue-200">

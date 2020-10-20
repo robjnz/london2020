@@ -5,15 +5,14 @@
         ><span class="text-pink-300">
           <i class="fas fa-landmark"></i>
         </span>
-        Freud Museun
+        Freud Museum
 </h1
       >
       <g-link href="https://bit.ly/3dqVsxw" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1585291664/freud_zcp0iy.jpg"
-          fluid-grow
-          alt = " Freud Museun"
+          src   = "@/images/visit/freud.jpg"
+          alt = " Freud Museum"
       /></g-link>
       <p class="text-blue-200">
         20 Maresfield Gardens<br />Hampstead London 

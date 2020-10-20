@@ -8,8 +8,7 @@
       <g-link href="https://bit.ly/2UHY5ni" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586097533/chislehurst_mzby07.jpg"
-          fluid-grow
+          src   = "@/images/visit/chislehurst.jpg"
           alt = "Chislehurst Caves"
       /></g-link>
       <p class="text-blue-200">

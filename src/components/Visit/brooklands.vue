@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/30s25es" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1596617827/brooklands_fbu3mr.jpg"
+          src   = "@/images/visit/brooklands.jpg"
           alt   = "Brooklands Museum"
       /></g-link>
       <p class="text-blue-200">

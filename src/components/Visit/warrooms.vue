@@ -18,8 +18,8 @@
 
       <g-link href="https://bit.ly/2Agb347" target="_blank"
         ><g-image
-          class = "h-32 w-64 object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1590745930/warrooms_nywbti.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "@/images/visit/warrooms.jpg"
           alt   = "Churchill War Rooms"
       /></g-link>
 
@@ -58,8 +58,8 @@
   
     <g-link href="https://bit.ly/3cphdxL" target="_blank"
         ><g-image
-          class = "h-32 w-64 object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1600927308/blackdoor_rfnlpu.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "@/images/visit/temp/blackdoor.jpg"
           alt   = "Churchill War Rooms operation black door poster"
       /></g-link>
 

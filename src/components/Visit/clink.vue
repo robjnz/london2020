@@ -18,7 +18,7 @@
       <g-link href="https://bit.ly/2LQZOkS" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1590226180/clink_fmnh59.jpg"
+          src   = "@/images/visit/clink.jpg"
           alt   = "clink Prison Museum"
       /></g-link>
 

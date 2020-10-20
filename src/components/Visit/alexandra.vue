@@ -78,17 +78,19 @@
        <p class="text-base event">
        <span>
           <i class="far fa-calendar-alt"></i>
-        </span> Sunday 18 October 2020 <br />Matilda 2.30pm
+        </span> Tuesday 20 October 2020 <br />
+        <!--
+        Matilda 2.30pm
         <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Matilda 0.38 seconds" src="https://www.youtube.com/embed/mPvuVAUEETg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
+        -->
 
-
-       True Romance 5.30pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of True Romance 2.06 minutes" src="https://www.youtube.com/embed/P6DW0HtpT-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      Spider Man - Into The Spider Verse 5.30pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Spider Man - Into The Spider Verse 2.43 minutes" src="https://www.youtube.com/embed/tg52up16eq0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
          <br />
-       Pulp Fiction 8.45pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Pulp Fiction 3.05 minutes" src="https://www.youtube.com/embed/s7EdQ4FqbhY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       Black Panther 8.30pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Black Panther 2.18 minutes" src="https://www.youtube.com/embed/xjDjIWPwcPU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       

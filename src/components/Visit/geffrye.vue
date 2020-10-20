@@ -8,7 +8,6 @@
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "@/images/visit/geffrye.jpg"
-          fluid-grow
           alt = "Geffrye Museum"
       /></g-link>
       <p class="text-blue-200">

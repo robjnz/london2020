@@ -8,7 +8,7 @@
       <g-link href="https://bit.ly/3aKv2VT" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586101564/minster_bmtyye.jpg"
+          src   = "@/images/visit/minster.jpg"
           fluid-grow
           alt = "Croydon Minster"
       /></g-link>

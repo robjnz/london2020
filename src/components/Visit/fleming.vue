@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/3jYa3E2" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1596219580/fleming_d7itie.jpg"
+          src   = "@/images/visit/fleming.jpg"
           alt   = "Alexander Fleming Museum"
       /></g-link>
       <p class="text-blue-200">

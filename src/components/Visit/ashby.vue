@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/2WsPPHl" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1588609196/ashby_mryrre.jpg"
+          src   = "@/images/visit/ashby.jpg"
           alt   = "brixton windmill"
       /></g-link>
       <p class="text-blue-200">

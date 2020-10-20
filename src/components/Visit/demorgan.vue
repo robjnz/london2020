@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/34mGepg" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586358398/demorgan_x5rtvu.jpg"
+          src   = "@/images/visit/demorgan.jpg"
           alt   = "De Morgan Foundation"
       /></g-link>
       <p class="text-blue-200">

@@ -6,8 +6,8 @@
         </span>  HMS Belfast </h1>
       <g-link href="https://bit.ly/3eevH2X" target="_blank"
         ><g-image
-          class = "wh-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1590158097/belfast_mtrqdu.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "@/images/visit/hmsbelfast.jpg"
           alt   = "hms belfast"
       /></g-link>
       <p class="text-blue-200">

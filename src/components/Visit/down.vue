@@ -7,8 +7,7 @@
       <g-link href="https://bit.ly/2RaujVY" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586016982/down_uyffs1.jpg"
-          fluid-grow
+          src   = "@/images/visit/down.jpg"
           alt = "Down House"
       /></g-link>
       <p class="text-blue-200">

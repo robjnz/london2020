@@ -8,8 +8,7 @@
       <g-link href="https://bit.ly/3dYTjt6" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586098678/churchhouse_murvvb.jpg"
-          fluid-grow
+          src   = "@/images/visit/churchhouse.jpg"
           alt = "church house gardens"
       /></g-link>
       <p class="text-blue-200">

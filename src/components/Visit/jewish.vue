@@ -10,7 +10,7 @@
       <g-link href="https://bit.ly/2JjppSy" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1585230475/jewish_uqhr2a.jpg"
+          src   = "@/images/visit/jewish.jpg"
           alt = "Jewish Museum"
       /></g-link>
       <p class="text-blue-200">

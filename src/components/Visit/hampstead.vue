@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/2VfzR49" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1587054305/hampstead_dystfp.jpg"
+          src   = "@/images/visit/hampstead.jpg"
           alt   = "hampstead Heath"
       /></g-link>
       <p class="text-blue-200">
