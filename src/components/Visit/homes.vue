@@ -7,9 +7,10 @@
       <g-link href="https://bit.ly/2D9dxT0" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1595758516/homes_idfsxj.jpg"
+          src   = "@/images/visit/homes.jpg"
           alt   = "Sherlock Holmes Museum"
       /></g-link>
+
       <p class="text-blue-200">
         221b Baker Street<br /> Marylebone London 
 

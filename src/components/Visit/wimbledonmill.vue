@@ -7,10 +7,11 @@
       <g-link href="https://bit.ly/2JI6QHT" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1586254162/wimbledonmill_bswfoa.jpg"
-          fluid-grow
+          src   = "@/images/visit/winmill.jpg"
           alt = "Wimbledon Windmill Museum"
       /></g-link>
+
+
       <p class="text-blue-200">
        Windmill Road<br />Wimbledon Common London 
 

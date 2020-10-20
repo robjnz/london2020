@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/3eIVEZE" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1587811206/science_hedirx.jpg"
+          src   = "@/images/visit/science.jpg"
           alt   = " science Museum"
       /></g-link>
       <p class="text-blue-200">

@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/3535DEI" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1587744063/regents_canal_d6luen.jpg"
+          src   = "@/images/visit/regents.jpg"
           alt   = "regents canal"
       /></g-link>
       <p class="text-blue-200">

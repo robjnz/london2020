@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/353O5s9" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1587809602/natural_un1f4h.jpg"
+          src   = "@/images/visit/natural.jpg"
           alt   = " Natural History Museum"
       /></g-link>
       <p class="text-blue-200">

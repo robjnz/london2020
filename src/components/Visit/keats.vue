@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/2Pjs2Xw" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1587741322/keats_au8ir2.jpg"
+          src   = "@/images/visit/keats.jpg"
           alt   = "keats house"
       /></g-link>
       <p class="text-blue-200">

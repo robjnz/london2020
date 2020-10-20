@@ -7,8 +7,7 @@
       <g-link href="https://bit.ly/2Xl6COI" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586355412/wimbledoncommon_qjcydf.jpg"
-          fluid-grow
+          src   = "@/images/visit/wimbledoncommon.jpg"
           alt = "wimbledon Common"
       /></g-link>
       <p class="text-blue-200">

@@ -59,7 +59,7 @@
       The exhibition explores the <br />power of the writer’s image.<br /> Starting in his own lifetime,<br /> through artist interpretations,<br /> radical rethinking in popular culture.
       </p>
 <br />
-      <iframe width="290" height="200" src="https://www.youtube.com/embed/914VgyAka3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe class = "h-32 w-full object-fill" src="https://www.youtube.com/embed/914VgyAka3E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       
       <article class="text-blue-200">
    The Victorian family home<br /> of Charles Dickens.......

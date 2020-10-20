@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/2SrND1S" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1588416158/army_mzyxxl.jpg"
+          src   = "@/images/visit/army.jpg"
           alt   = " National Army Museum"
       /></g-link>
       <p class="text-blue-200">

@@ -8,7 +8,6 @@
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "@/images/visit/ragged.jpg"
-          fluid-grow
           alt = "Ragged School Museum"
       /></g-link>
       <p class="text-blue-200">

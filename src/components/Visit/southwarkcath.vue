@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/2LJ92Qm" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1590074590/southwarkcath_v6l56f.jpg"
+          src   = "@/images/visit/southwarkcath.jpg"
           alt   = "Southwark Cathedral"
       /></g-link>
       <p class="text-blue-200">

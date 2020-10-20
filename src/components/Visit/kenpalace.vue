@@ -17,8 +17,8 @@
       <g-link href="https://bit.ly/2S3ZPW7" target="_blank"
         >
         <g-image
-          class = "h-32 w-64 object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1587828374/kenpalace_dffnar.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "@/images/visit/kenpalace.jpg"
           alt   = "Kensington Palace"
       /></g-link>
       <p class="text-blue-200">
@@ -50,9 +50,9 @@
       <g-link href="https://bit.ly/30a5Rso" target="_blank"
         >
         <g-image
-          class = "h-32 w-64 object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1601097725/queen_s18qxm.jpg"
-          alt   = "Life Through a Royal Lens image "
+          class = "h-32 w-full object-fill"
+          src   = "@/images/visit/queen.jpg"
+          alt   = "Life Through a Royal Lens image"
       /></g-link>
       <h2 class="text-2xl event"> Life Through a Royal Lens</h2>
 

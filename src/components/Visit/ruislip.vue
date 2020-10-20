@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/2xgbAlu" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586770692/ruislip_nbpi8d.jpg"
+          src   = "@/images/visit/ruislip.jpg"
           alt   = "ruislip woods"
       /></g-link>
       <p class="text-blue-200">

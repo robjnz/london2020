@@ -45,7 +45,6 @@
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1601366033/driveinclub_vxrkk8.jpg"
-          fluid-grow
           alt = "Alexandra Palace drive in club poster"
       /></g-link>
 
@@ -78,19 +77,19 @@
        <p class="text-base event">
        <span>
           <i class="far fa-calendar-alt"></i>
-        </span> Tuesday 20 October 2020 <br />
+        </span> Wednesday 21 October 2020 <br />
         <!--
         Matilda 2.30pm
         <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Matilda 0.38 seconds" src="https://www.youtube.com/embed/mPvuVAUEETg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
         -->
 
-      Spider Man - Into The Spider Verse 5.30pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Spider Man - Into The Spider Verse 2.43 minutes" src="https://www.youtube.com/embed/tg52up16eq0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      Notting Hill 5.30pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of notting hill 2.46 minutes" src="https://www.youtube.com/embed/Ig_88q9M3SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
          <br />
-       Black Panther 8.30pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Black Panther 2.18 minutes" src="https://www.youtube.com/embed/xjDjIWPwcPU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       Goodfellas 8.30pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of goodfellas 1.29 minutes" src="https://www.youtube.com/embed/PTBRNXGQR9Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       

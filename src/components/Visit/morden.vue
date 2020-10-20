@@ -7,10 +7,11 @@
       <g-link href="https://bit.ly/3dZuw8p" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586252752/mordon_ip4rzx.jpg"
+          src   = "@/images/visit/mordon.jpg"
           fluid-grow
           alt = "Morden Hall Park"
       /></g-link>
+
       <p class="text-blue-200">
        Morden Hall Road<br /> Morden London 
 

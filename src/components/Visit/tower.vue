@@ -48,7 +48,7 @@
 
       </h2>
 
-      <iframe title="video virtual tour of the The Tower of London 0.32 minute long" width="290" height="200" src="https://www.youtube.com/embed/p-JACPCa3rA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe  class = "h-32 w-full object-fill" title="video virtual tour of the The Tower of London 0.32 minute long" src="https://www.youtube.com/embed/p-JACPCa3rA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
       <g-link
         class  = "postcode hover:text-white"

@@ -21,7 +21,7 @@
       <g-link href="https://bit.ly/2Dl68jE" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1594373044/tussauds_sjqsqj.jpg"
+          src   = "@/images/visit/tussauds.jpg"
           fluid-grow
           alt = "Madame Tussauds"
       /></g-link>

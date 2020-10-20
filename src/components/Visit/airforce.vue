@@ -11,7 +11,7 @@
       <g-link href="https://bit.ly/3broAmB" target="_blank"
         ><g-image 
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1585156962/airforce_ft0caa.jpg"
+          src   = "@/images/visit/airforce.jpg"
           alt = "Royal Air Force Museum"
       /></g-link>
       <p class="text-blue-200">

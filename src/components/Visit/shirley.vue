@@ -8,9 +8,9 @@
       <g-link href="https://bit.ly/2RajpzS" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586099997/shirley_d9pc5t.jpg"
-          fluid-grow
+          src   = "@/images/visit/shirley.jpg"
           alt = "Shirley Windmill"
+
       /></g-link>
       <p class="text-blue-200">
         Postmill Close<br /> Croydon Surrey

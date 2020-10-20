@@ -17,8 +17,8 @@
         </span>  The London Dungeon </h1>
       <g-link href="https://bit.ly/3llJLfG" target="_blank"
         ><g-image
-          class = "h-32 w-64 object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1598437748/dungeon_qcfigx.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "@/images/visit/dungeon.jpg"
           alt   = "The London Dungeon"
       /></g-link>
       <p class="text-blue-200">
@@ -51,8 +51,8 @@
       <g-link href="https://bit.ly/30h2Zdn" target="_blank"
         >
         <g-image
-          class = "h-32 w-64 object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1601287533/halloween_g4dog9.jpg"
+          class = "h-32 w-full object-fill"
+          src   = "@/images/visit/temp/halloween.jpg"
           alt   = "Halloween poster "
       /></g-link>
       <h2 class="text-2xl event"> Halloween</h2>

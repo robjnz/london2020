@@ -10,7 +10,7 @@
       <g-link href="https://bit.ly/3bsEHAa" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1585205957/markfield_qwuvz0.jpg"
+          src   = "@/images/visit/markfield.jpg"
           alt = "markfield Hall"
       /></g-link>
       <p class="text-blue-200">

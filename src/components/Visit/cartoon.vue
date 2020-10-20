@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/3fdpmFa" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1596125642/cartoon_dnjvmm.jpg"
+          src   = "@/images/visit/cartoon.jpg"
           alt   = "The cartoon Museum"
       /></g-link>
       <p class="text-blue-200">

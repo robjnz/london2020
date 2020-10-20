@@ -25,7 +25,7 @@ This is due to the current, government covid19 guideline, of social distancing o
 
 <br />
 
-<iframe width="290" height="200" src="https://www.youtube.com/embed/wPe0MIm7Xg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class = "h-32 w-full object-fill" src="https://www.youtube.com/embed/wPe0MIm7Xg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br /><br />
 
 <div class="text-2xl text-blue-300">
@@ -49,7 +49,7 @@ If possible try to walk or cycle and travel at quiet times.
 
 <br /><br />
 
-<iframe width="290" height="200" src="https://www.youtube.com/embed/mMZ2zFqVF38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe  class="h-32 w-full object-fill" src="https://www.youtube.com/embed/mMZ2zFqVF38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br /><br />
 

@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/2yaS7mj" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586877920/museumlondon_izr74x.jpg"
+          src   = "@/images/visit/museumlondon.jpg"
           alt   = "museum of london"
       /></g-link>
       <p class="text-blue-200">

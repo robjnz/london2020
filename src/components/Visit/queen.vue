@@ -7,8 +7,7 @@
       <g-link href="http://bit.ly/33bvDwV" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "@/images/visit/queen.jpg"
-          fluid-grow
+          src   = "@/images/visit/olympic.jpg"
           alt = "Olympic Park"
       /></g-link>
       <p class="text-blue-200">

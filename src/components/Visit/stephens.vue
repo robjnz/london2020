@@ -10,10 +10,10 @@
       <g-link href="https://bit.ly/2R0v5oP" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1585155211/stephans_xezuy7.jpg"
-          fluid-grow
+          src   = "@/images/visit/stephans.jpg"
           alt = "Stephens House & Gardens"
       /></g-link>
+
       <p class="text-blue-200">
         17 East End Road<br /> London
         <g-link

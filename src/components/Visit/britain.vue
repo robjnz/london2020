@@ -7,7 +7,7 @@
       <g-link href="https://bit.ly/3gs9HDM" target="_blank"
         ><g-image
           class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1590747139/britain_gf0xpc.jpg"
+          src   = "@/images/visit/britain.jpg"
           alt   = "Tate Britain"
       /></g-link>
       <p class="text-blue-200">
