@@ -28,6 +28,13 @@ module.exports = {
         id: 'UA-84231316-6'
       }
     },
+
+    {
+      use    : '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'G-9PN21Q4C2R'
+      }
+    },
     {
       use: '@gridsome/vue-remark',
       options: {
