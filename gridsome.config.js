@@ -28,11 +28,12 @@ module.exports = {
         id: 'UA-84231316-6'
       }
     },
-
     {
-      use    : '@gridsome/plugin-google-analytics',
+      use: 'gridsome-plugin-gtm',
       options: {
-        id: 'G-9PN21Q4C2R'
+        id: 'GTM-ML9B8GF',
+        enabled: true,
+        debug: true
       }
     },
     {
