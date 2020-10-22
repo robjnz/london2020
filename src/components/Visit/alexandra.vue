@@ -77,19 +77,19 @@
        <p class="text-base event">
        <span>
           <i class="far fa-calendar-alt"></i>
-        </span> Wednesday 21 October 2020 <br />
+        </span> Thursday 22 October 2020 <br />
         <!--
         Matilda 2.30pm
         <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Matilda 0.38 seconds" src="https://www.youtube.com/embed/mPvuVAUEETg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
         -->
 
-      Notting Hill 5.30pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of notting hill 2.46 minutes" src="https://www.youtube.com/embed/Ig_88q9M3SU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      The Grand Budapest Hotel 6.00pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of The Grand Budapest Hotel 2.26 minutes" src="https://www.youtube.com/embed/1Fg5iWmQjwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
          <br />
-       Goodfellas 8.30pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of goodfellas 1.29 minutes" src="https://www.youtube.com/embed/PTBRNXGQR9Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       The Royal Tenenbaums 8.45pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of The Royal Tenenbaums 2.27 minutes" src="https://www.youtube.com/embed/a-1Cg_rd6DU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       
