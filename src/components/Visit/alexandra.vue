@@ -77,19 +77,19 @@
        <p class="text-base event">
        <span>
           <i class="far fa-calendar-alt"></i>
-        </span> Thursday 22 October 2020 <br />
+        </span> Friday 23 October 2020 <br />
         <!--
         Matilda 2.30pm
         <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Matilda 0.38 seconds" src="https://www.youtube.com/embed/mPvuVAUEETg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
         -->
 
-      The Grand Budapest Hotel 6.00pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of The Grand Budapest Hotel 2.26 minutes" src="https://www.youtube.com/embed/1Fg5iWmQjwk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      Back to The Future 5.30pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Back to The Future 1.43 minutes" src="https://www.youtube.com/embed/qvsgGtivCgs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
          <br />
-       The Royal Tenenbaums 8.45pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of The Royal Tenenbaums 2.27 minutes" src="https://www.youtube.com/embed/a-1Cg_rd6DU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       Jurassic Park 8.30pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Jurassic Park 1.16 minutes" src="https://www.youtube.com/embed/QWBKEmWWL38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       

@@ -5,7 +5,7 @@
       <span style="font-size: 1em;">
         <i class="far fa-calendar-alt"></i>
       </span>
-  Thursday 22 October 2020
+   Friday 23 October 2020
     </h2>
     <p class="text-red-500 text-2xl">
       <span class="text-blue-100" style="font-size: 1em;">
