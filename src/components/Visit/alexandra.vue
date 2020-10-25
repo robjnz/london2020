@@ -77,18 +77,18 @@
        <p class="text-base event">
        <span>
           <i class="far fa-calendar-alt"></i>
-        </span> Saturday 24 October 2020 <br />
+        </span> Sunday 25 October 2020 <br />
       
-        Home Alone 2.30pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Home alone 2.11 minutes" src="https://www.youtube.com/embed/CK2Btk6Ybm0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        Max Winslow & The House Of Secrets 2.30pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Max Winslow & The House Of Secret 1.51 minutes" src="https://www.youtube.com/embed/EesMGylaMfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
         
-       Love Actually 5.30pm
-      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Back to Love Actually 2.03 minutes" src="https://www.youtube.com/embed/g8M-wa9SEuw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       Beetlejuice 5.30pm
+      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Beetlejuice 1.37 minutes" src="https://www.youtube.com/embed/ickbVzajrk0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
          <br />
-       Little Women 8.45pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Little Women 2.43 minutes" src="https://www.youtube.com/embed/AST2-4db4ic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       Train To Busan 8.30pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of  Train To Busan 1.57 minutes" src="https://www.youtube.com/embed/pyWuHv2-Abk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       
