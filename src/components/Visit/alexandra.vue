@@ -63,7 +63,7 @@
         <span>
           <i class="far fa-calendar-alt"></i>
         </span>
-       Monday 12  October 2020<br />
+       Monday 12 October 2020<br />
        To<br />
         <span>
           <i class="far fa-calendar-alt"></i>
@@ -77,18 +77,18 @@
        <p class="text-base event">
        <span>
           <i class="far fa-calendar-alt"></i>
-        </span> Sunday 25 October 2020 <br />
-      
-        Max Winslow & The House Of Secrets 2.30pm
+        </span> Monday 26 October 2020 <br />
+      <!--
+        Psycho 2.30pm
         <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Max Winslow & The House Of Secret 1.51 minutes" src="https://www.youtube.com/embed/EesMGylaMfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
-        
-       Beetlejuice 5.30pm
-      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Beetlejuice 1.37 minutes" src="https://www.youtube.com/embed/ickbVzajrk0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        -->
+       Psycho 5.30pm
+      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Psycho 1.41 minutes" src="https://www.youtube.com/embed/Wz719b9QUqY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
          <br />
-       Train To Busan 8.30pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of  Train To Busan 1.57 minutes" src="https://www.youtube.com/embed/pyWuHv2-Abk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       Get Out 9.00pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Get Out 2.32 minutes" src="https://www.youtube.com/embed/DzfpyUB60YY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       
