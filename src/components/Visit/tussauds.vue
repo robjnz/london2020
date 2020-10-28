@@ -18,7 +18,7 @@
         </span>
        Madame Tussauds
 </h1>
-      <g-link href="https://bit.ly/2Dl68jE" target="_blank"
+      <g-link href="https://bit.ly/2Dl68jE" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "@/images/visit/tussauds.jpg"
@@ -31,7 +31,7 @@
         <g-link
           class  = "postcode hover:text-white"
           to     = "https://bit.ly/2Dl7eMi"
-          target = "_blank"
+          target = "_blank" aria-label="open new window"
         >
           NW1 5LR
         </g-link>
@@ -67,7 +67,7 @@
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Dl68jE"
-        target = "_blank"
+        target = "_blank" aria-label="open new window"
       >
         More Info
       </g-link>

@@ -14,7 +14,7 @@
       <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span> British Museum</h1>
-      <g-link href="https://bit.ly/2KckjaU" target="_blank"
+      <g-link href="https://bit.ly/2KckjaU" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1587052674/british_vexfwb.jpg"
@@ -27,7 +27,7 @@
         <g-link
           class  = "postcode hover:text-white"
           to     = "https://bit.ly/2K8ALZI"
-          target = "_blank"
+          target = "_blank" aria-label="open new window"
         >
           WC1B 3DG
         </g-link>
@@ -51,7 +51,7 @@
 
       <p class="event">
 
-         <g-link href="https://bit.ly/2G97AHd" target="_blank"
+         <g-link href="https://bit.ly/2G97AHd" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_200,w_300/v1600925729/tantra_bxmva7.jpg"
@@ -89,7 +89,7 @@ The British Museum was founded in 1753<br /> opened its doors in 1759.......
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/2KckjaU"
-        target = "_blank"
+        target = "_blank" aria-label="open new window"
       >
         More Info
       </g-link>

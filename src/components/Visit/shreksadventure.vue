@@ -15,7 +15,7 @@
       <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span>  Shreks Adventure </h1>
-      <g-link href="https://bit.ly/32vJMF0" target="_blank"
+      <g-link href="https://bit.ly/32vJMF0" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "@/images/visit/shrek.jpg"
@@ -29,7 +29,7 @@
         <g-link
           class  = "postcode hover:text-white"
           to     = "https://bit.ly/2YyXlCH"
-          target = "_blank"
+          target = "_blank" aria-label="open new window"
         >
           SE1 7PB
         </g-link>
@@ -67,7 +67,7 @@
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/32vJMF0"
-        target = "_blank"
+        target = "_blank" aria-label="open new window"
       >
         More Info
       </g-link>

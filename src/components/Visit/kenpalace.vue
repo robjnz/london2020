@@ -14,7 +14,7 @@
       <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span>  Kensington Palace</h1>
-      <g-link href="https://bit.ly/2S3ZPW7" target="_blank"
+      <g-link href="https://bit.ly/2S3ZPW7" target="_blank" aria-label="open new window"
         >
         <g-image
           class = "h-32 w-full object-fill"
@@ -29,7 +29,7 @@
   <g-link
           class  = "postcode hover:text-white"
           to     = "https://bit.ly/3eNxtcx"
-          target = "_blank"
+          target = "_blank" aria-label="open new window"
         >
           W8 4PX
         </g-link>
@@ -47,7 +47,7 @@
       </h2>
       
      <h2 class="text-2xl event"> Events:</h2>
-      <g-link href="https://bit.ly/30a5Rso" target="_blank"
+      <g-link href="https://bit.ly/30a5Rso" target="_blank" aria-label="open new window"
         >
         <g-image
           class = "h-32 w-full object-fill"
@@ -86,7 +86,7 @@ like Queen Victoria and Princess Diana.
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/2S3ZPW7"
-        target = "_blank"
+        target = "_blank" aria-label="open new window"
       >
         More Info
       </g-link>

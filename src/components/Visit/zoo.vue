@@ -19,7 +19,7 @@
         London Zoo 
 </h1>
 
-      <g-link href="https://bit.ly/2xspOPI" target="_blank"
+      <g-link href="https://bit.ly/2xspOPI" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1585290413/zoo_bpl1vd.jpg"
@@ -30,7 +30,7 @@
         <g-link
           class  = "postcode hover:text-white"
           to     = "https://bit.ly/2wwYm3r"
-          target = "_blank"
+          target = "_blank" aria-label="open new window"
         >
           NW1 4RY
         </g-link>
@@ -64,7 +64,7 @@
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/2xspOPI"
-        target = "_blank"
+        target = "_blank" aria-label="open new window"
       >
         More Info
       </g-link>

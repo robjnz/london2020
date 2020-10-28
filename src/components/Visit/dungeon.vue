@@ -15,7 +15,7 @@
       <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span>  The London Dungeon </h1>
-      <g-link href="https://bit.ly/3llJLfG" target="_blank"
+      <g-link href="https://bit.ly/3llJLfG" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "@/images/visit/dungeon.jpg"
@@ -29,7 +29,7 @@
         <g-link
           class  = "postcode hover:text-white"
           to     = "https://bit.ly/3lgGnCG"
-          target = "_blank"
+          target = "_blank" aria-label="open new window"
         >
           SE1 7PB
         </g-link>
@@ -48,7 +48,7 @@
       </h2>
 
  <h2 class="text-2xl event"> Events:</h2>
-      <g-link href="https://bit.ly/30h2Zdn" target="_blank"
+      <g-link href="https://bit.ly/30h2Zdn" target="_blank" aria-label="open new window"
         >
         <g-image
           class = "h-32 w-full object-fill"
@@ -90,7 +90,7 @@ That will whisk you way back to<br /> the capital's most perilous past.
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/3llJLfG"
-        target = "_blank"
+        target = "_blank" aria-label="open new window"
       >
         More Info
       </g-link>

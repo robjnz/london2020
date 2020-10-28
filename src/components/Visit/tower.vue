@@ -15,7 +15,7 @@
       <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span> Tower Of London</h1>
-      <g-link href="http://bit.ly/2OKnQ4U" target="_blank"
+      <g-link href="http://bit.ly/2OKnQ4U" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "@/images/visit/tower.jpg"
@@ -28,7 +28,7 @@
         <g-link
           class  = "postcode hover:text-white"
           to     = "http://bit.ly/38OAXr8"
-          target = "_blank"
+          target = "_blank" aria-label="open new window"
         >
          EC3N 4AB
         </g-link>
@@ -53,7 +53,7 @@
       <g-link
         class  = "postcode hover:text-white"
         to     = "http://bit.ly/2OKnQ4U"
-        target = "_blank"
+        target = "_blank" aria-label="open new window"
       >
         More Info
       </g-link>

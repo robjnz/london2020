@@ -5,7 +5,7 @@
 <!--pick -->
        <h1 class="text-orange-400 text-2xl">
         <span class="text-blue-100" style="font-size: 1em;">
-      <i class="fas fa-thumbs-up"></i>
+      <i aria-hidden="true" role="none" class="fas fa-thumbs-up"></i>
       </span>
        
           Today's top pick of <br />places to visit in London is:
@@ -15,12 +15,12 @@
 
       <h1 class="text-2xl text-blue-200"
         ><span class="text-pink-300">
-          <i class="fas fa-landmark"></i>
+          <i aria-hidden="true" role="none" class="fas fa-landmark"></i>
         </span>
         Alexandra Palace 
 </h1>
 
-      <g-link href="https://bit.ly/2vTGGyw" target="_blank"
+      <g-link href="https://bit.ly/2vTGGyw" target="_blank" aria-label="open new window" 
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1585222919/alexandra_d4foln.jpg"
@@ -33,7 +33,7 @@
         <g-link
           class  = "postcode hover:text-white"
           to     = "https://bit.ly/2xtJORT"
-          target = "_blank"
+          target = "_blank" aria-label="open new window"
         >
            N22 7AY
         </g-link>
@@ -41,7 +41,7 @@
 
        <h2 class="text-2xl event"> Events:</h2>
       
-       <g-link href="https://bit.ly/33bFdBq" target="_blank"
+       <g-link href="https://bit.ly/33bFdBq" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1601366033/driveinclub_vxrkk8.jpg"
@@ -61,12 +61,12 @@
 
       <p class="event">
         <span>
-          <i class="far fa-calendar-alt"></i>
+          <i aria-hidden="true" role="none" class="far fa-calendar-alt"></i>
         </span>
        Monday 12 October 2020<br />
        To<br />
         <span>
-          <i class="far fa-calendar-alt"></i>
+          <i aria-hidden="true" role="none" class="far fa-calendar-alt"></i>
         </span>
        Saturday 31 October 2020<br />
        <br />
@@ -76,19 +76,19 @@
        <br />
        <p class="text-base event">
        <span>
-          <i class="far fa-calendar-alt"></i>
-        </span> Tuesday 27 October 2020 <br />
+          <i aria-hidden="true" role="none" class="far fa-calendar-alt"></i>
+        </span> Wednesday 28 October 2020 <br />
       <!--
         Psycho 2.30pm
         <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Max Winslow & The House Of Secret 1.51 minutes" src="https://www.youtube.com/embed/EesMGylaMfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
         -->
-      The Lost Boys 5.30pm
-      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of The Lost Boys 1.24 minutes" src="https://www.youtube.com/embed/5WlON7r0m7E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      Gremlins 5.30pm
+      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of gremlins 2.01 minutes" src="https://www.youtube.com/embed/XBEVwaJEgaA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
          <br />
-       The Shining 8.30pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of the shining 1.27 minutes" src="https://www.youtube.com/embed/S014oGZiSdI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       The Lighthouse 8.30pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of The Lighthouse 1.45 minutes" src="https://www.youtube.com/embed/Hyag7lR8CPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       
@@ -103,7 +103,7 @@
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/2vTGGyw"
-        target = "_blank"
+        target = "_blank" aria-label="open new window"
       >
         More Info
       </g-link>

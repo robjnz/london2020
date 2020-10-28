@@ -16,7 +16,7 @@
            <i class="fas fa-landmark"></i>
         </span> War Rooms</h1>
 
-      <g-link href="https://bit.ly/2Agb347" target="_blank"
+      <g-link href="https://bit.ly/2Agb347" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "@/images/visit/warrooms.jpg"
@@ -35,7 +35,7 @@
         <g-link
           class  = "postcode hover:text-white"
           to     = "https://bit.ly/2B8o67T"
-          target = "_blank"
+          target = "_blank" aria-label="open new window"
         >
           SW1A 2AQ
         </g-link>
@@ -56,7 +56,7 @@
       <!--events-->
       <h2 class="text-2xl event">Operation black Door</h2>
   
-    <g-link href="https://bit.ly/3cphdxL" target="_blank"
+    <g-link href="https://bit.ly/3cphdxL" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "@/images/visit/temp/blackdoor.jpg"
@@ -97,7 +97,7 @@
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Agb347"
-        target = "_blank"
+        target = "_blank" aria-label="open new window"
       >
         More Info
       </g-link>

@@ -15,7 +15,7 @@
       <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span> Kew Gardens</h1>
-      <g-link href="https://bit.ly/2VmFjRH" target="_blank"
+      <g-link href="https://bit.ly/2VmFjRH" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1586788794/kew_huxnq3.jpg"
@@ -28,7 +28,7 @@
         <g-link
           class  = "postcode hover:text-white"
           to     = "https://bit.ly/2RwJwRw"
-          target = "_blank"
+          target = "_blank" aria-label="open new window"
         >
           TW9 3AE
         </g-link>
@@ -65,7 +65,7 @@ Discover the world of science behind <br />the botanical collections.....
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/2VmFjRH"
-        target = "_blank"
+        target = "_blank" aria-label="open new window"
       >
         More Info
       </g-link>

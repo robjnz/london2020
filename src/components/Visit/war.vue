@@ -15,7 +15,7 @@
       <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span>  Imperial War Museum</h1>
-      <g-link href="https://bit.ly/3hVAwQP" target="_blank"
+      <g-link href="https://bit.ly/3hVAwQP" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1590156939/war_gdlnus.jpg"
@@ -30,7 +30,7 @@
         <g-link
           class  = "postcode hover:text-white"
           to     = "https://bit.ly/3eb7JFQ"
-          target = "_blank"
+          target = "_blank" aria-label="open new window"
         >
           SE1 6HZ
         </g-link>
@@ -47,7 +47,7 @@
 
       </h2>
       <h2 class="text-2xl event"> Events:</h2>
-       <g-link href="https://bit.ly/2Hn1cwG" target="_blank"
+       <g-link href="https://bit.ly/2Hn1cwG" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1601013458/campiwm_ohvx1c.jpg"
@@ -97,7 +97,7 @@
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/3hVAwQP"
-        target = "_blank"
+        target = "_blank" aria-label="open new window"
       >
         More Info
       </g-link>

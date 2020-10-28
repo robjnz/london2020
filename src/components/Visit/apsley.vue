@@ -15,7 +15,7 @@
       <h1 class="text-2xl text-blue-200"><span class="text-pink-300">
            <i class="fas fa-landmark"></i>
         </span>  Apsley House </h1>
-      <g-link href="https://bit.ly/2Dwwijt" target="_blank"
+      <g-link href="https://bit.ly/2Dwwijt" target="_blank" aria-label="open new window"
         ><g-image
           class = "h-32 w-full object-fill"
           src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,/v1596361693/apsley_etjixy.jpg"
@@ -29,7 +29,7 @@
         <g-link
           class  = "postcode hover:text-white"
           to     = "https://bit.ly/3gnjpHh"
-          target = "_blank"
+          target = "_blank" aria-label="open new window"
         >
           W1J 7NT
         </g-link>
@@ -82,7 +82,7 @@ collection of paintings, <br />silver and porcelain <br />many of the items <br 
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/2Dwwijt"
-        target = "_blank"
+        target = "_blank" aria-label="open new window"
       >
         More Info
       </g-link>
