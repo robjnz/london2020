@@ -80,7 +80,7 @@ like Queen Victoria and Princess Diana.
 </article>
 
 <br />
-  <iframe class="h-32 w-full object-fill" src="https://www.youtube.com/embed/BKkE2Wj3xC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allow64screen></iframe>
+  <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of kensington palace 0.30 seconds" src="https://www.youtube.com/embed/BKkE2Wj3xC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allow64screen></iframe>
 
 <br />
       <g-link

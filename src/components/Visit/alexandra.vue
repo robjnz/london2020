@@ -77,18 +77,18 @@
        <p class="text-base event">
        <span>
           <i aria-hidden="true" role="none" class="far fa-calendar-alt"></i>
-        </span> Wednesday 28 October 2020 <br />
+        </span> Thursday 29 October 2020 <br />
       <!--
         Psycho 2.30pm
         <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Max Winslow & The House Of Secret 1.51 minutes" src="https://www.youtube.com/embed/EesMGylaMfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
         -->
-      Gremlins 5.30pm
-      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of gremlins 2.01 minutes" src="https://www.youtube.com/embed/XBEVwaJEgaA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      Ghostbusters 6.00pm
+      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Ghostbusters 2.01 minutes" src="https://www.youtube.com/embed/vntAEVjPBzQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
          <br />
-       The Lighthouse 8.30pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of The Lighthouse 1.45 minutes" src="https://www.youtube.com/embed/Hyag7lR8CPA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       Friday The 13th 9.00pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Friday The 13th 1.45 minutes" src="https://www.youtube.com/embed/uy1R6iXS-mI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       
