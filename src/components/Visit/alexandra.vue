@@ -3,6 +3,7 @@
     <div class="p-6">
 
 <!--pick -->
+
        <h1 class="text-orange-400 text-2xl">
         <span class="text-blue-100" style="font-size: 1em;">
       <i aria-hidden="true" role="none" class="fas fa-thumbs-up"></i>
@@ -11,6 +12,7 @@
           Today's top pick of <br />places to visit in London is:
           
           </h1>
+
   <!--end-->
 
       <h1 class="text-2xl text-blue-200"
@@ -77,18 +79,18 @@
        <p class="text-base event">
        <span>
           <i aria-hidden="true" role="none" class="far fa-calendar-alt"></i>
-        </span> Thursday 29 October 2020 <br />
+        </span> Friday 30 October 2020 <br />
       <!--
         Psycho 2.30pm
         <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Max Winslow & The House Of Secret 1.51 minutes" src="https://www.youtube.com/embed/EesMGylaMfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
         -->
-      Ghostbusters 6.00pm
-      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Ghostbusters 2.01 minutes" src="https://www.youtube.com/embed/vntAEVjPBzQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      The Adams Family 5.30pm
+      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of The Adams Family 1.26 minutes" src="https://www.youtube.com/embed/G388UMkJIBE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
          <br />
-       Friday The 13th 9.00pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Friday The 13th 1.45 minutes" src="https://www.youtube.com/embed/uy1R6iXS-mI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       Relic 9.00pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of relic 2.19 minutes" src="https://www.youtube.com/embed/0TPjZtjsWRU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        </p>
       <br />
       
