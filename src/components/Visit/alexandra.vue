@@ -79,14 +79,14 @@
        <p class="text-base event">
        <span>
           <i aria-hidden="true" role="none" class="far fa-calendar-alt"></i>
-        </span> Friday 30 October 2020 <br />
-      <!--
-        Psycho 2.30pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Max Winslow & The House Of Secret 1.51 minutes" src="https://www.youtube.com/embed/EesMGylaMfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </span> Saturday 31 October 2020 <br />
+      
+       Casper 2.30pm
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of casper 1.55 minutes" src="https://www.youtube.com/embed/BBEB9OSfeCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        <br />
-        -->
-      The Adams Family 5.30pm
-      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of The Adams Family 1.26 minutes" src="https://www.youtube.com/embed/G388UMkJIBE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+      Hocus Pocus 5.30pm
+      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Hocus Pocus 2.02 minutes" src="https://www.youtube.com/embed/F4e6YQFrt1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
          <br />
        Relic 9.00pm
@@ -102,6 +102,7 @@
   </div>
   <label class="read-more-alexandra-label postcode hover:text-white" for="read-more-alexandra-1">Read </label>
 </article>
+
       <g-link
         class  = "postcode hover:text-white"
         to     = "https://bit.ly/2vTGGyw"

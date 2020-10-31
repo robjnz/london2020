@@ -47,7 +47,7 @@ Built by John Nash in 1825-27 <br />for George III’s third son.
 <label class="read-more-clarence-label postcode hover:text-white" for="read-more-clarence-1">Read </label>
 </article>
 
-
+        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video of Clarence House 4.37 minutes" src="https://www.youtube.com/embed/6TfKtSSmv8Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
       <g-link
