@@ -2,7 +2,7 @@
   <div id="work-card" class="m-4 p-4 w-auto rounded-lg shadow-2xl">
     <div class="p-6">
 
-<!--pick -->
+<!--pick 
 
        <h1 class="text-orange-400 text-2xl">
         <span class="text-blue-100" style="font-size: 1em;">
@@ -13,7 +13,7 @@
           
           </h1>
 
-  <!--end-->
+  end-->
 
       <h1 class="text-2xl text-blue-200"
         ><span class="text-pink-300">
@@ -43,57 +43,7 @@
 
        <h2 class="text-2xl event"> Events:</h2>
       
-       <g-link href="https://bit.ly/33bFdBq" target="_blank" aria-label="open new window"
-        ><g-image
-          class = "h-32 w-full object-fill"
-          src   = "https://res.cloudinary.com/dzhbfdfa5/image/upload/v1601366033/driveinclub_vxrkk8.jpg"
-          alt = "Alexandra Palace drive in club poster"
-      /></g-link>
-
-      <h2 class="text-2xl event">Drive in Film Club</h2>
-
-      <h2 class="text-base text-orange-300">
-       Afternoon Screening <br />
-       One Vehicle: £29.50<br />
-       NHS Hero £5.00<br />
-       Evening Screening <br />
-       One Vehicle: £31.50<br />
-      NHS Hero £5.00<br /><br />
-     </h2>
-
-      <p class="event">
-        <span>
-          <i aria-hidden="true" role="none" class="far fa-calendar-alt"></i>
-        </span>
-       Monday 12 October 2020<br />
-       To<br />
-        <span>
-          <i aria-hidden="true" role="none" class="far fa-calendar-alt"></i>
-        </span>
-       Saturday 31 October 2020<br />
-       <br />
-      
-       Films includes a mix of family classics<br /> such as Jurassic Park and Ghostbusters,<br /> cult classics Pulp Fiction.      
-       </p>
-       <br />
-       <p class="text-base event">
-       <span>
-          <i aria-hidden="true" role="none" class="far fa-calendar-alt"></i>
-        </span> Saturday 31 October 2020 <br />
-      
-       Casper 2.30pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of casper 1.55 minutes" src="https://www.youtube.com/embed/BBEB9OSfeCA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-       <br />
-      
-      Hocus Pocus 5.30pm
-      <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of Hocus Pocus 2.02 minutes" src="https://www.youtube.com/embed/F4e6YQFrt1s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
-         <br />
-       Relic 9.00pm
-        <iframe class="h-32 w-full object-fill" aria-label="youtube-video" title="video trailer of relic 2.19 minutes" src="https://www.youtube.com/embed/0TPjZtjsWRU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-       </p>
-      <br />
-      
       <article class="text-blue-200">
   Grade II listed entertainment<br /> and sports venue....... 
   <input id="read-more-alexandra-1" class="read-more-alexandra" type="checkbox">
