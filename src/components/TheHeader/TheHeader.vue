@@ -1,15 +1,15 @@
 <template>
-  <nav class="flex items-center justify-between flex-wrap bg-blue-800 p-6">
+  <nav class="flex items-center justify-between flex-wrap bg-teal-500 p-6">
     <div class="flex items-center flex-shrink-0 text-white mr-6">
-      <!--<svg class="fill-current h-8 w-8 mr-2" width="54" height="54" viewBox="0 0 54 54" xmlns="http://www.w3.org/2000/svg"><path d="M13.5 22.1c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05zM0 38.3c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05z"/></svg>
-    -->
-      <g-image
-        class = ""
-        src   = "@/images/logomask_transparent.png" width = "95"
-        alt   = "visitlondon247 logo"
-      ></g-image>
+      
+       <g-link to="/" aria-label="back to home"
+        ><g-image
+          class = "w-12"
+          src   = "@/images/logotreerobin.svg"  
+          alt   = "logo family tree"
+      /></g-link>
       <span class="font-semibold text-2xl tracking-tight"
-        ><g-link class="hover:text-red-500" to="/">London</g-link>
+        ><g-link class="hover:text-red-500" to="/">Family History</g-link>
       </span>
     </div>
     <div aria-label="menu" class="block lg:hidden">
@@ -23,82 +23,63 @@
 
     <div :class="isOpen ? 'block': 'hidden' " class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
       <div class="text-lg lg:flex-grow">
-        <g-link
+       
+
+      
+      </div>
+
+      <div>
+
+          <g-link
           to    = "/"
-          class = "block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
-        >
-          Home
-        </g-link>
-
-        <g-link
-          to    = "/visit"
-          class = "block mt-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white mr-4"
-        >
-          Places to Visit
-        </g-link>
-        
-        <g-link
-          to    = "/theatres"
           class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
-        > Threatres
+        > Home
           
         </g-link>
-
-        <g-link
-          to    = "/nightclubs"
+          <g-link
+          to    = "/general"
           class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
-        > Nightclubs
-          
-        </g-link>
-        
-        <g-link
-          to    = "/football"
-          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
-        > Football
+        > General
           
         </g-link>
 
          <g-link
-          to    = "/rugby"
+          to    = "/australasia"
           class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
-        > Rugby
+        > Australasia
           
         </g-link>
+        <g-link
+          to    = "/europe"
+          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
+        > Europe
+          
+        </g-link>
+        
+         <g-link
+          to    = "/northamerica"
+          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
+        > North America
+          
+        </g-link>
+      <g-link
+          to    = "/shoah"
+          class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
+        > Shoah
+          
+        </g-link>
+      </div>
 
-          <g-link
+       <g-link
           to    = "/contact"
           class = "block mt-4 mr-4 lg:inline-block lg:mt-0 text-teal-200 hover:text-white"
         > Contact
           
         </g-link>
-      </div>
-
-      <div>
-        <!--  <g-link to="/" class="m-1 inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Home</g-link>
-
-            <g-link to="/visit" class="m-1 inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Places to Visit</g-link>
-
-            <g-link to="/test" class="m-1 inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Sport</g-link>
-
-      <a href="#" class="m-1 inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-transparent hover:text-teal-500 hover:bg-white mt-4 lg:mt-0">Download</a>
-    -->
-      </div>
  
 
 
-     <!-- Begin FusionBot.com site search engine code -->
-      <div aria-label="search box" class="text-blue-200">
-<form name="fbsearch" method="get" action="https://ss245.fusionbot.com/b/q" target="_blank" style="margin:0;">
-  <div align="left"><font size="2" face="arial"><a href="https://www.fusionbot.com" target="_blank">Site Search</a>:</font><br />
-  <input class="text-black text-center" type="text" name="keys" size="15">
-  <input class="text-blue-800" type="submit" value="GO"><br />
-  <font face="arial" size="1"><a href="https://ss245.fusionbot.com/b/h?sn=166039041">search tips</a></font> 
-  <font face="arial" size="1"><a href="https://ss245.fusionbot.com/b/s?sn=166039041">sitemap</a></font>
-  <input type="hidden" name="sitenbr" value="166039041">
-  </div>
-</form> 
-</div>
-<!--End FusionBot.com site search engine code -->
+   
     </div>
 
   </nav>

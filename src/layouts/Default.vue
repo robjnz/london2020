@@ -23,8 +23,8 @@ body {
   margin       : 0 auto;
   padding-left : 2px;
   padding-right: 2px;
-  background   : #242943;
-  color        : #ebf8ff;
+  background   : #b2f5ea;
+  color        : black;
   font-size    : 15;
 
 }
@@ -94,12 +94,23 @@ color: #1A8c97;
             border-radius: 0.2rem;
             color        : #00ff7f;
             font-size    : medium;
+            
+}
+
+
+#home-page {
+           
+            padding      : 1rem;
+            color        : black;
+            font-size    : medium;
+            
 }
 #work-card {
   box-shadow: 0px 0px 20px rgba(0, 0, 0.1);
+  background:  #38b2ac;
 }
 #background{
-    background: #242943;
+    background: #b2f5ea;
 }
 .postcode{
 color     : #68d391;
@@ -109,6 +120,31 @@ color     : #68d391;
 .event{
 color     : #4fd1c5;
 
+}
+
+.page-title{
+
+  @apply text-5xl;
+}
+
+
+.content {
+
+	p {
+		@apply mb-8;
+
+		&:first-child {
+			@apply border-b-4 border-gray-200 text-2xl pb-10 mb-10 font-light leading-snug text-gray-800;
+
+			@screen md {
+                @apply text-3xl;
+            }
+		}
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    @apply font-bold leading-tight mt-0 mb-6 text-purple-900;
 }
 
 

@@ -1,5 +1,5 @@
 <template>
-<div class="p-2 bg-blue-800 w-full h-full flex justify-around">
+<div class="p-2 bg-teal-500 w-full h-full flex justify-around">
    <g-link href="https://bit.ly/3fW92ZK" target="_blank"
       ><g-image
         src = "https://res.cloudinary.com/dzhbfdfa5/image/upload/c_scale,h_40,w_40/v1557874167/twitter_i92pn9.png"

@@ -1,58 +1,68 @@
 <template>
-<Layout>
-  <section class="container m-auto text-4xl text-blue-300">
-<br />
-<form action="https://usebasin.com/f/cd732aa480b9" method="POST">
-<!--
-<form action="https://getform.io/f/b28d0b1c-0650-43d0-a8aa-ae2e7e188dbe" method="POST">
--->
-  <p>
-    <label>Name: <input class="text-black" type="text" name="name" /></label>   
-  </p>
-  <br />
-  <p>
-    <label>Email: <input class="text-black" type="email" name="email" /></label>
-  </p>
- <br />
-  <p>
-    <label>Message: <textarea class="text-black" name="message"></textarea></label>
-  </p>
-  <br />
- <p>
-    <input type="hidden" name="workmailaddress" value="">
-
- </p>
-  <p>
-    <button   class  = "text-blue-300 hover:text-white" type="submit">Send</button>
-  </p>
-</form>
-<br /><br />
-</section>
-
-</Layout>
-  
+  <Layout>
+    <section id="container-centre" class="column centre flex-1">
+      <h1 class="page-title">Contact Us</h1>
+      <div class="content">
+        <p>Tell us how great we are in the form below.</p>
+        <form class="form">
+          <div class="row required">
+            <label for="name">Name</label>
+            <input
+              class="input"
+              id="name"
+              type="text"
+              name="name"
+              autocomplete="name"
+              required
+              aria-required="true"
+            />
+          </div>
+          <div class="row required">
+            <label for="email">Email</label>
+            <input
+              class="input"
+              id="email"
+              type="text"
+              name="email"
+              autocorrect="off"
+              autocapitalize="off"
+              autocomplete="email"
+              required
+              aria-required="true"
+            />
+          </div>
+          <div class="row required">
+            <label for="phone">Phone</label>
+            <input
+              class="input"
+              id="phone"
+              type="text"
+              name="phone"
+              autocomplete="tel"
+              required
+              aria-required="true"
+            />
+          </div>
+          <div class="row">
+            <label for="message">Message</label>
+            <textarea class="textarea" id="message" name="message"></textarea>
+          </div>&nbsp;
+          <div class="row">
+            <button
+              class="inline-block rounded py-4 px-6 text-white font-bold bg-pink-500 hover:bg-pink-600"
+              type="submit"
+            >Send message!</button>
+          </div>
+        </form>
+      </div>
+    </section>
+  </Layout>
 </template>
 
 <script>
-
-
-
 export default {
   metaInfo: {
-    title: "contact",
-    meta : [
-      {
-        name   : "description",
-        content: 
-          "contact me"
-      }
-    ],
-  },
+    title: "Contact"
+  }
 };
 </script>
-
-
-
-  
-
-  
